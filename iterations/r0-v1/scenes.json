@@ -1,0 +1,156 @@
+[
+  {
+    "id": "01",
+    "chapter": "The situation",
+    "title": "A home you want. Money you have.",
+    "learn": "A home has a price; savings are finite.",
+    "transition": "The home enters first. The savings envelope opens beside it after a short hold. No debt terminology yet.",
+    "pacing": "Home and envelope arrive separately; hold until Continue.",
+    "interaction": "Continue, Back and Skip are always available. No financial interaction yet.",
+    "continuity": "Home silhouette and original savings become the purchase context.",
+    "truth": "Price £400,000.00; allocatable savings £100,000.00. Buying costs already set aside outside this illustration."
+  },
+  {
+    "id": "02",
+    "chapter": "Choose the deposit",
+    "title": "Some of your savings become your deposit.",
+    "learn": "The deposit comes out of the same savings you already have.",
+    "transition": "A broad coral ribbon leaves the savings envelope, travels left and becomes the house’s deposit band. The envelope visibly empties by the same amount.",
+    "pacing": "Transit drawing: ribbon is a route, not additional money. Settle into 03; never hold duplicate monetary totals mid-transfer.",
+    "interaction": "Demonstration first. Continue can settle immediately; no compulsory wait.",
+    "continuity": "The ribbon resolves into the deposit boundary used by the calculator.",
+    "truth": "Target deposit £40,000.00. No extra money is created during transfer."
+  },
+  {
+    "id": "03",
+    "chapter": "Choose the deposit",
+    "title": "You choose how much goes in.",
+    "learn": "More deposit means less borrowing AND less money left outside.",
+    "transition": "The ribbon settles. Borrowing fills the rest of the rectangular house body. A handle appears exactly on the shared deposit/borrowing boundary.",
+    "pacing": "Hold indefinitely. After an optional adjustment, Continue follows this chosen deposit into the next experiment.",
+    "interaction": "PROPOSED: drag the boundary; keyboard arrows or exact money entry give the same control. These are drawings, not working controls in R0.",
+    "continuity": "One deposit state controls house fill and retained savings; Skip carries it forward.",
+    "truth": "Deposit £40,000.00; mortgage £360,000.00; retained £60,000.00. Roof is decorative; the rectangular body alone encodes the purchase price."
+  },
+  {
+    "id": "04",
+    "chapter": "More deposit",
+    "title": "Put more in. Borrow less.",
+    "learn": "The extra deposit replaces borrowing pound for pound.",
+    "transition": "Keep the house fixed. Lift its deposit boundary; let the old boundary remain as a dashed reference. The coral route visibly drains the envelope.",
+    "pacing": "One proposed 700 ms transfer, then hold. Illustrative experiment: £40,000.00 to £80,000.00, not a new default.",
+    "interaction": "PROPOSED: Try more makes an explicit comparison branch. Your original choice remains pinned; Back/Skip restores it.",
+    "continuity": "Same house, envelope and deposit handle. Comparison is distinct from the user’s selected state.",
+    "truth": "Example A: £80,000.00 deposit; £320,000.00 mortgage; £20,000.00 retained."
+  },
+  {
+    "id": "05",
+    "chapter": "More deposit",
+    "title": "Less debt to charge interest on.",
+    "learn": "Borrowing less can reduce interest costs with the rate and repayment term held fixed.",
+    "transition": "Follow a forest line from the mortgage region out of the house. It becomes an interest-cost trail outside the home. The previous larger trail stays as a dashed outline.",
+    "pacing": "Reframe the debt edge; reveal the shorter trail only after the borrowing change settles. Hold before introducing pricing.",
+    "interaction": "PROPOSED: replay this single cause and effect; no separate exercise.",
+    "continuity": "Debt identity survives. The cost trail can later explain validated interest outputs.",
+    "truth": "Conceptual comparison over the same repayment term. Trail lengths are schematic, not amounts. Interest is never part of the house price."
+  },
+  {
+    "id": "06",
+    "chapter": "More deposit",
+    "title": "Sometimes you cross a pricing threshold.",
+    "learn": "A better mortgage rate is conditional on reaching a deal band, not on every extra pound.",
+    "transition": "The borrowing edge becomes a simple ruler. The marker reaches the fictional 80% borrowing boundary; only then does the attached rate tag turn over.",
+    "pacing": "Two visible moments: marker reaches line, then tag changes. No smoothly decreasing rate animation.",
+    "interaction": "PROPOSED: scrub across a supplied band boundary; retain a keyboard alternative. Real eligibility must come from validated data.",
+    "continuity": "The same borrowing ratio later explains a calculator pricing step.",
+    "truth": "Fictional 80% band example only; no lender offer or numeric rate. 80% means mortgage as a share of the home price. Actual bands may differ."
+  },
+  {
+    "id": "07",
+    "chapter": "More deposit",
+    "title": "Now follow the monthly payment.",
+    "learn": "Less borrowing, and possibly a lower rate, can reduce the required repayment for the same term.",
+    "transition": "The mortgage region leads into a forest payment strip. Keep the original strip’s endpoint as an outline while the current payment retracts.",
+    "pacing": "The house recedes; the payment strip becomes the focal object. Do not add saving labels until its contraction lands.",
+    "interaction": "PROPOSED: optional replay; manual Continue. No auto-advance while someone is exploring.",
+    "continuity": "Payment remains a separate monthly flow, never an opening asset.",
+    "truth": "Conceptual monthly payment; no quoted repayment, no amount or scaled comparison. Same repayment term assumed."
+  },
+  {
+    "id": "08",
+    "chapter": "More deposit",
+    "title": "The same monthly budget has room left.",
+    "learn": "A lower payment leaves more of a fixed mortgage-and-saving budget available for saving.",
+    "transition": "Reveal a fixed outer budget bracket around the payment strip from 07. Its freed space becomes a coral monthly-saving tab. That tab repeats once per month, not on purchase day.",
+    "pacing": "Keep outer endpoints fixed. Shrink forest, expand coral; then one tab steps into the next month. Hold on the split.",
+    "interaction": "PROPOSED: pause, replay or reverse. Saving/investing the surplus is an explicit comparison assumption.",
+    "continuity": "The shared budget and contribution destination can later become inputs; no household affordability claim.",
+    "truth": "Conceptual successor behaviour, unavailable from the current engine. No numeric budget, contribution or investment outcome is claimed."
+  },
+  {
+    "id": "09",
+    "chapter": "Less deposit",
+    "title": "Reverse it. Keep more at the start.",
+    "learn": "The smaller deposit’s advantage is more money available immediately outside the home.",
+    "transition": "Monthly tabs leave. Return to the exact house and envelope from 04. Reverse the coral transfer: deposit falls, borrowing expands, envelope refills.",
+    "pacing": "Use the same route in reverse. Show the retained balance arriving before opening the next idea.",
+    "interaction": "PROPOSED: Try less is a comparison experiment, not an overwrite of the user’s chosen deposit.",
+    "continuity": "Original allocation and selected deposit remain recoverable throughout the story.",
+    "truth": "Example B returns to £40,000.00 deposit; £360,000.00 mortgage; £60,000.00 retained."
+  },
+  {
+    "id": "10",
+    "chapter": "Less deposit",
+    "title": "Outside the home, you still have choices.",
+    "learn": "Retained money is not automatically invested; cash and investments have different roles.",
+    "transition": "The envelope opens into two clearly labelled sleeves. A cash reserve stays in the left sleeve; the optional allocation moves into the right sleeve only by choice.",
+    "pacing": "Preserve the envelope outline while separating the destinations. Introduce uncertainty beside investments, not in fine print.",
+    "interaction": "PROPOSED: choose Keep in cash or Invest some. R0 shows the investment branch only; neither is a recommendation.",
+    "continuity": "Cash and investment destinations retain their meanings in the calculator.",
+    "truth": "Illustrative B: £20,000.00 cash reserve plus £40,000.00 initially invested. Investments can lose value; cash is an alternative."
+  },
+  {
+    "id": "11",
+    "chapter": "Less deposit",
+    "title": "A head start, or more added each month?",
+    "learn": "A smaller deposit can create a larger initial investment; a larger deposit may enable larger monthly additions.",
+    "transition": "Open two labelled lanes sharing one start line. Initial balances are outlined containers. Later additions are small solid tabs at month markers. Show cash reserve separately in both lanes.",
+    "pacing": "Reveal the opening containers first, then monthly tabs. Do not combine them into an unexplained growing total.",
+    "interaction": "PROPOSED: inspect either lane. Neither is selected as a winner. Same monthly funding and surplus destination in both.",
+    "continuity": "Opening allocation and monthly contribution remain separate fields and graphical objects.",
+    "truth": "A: £80,000.00 deposit, £20,000.00 cash, £0.00 initial investment. B: £40,000.00 deposit, £20,000.00 cash, £40,000.00 initial investment. Monthly tab sizes are conceptual, not scaled financial outputs."
+  },
+  {
+    "id": "12",
+    "chapter": "Time & handover",
+    "title": "Then time changes the picture.",
+    "learn": "Debt is repaid; cash and investments can change through contributions and returns.",
+    "transition": "The monthly lane extends into a time rail. Keep three separate tracks: outstanding mortgage, cash and investments. Investment branches extend both upwards and downwards.",
+    "pacing": "Advance one date marker across the same tracks; outline future states rather than invent balances. No crossover or maximum is drawn.",
+    "interaction": "PROPOSED: pause the date marker or scrub it. Every view uses the same selected date.",
+    "continuity": "The time rail becomes the comparison-date control. Opening deposit does not turn into growing equity.",
+    "truth": "Conceptual, not to scale. No balances, probabilities, forecasts or ranked outcome. Future cash and debt depend on supported assumptions."
+  },
+  {
+    "id": "13",
+    "chapter": "Time & handover",
+    "title": "How much down — and when do you compare?",
+    "learn": "Deposit and comparison date answer different questions.",
+    "transition": "Bring the house and envelope back above the time rail. The teaching caption becomes a short question. The deposit handle and date marker gain visible input affordances in place.",
+    "pacing": "Nothing resets. The same selected deposit and date persist; narration controls withdraw. In the illustrated branch, £40,000.00 and 10 years are retained.",
+    "interaction": "PROPOSED: Finish or Skip from any beat lands here with the actual selected deposit, date and cash/investment choice.",
+    "continuity": "House, retained money, deposit boundary and date rail become the familiar instrument.",
+    "truth": "10 years is an illustrative selected comparison horizon, not the mortgage term. R0 contains no calculated result."
+  },
+  {
+    "id": "14",
+    "chapter": "Time & handover",
+    "title": "The story becomes your instrument.",
+    "learn": "The learner is already holding the controls needed to explore the decision.",
+    "transition": "Keep 13’s house, envelope and rail in the same positions. Replace Continue with normal deposit/date inputs and a clear place for validated results to join this scene.",
+    "pacing": "Mode change only: no redirect, no new dashboard, no reset. This is an endpoint sketch, not a settled calculator layout.",
+    "interaction": "PROPOSED: change the same deposit/date; replay the guide without resetting either. Inputs pictured here are not live.",
+    "continuity": "One illustration state and shared semantic components in guided and calculator modes. Advanced plots can join this vocabulary later.",
+    "truth": "The full calculator, result composition, 2D/3D balance, advanced controls and access model remain undecided. No optimum has been calculated."
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "url": "http://127.0.0.1:8768/iterations/r0-v1/",
+  "scope": "Static R0 browser artifact only",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1100,
+      "keyframes": 14,
+      "keyboard": true,
+      "deepLink": true,
+      "overflow": false
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "keyframes": 14,
+      "keyboard": true,
+      "deepLink": true,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "svgTextOverflow": [],
+  "axe": [
+    {
+      "name": "desktop",
+      "violations": []
+    },
+    {
+      "name": "mobile",
+      "violations": []
+    }
+  ],
+  "noJavaScriptFilmstrip": true
+}
