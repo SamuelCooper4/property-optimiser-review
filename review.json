@@ -1,0 +1,12 @@
+{
+  "title": "Property Optimiser — first allocation interaction",
+  "snapshot_date": "2026-10-26",
+  "status": "awaiting_owner_visual_and_comprehension_review",
+  "financial_values": "illustrative_only",
+  "backend_connected": false,
+  "playground": "playground/",
+  "notes": "review-notes.txt",
+  "recordings": ["desktop.webm", "phone.webm"],
+  "images": ["desktop.png", "phone.png", "money-in-motion.png"],
+  "review_scope": "First allocation interaction only. Do not proceed to subsequent educational stages before owner approval."
+}

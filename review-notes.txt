@@ -1,0 +1,62 @@
+PROPERTY OPTIMISER — FIRST ALLOCATION INTERACTION
+Review date: 26 October 2026
+Status: awaiting owner visual and educational comprehension approval.
+
+This page publishes a standalone illustrative frontend experiment, real browser
+recordings and rendered screenshots. It is not the full product or a financial
+recommendation service. No backend or personal financial data is connected.
+
+The owner rejected the earlier four-stage prototype because it felt like static
+financial diagrams with changing labels. The reset asks for one beautiful,
+directly manipulable explanatory animation before further stages are attempted.
+References: Seeing Theory, The Pudding and Nicky Case. The approved Warm Editorial
+language is retained: ivory, forest green, coral, Instrument Sans and a restrained
+serif heading. The old house, rectangular savings container and calculator layout
+are not retained.
+
+THE INTERACTION
+The illustration assumes a GBP 250,000 home and GBP 100,000 in savings.
+Each token represents GBP 1,000. Coral tokens are the buyer's savings; green
+tokens are mortgage borrowing. Turning the coral handle increases or decreases
+the deposit. The same savings tokens travel between retained money and the home.
+Mortgage tokens are replaced as savings arrive. Movement reverses immediately
+when the gesture reverses. The home price stays constant.
+
+The starting balance is GBP 40,000 deposit, GBP 60,000 retained, GBP 210,000
+mortgage. An offline Python Decimal script generates 101 consistent allocations;
+the browser selects records and animates geometry. Deposit plus retained money
+equals total savings. Deposit plus mortgage equals the purchase price.
+There are no rates, repayments, costs, tax, investment returns or eligibility
+claims. The extreme allocations are illustrative, not feasible-purchase advice.
+
+The intended eventual product models retained initial investments and monthly
+savings made possible by lower mortgage repayments. Neither effect is modelled
+in this first allocation interaction. No later educational stage should be
+started until the owner approves this one.
+
+HOW TO REVIEW
+Open playground/ for the interactive experience.
+desktop.webm records real mouse dragging, both directions, rapid reversal, a
+transfer button and keyboard interruption of the optional demonstration.
+phone.webm records emulated browser touch input and intentional cancellation.
+desktop.png and phone.png show the rendered layouts.
+money-in-motion.png is a frame extracted from the phone recording.
+
+Keyboard: arrow keys change deposit by GBP 1,000; Page Up / Page Down by
+GBP 10,000; Home / End reach endpoints. Transfer buttons provide a non-drag
+alternative. Reduced-motion settings select immediate equivalent states.
+
+VERIFICATION AND LIMITS
+The source study passed 2 Decimal dataset tests, 58 preview tests, 5 browser
+checks, TypeScript and its production build. The affected browser checks were
+repeated after final endpoint-copy and preview-server adjustments. These tests
+do not prove visual quality or educational comprehension.
+Phone testing is browser emulation, not a physical-device test.
+
+REVIEW PROMPT
+Review this allocation animation for a novice audience. State which evidence you
+actually inspected. Assess whether the same money visibly moves between retained
+savings and deposit, and whether its relationship to mortgage borrowing is clear.
+Critique direct manipulation, motion choreography, composition, readability and
+mobile behaviour. Separate observed issues from hypotheses. Suggest specific
+visual improvements to this first interaction only.
