@@ -1,0 +1,40 @@
+{
+  "recordings": [
+    {
+      "name": "desktop",
+      "duration": 49.96,
+      "width": 1440,
+      "height": 1100,
+      "sampledSeconds": [
+        5,
+        14,
+        17,
+        23,
+        36,
+        48
+      ],
+      "frameExtraction": "FFmpeg decode of the original browser recording; browser screenshots of seeked video were stale"
+    },
+    {
+      "name": "mobile",
+      "duration": 49.92,
+      "width": 390,
+      "height": 1200,
+      "sampledSeconds": [
+        5,
+        14,
+        17,
+        23,
+        36,
+        48
+      ],
+      "frameExtraction": "FFmpeg decode of the original browser recording; browser screenshots of seeked video were stale"
+    }
+  ],
+  "reviewPage": {
+    "stills": 13,
+    "stillSelection": true,
+    "axeViolations": 0
+  },
+  "resizeRetainsSelection": true
+}

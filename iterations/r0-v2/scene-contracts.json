@@ -1,0 +1,119 @@
+[
+  {
+    "study": "a",
+    "key": "04",
+    "seconds": 0,
+    "title": "04 · The chosen starting point",
+    "learn": "£40,000.00 is in the home; £60,000.00 remains outside. The adjacent interest treatment belongs to the mortgage, not the purchase price.",
+    "persistent_objects": "House, deposit boundary, mortgage and savings envelope.",
+    "interaction": "Play begins the explicit £40,000.00 → £80,000.00 experiment; no personal selection is overwritten."
+  },
+  {
+    "study": "a",
+    "key": "05",
+    "seconds": 5.5,
+    "title": "05 · Borrowing and interest contract together",
+    "learn": "The savings ribbon enters the house. The deposit band expands, borrowing contracts and the attached interest representation shortens under the same rate and term.",
+    "persistent_objects": "The purchase body and attached external interest bracket are unchanged objects.",
+    "interaction": "Pause here; hold the rate and term fixed before introducing the band."
+  },
+  {
+    "study": "a",
+    "key": "06",
+    "seconds": 10.5,
+    "title": "06 · The boundary is on the house",
+    "learn": "A line appears at the existing deposit boundary. The fictional 80% borrowing share is named, then a separate tag turns over to show that a better rate may be available.",
+    "persistent_objects": "Same purchase body, deposit boundary and debt identity; no separate percentage ruler.",
+    "interaction": "Seek across the tag turnover or use Previous/Next; no quoted rate or eligibility claim."
+  },
+  {
+    "study": "a",
+    "key": "07",
+    "seconds": 14.5,
+    "title": "07 · Follow a monthly payment",
+    "learn": "The envelope, interest and threshold explanation withdraw. A labelled monthly-payment slip emerges from the mortgage, attached briefly by a fine line.",
+    "persistent_objects": "The mortgage remains visible; the newly introduced slip explicitly represents a flow, not debt principal.",
+    "interaction": "The same slip continues into the next composition. Pause is immediate."
+  },
+  {
+    "study": "a",
+    "key": "join",
+    "seconds": 17,
+    "title": "07 → 08 · The slip takes its place",
+    "learn": "The payment slip moves down and widens. The house recedes but remains recognisable; no second payment object replaces the first.",
+    "persistent_objects": "Exact same payment rectangle and label nodes.",
+    "interaction": "Drag the review timeline back and forth to examine the join."
+  },
+  {
+    "study": "a",
+    "key": "08",
+    "seconds": 23,
+    "title": "08 · The fixed budget makes the consequence visible",
+    "learn": "Only after the payment settles does the fixed budget bracket appear. Compared with the smaller deposit, payment contracts and the available segment expands inside unchanged endpoints.",
+    "persistent_objects": "Same payment; new budget bracket establishes its funding context.",
+    "interaction": "Outline recalls the smaller-deposit payment. These are schematic monthly amounts, not calculated outputs."
+  },
+  {
+    "study": "a",
+    "key": "flow",
+    "seconds": 27,
+    "title": "08 · A recurring opportunity",
+    "learn": "One available-money tab leaves the budget for the saving/investment destination. This is a monthly opportunity, not cash present on purchase day.",
+    "persistent_objects": "The available segment and its tab share the coral money identity.",
+    "interaction": "Saving/investing is a stated choice. The study stops; it does not accumulate a future result."
+  },
+  {
+    "study": "b",
+    "key": "11-start",
+    "seconds": 2.5,
+    "title": "11a · Opening investment arrives at purchase",
+    "learn": "Both strategies keep the same cash reserve. The smaller-deposit strategy starts with £40,000.00 invested; the larger starts with £0.00.",
+    "persistent_objects": "One investment balance per strategy.",
+    "interaction": "No return, winner or projected balance. The initial label stays visible as historical context."
+  },
+  {
+    "study": "b",
+    "key": "11-arrive",
+    "seconds": 5.5,
+    "title": "11b · Later money enters that same balance",
+    "learn": "The balance follows the date marker. Monthly parcels descend into it and become part of its fill; they do not remain in disconnected pots.",
+    "persistent_objects": "The same container receives opening and monthly contributions.",
+    "interaction": "Schematic parcel sizes distinguish more/less monthly opportunity; not a monetary scale."
+  },
+  {
+    "study": "b",
+    "key": "11",
+    "seconds": 12,
+    "title": "11c · Different timing, one destination",
+    "learn": "The two rows expose the competing starting and recurring contributions. No combined GBP total, return or winner is invented.",
+    "persistent_objects": "One shared timeline; one balance per strategy; equal cash reserve.",
+    "interaction": "Three illustrative monthly arrivals only. The full investment/time model is not built."
+  },
+  {
+    "study": "c",
+    "key": "13",
+    "seconds": 0,
+    "title": "13 · Bring your choice with you",
+    "learn": "The familiar purchase and retained savings remain. Choose £40,000.00, £60,000.00 or £80,000.00 and a comparison horizon before starting the handover.",
+    "persistent_objects": "A single deposit/date state, house, envelope and time rail.",
+    "interaction": "Selectors are real fixed-fixture controls; changing either during motion pauses it immediately."
+  },
+  {
+    "study": "c",
+    "key": "join",
+    "seconds": 3,
+    "title": "13 → 14 · Make room, keep identity",
+    "learn": "The house and envelope regroup as the existing controls travel continuously toward their working positions. Old mobile labels retire before settled labels return.",
+    "persistent_objects": "Same DOM controls and state; no redirect, reset or replacement dashboard.",
+    "interaction": "Pause or reverse the transition. The control path is driven by the same seekable clock."
+  },
+  {
+    "study": "c",
+    "key": "14",
+    "seconds": 6,
+    "title": "14 · The instrument is in your hands",
+    "learn": "The chosen deposit and date remain editable. The opening allocation is explicitly labelled; an uncalculated analysis area joins the scene.",
+    "persistent_objects": "The same financial objects now anchor a possible working composition.",
+    "interaction": "This layout is a handover hypothesis, not a decision about the finished calculator, charts, 3D or access."
+  }
+]

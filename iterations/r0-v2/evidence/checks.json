@@ -1,0 +1,80 @@
+{
+  "url": "http://127.0.0.1:8768/iterations/r0-v2/",
+  "recorded": true,
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1100,
+      "states": 13
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 1000,
+      "states": 13
+    }
+  ],
+  "errors": [],
+  "textOverflow": [],
+  "axe": [
+    {
+      "name": "desktop",
+      "key": "a",
+      "violations": []
+    },
+    {
+      "name": "desktop",
+      "key": "b",
+      "violations": []
+    },
+    {
+      "name": "desktop",
+      "key": "c",
+      "violations": []
+    },
+    {
+      "name": "mobile",
+      "key": "a",
+      "violations": []
+    },
+    {
+      "name": "mobile",
+      "key": "b",
+      "violations": []
+    },
+    {
+      "name": "mobile",
+      "key": "c",
+      "violations": []
+    }
+  ],
+  "behaviour": [
+    {
+      "name": "desktop",
+      "pause": true,
+      "replay": true,
+      "manualInterrupt": true,
+      "keyboard": true,
+      "paymentNodePreserved": true,
+      "depositAndDatePreserved": true,
+      "reducedMotion": true,
+      "accessibleCurrentState": true,
+      "controlsMoveContinuously": true,
+      "selectorFocusInterrupts": true
+    },
+    {
+      "name": "mobile",
+      "pause": true,
+      "replay": true,
+      "manualInterrupt": true,
+      "keyboard": true,
+      "paymentNodePreserved": true,
+      "depositAndDatePreserved": true,
+      "reducedMotion": true,
+      "accessibleCurrentState": true,
+      "controlsMoveContinuously": true,
+      "selectorFocusInterrupts": true
+    }
+  ]
+}
