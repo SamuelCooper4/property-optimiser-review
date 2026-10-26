@@ -76,10 +76,10 @@
     "Final calculator layout, 2D/3D hierarchy, advanced controls and access model remain undecided"
   ],
   "asset_sha256": {
-    "index.html": "0694a9563acab9e73557084e62ae1f6eb6f0f3b035dcb4a75c63fa28651b072d",
+    "index.html": "3526d7cea0a9be3e9b2a4ef3591392b7846ddc3e182b17d136d0ab943567c493",
     "review.js": "d80323f0cd114caed3d2c13ca101099532b1c3d87f11ab7e96e2617aaaaf43b8",
-    "scenes.json": "f8dd4a39165c4d5bbf59187202b5f1011e4a55330d118682f7920640ab040d9d",
-    "style.css": "94c72ea7ccd08ffc8e23c395d9faf17f9a1c44bf19d06663e02254edf01ec5f5",
+    "scenes.json": "fc40e53746efd271a408518d4bee0e721f2964730cfdfed3c62df836a4083104",
+    "style.css": "6546cfd54347e7fb4cc74be0123266c185232bc7051df53f8f513837c0e1acd5",
     "evidence/browser-check.json": "5c9ea543f24334066dccfe49a691db54ad9384fc832a23d13de9e9642e8d0e90",
     "evidence/desktop.png": "74e83b6206149789d5075802eacef645e367fd1ae225aa88bce0c709f4994fc5",
     "evidence/frame-01.png": "e2a283574e47b7e1f28126976102cfe722714dc89a3ef1e47828a753305bcda6",
@@ -139,5 +139,6 @@
     "frames/13.svg": "b88ec6f59c451b8a6e628a535b688cc266e2cdefdf5d2063c96e4f0c5497fcfd",
     "frames/14-mobile.svg": "e2a9451771e2bf4ad6bb29c18bc2306fca78b9d3aaf583de620dc33f17e0f897",
     "frames/14.svg": "9a9e7c98ff0bd5829a7a0d017ed67a50eef2f300ef38d0797adbb843a3c50b4e"
-  }
+  },
+  "hash_basis": "Git-committed artifact bytes, after line-ending normalisation"
 }
