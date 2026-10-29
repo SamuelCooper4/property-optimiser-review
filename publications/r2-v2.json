@@ -1,0 +1,13 @@
+{
+  "iteration": "R2-v2",
+  "source_commit": "7b48350c9032d5b0d604e68852ac9a148f257fc5",
+  "source_branch": "design/m8-r2-v2",
+  "publication_commit": "226167470839c456f2e0ab55253adbf6d45d48d9",
+  "publication_branch": "review/r2-v2",
+  "base_source": "8ffbc5444a3abd7ffc9cd89aa5ecb08ecde35d00",
+  "base_publication": "06293bc2393847732a483cf74e3583fac6981dcb",
+  "url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r2-v2/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r2-v2/review.html",
+  "status": "Owner visual feedback pending",
+  "main_merged": false
+}
