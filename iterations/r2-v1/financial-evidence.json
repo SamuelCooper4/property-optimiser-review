@@ -1,0 +1,360 @@
+{
+  "config": {
+    "version": "r2-fictional-045-040-budget-2026-10-29-v1",
+    "effective_from": "2026-10-29",
+    "property_price_gbp": "400000",
+    "allocatable_cash_gbp": "100000",
+    "baseline_annual_rate": "0.045",
+    "lower_band_annual_rate": "0.04",
+    "threshold_ltv": "0.80",
+    "supported_ltv": "0.90",
+    "term_years": 30,
+    "monthly_budget_gbp": "2000",
+    "minimum_deposit_gbp": 40000,
+    "maximum_deposit_gbp": 100000
+  },
+  "examples": {
+    "40000": {
+      "deposit": "40000.00",
+      "mortgage": "360000.00",
+      "savings": "60000.00",
+      "baseline_interest": "296664.16",
+      "interest": "296664.16",
+      "payment": "1824.07",
+      "available": "175.93",
+      "annual_rate": "0.045",
+      "payment_exact": "1824.0671153731704887643253856197890091400765150231",
+      "available_exact": "175.9328846268295112356746143802109908599234849769",
+      "interest_exact": "296664.16153434137595515713882312404329042754540840",
+      "baseline_interest_exact": "296664.16153434137595515713882312404329042754540840",
+      "rate_label": "4.5%",
+      "ltv_label": "90.00%",
+      "ltv_exact": "0.9",
+      "deposit_fraction": "0.100000000",
+      "savings_fraction": "0.600000000",
+      "interest_width": "1.000000000",
+      "payment_fraction": "0.912033558",
+      "eligible": false,
+      "ledger": [
+        {
+          "source": "cash_savings",
+          "use": "transaction_costs",
+          "amount": "5000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "deposit",
+          "amount": "40000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "retained_cash",
+          "amount": "60000"
+        }
+      ]
+    },
+    "60000": {
+      "deposit": "60000.00",
+      "mortgage": "340000.00",
+      "savings": "40000.00",
+      "baseline_interest": "280182.82",
+      "interest": "280182.82",
+      "payment": "1722.73",
+      "available": "277.27",
+      "annual_rate": "0.045",
+      "payment_exact": "1722.7300534079943504996406419742451752989611530773",
+      "available_exact": "277.2699465920056495003593580257548247010388469227",
+      "interest_exact": "280182.81922687796617987063111072826310762601510775",
+      "baseline_interest_exact": "280182.81922687796617987063111072826310762601510775",
+      "rate_label": "4.5%",
+      "ltv_label": "85.00%",
+      "ltv_exact": "0.85",
+      "deposit_fraction": "0.150000000",
+      "savings_fraction": "0.400000000",
+      "interest_width": "1.000000000",
+      "payment_fraction": "0.861365027",
+      "eligible": false,
+      "ledger": [
+        {
+          "source": "cash_savings",
+          "use": "transaction_costs",
+          "amount": "5000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "deposit",
+          "amount": "60000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "retained_cash",
+          "amount": "40000"
+        }
+      ]
+    },
+    "79999": {
+      "deposit": "79999.00",
+      "mortgage": "320001.00",
+      "savings": "20001.00",
+      "baseline_interest": "263702.30",
+      "interest": "263702.30",
+      "payment": "1621.40",
+      "available": "378.60",
+      "annual_rate": "0.045",
+      "payment_exact": "1621.3980582959164710418691325658836186495378468997",
+      "available_exact": "378.6019417040835289581308674341163813504621531003",
+      "interest_exact": "263702.30098652992957507288772371810271383362488382",
+      "baseline_interest_exact": "263702.30098652992957507288772371810271383362488382",
+      "rate_label": "4.5%",
+      "ltv_label": ">80%",
+      "ltv_exact": "0.8000025",
+      "deposit_fraction": "0.199997500",
+      "savings_fraction": "0.200010000",
+      "interest_width": "1.000000000",
+      "payment_fraction": "0.810699029",
+      "eligible": false,
+      "ledger": [
+        {
+          "source": "cash_savings",
+          "use": "transaction_costs",
+          "amount": "5000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "deposit",
+          "amount": "79999"
+        },
+        {
+          "source": "cash_savings",
+          "use": "retained_cash",
+          "amount": "20001"
+        }
+      ]
+    },
+    "80000": {
+      "deposit": "80000.00",
+      "mortgage": "320000.00",
+      "savings": "20000.00",
+      "baseline_interest": "263701.48",
+      "interest": "229982.42",
+      "payment": "1527.73",
+      "available": "472.27",
+      "annual_rate": "0.04",
+      "payment_exact": "1527.7289454894703756096689410482892486888651052112",
+      "available_exact": "472.2710545105296243903310589517107513111348947888",
+      "interest_exact": "229982.42037620933521948081877738412952799143787047",
+      "baseline_interest_exact": "263701.47691941455640458412339833248292482448480751",
+      "rate_label": "4.0%",
+      "ltv_label": "80.00%",
+      "ltv_exact": "0.8",
+      "deposit_fraction": "0.200000000",
+      "savings_fraction": "0.200000000",
+      "interest_width": "0.872131711",
+      "payment_fraction": "0.763864473",
+      "eligible": true,
+      "ledger": [
+        {
+          "source": "cash_savings",
+          "use": "transaction_costs",
+          "amount": "5000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "deposit",
+          "amount": "80000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "retained_cash",
+          "amount": "20000"
+        }
+      ]
+    },
+    "80001": {
+      "deposit": "80001.00",
+      "mortgage": "319999.00",
+      "savings": "19999.00",
+      "baseline_interest": "263700.65",
+      "interest": "229981.70",
+      "payment": "1527.72",
+      "available": "472.28",
+      "annual_rate": "0.04",
+      "payment_exact": "1527.7241713365157210147451608328484727849629525076",
+      "available_exact": "472.2758286634842789852548391671515272150370474924",
+      "interest_exact": "229981.70168114565956530825789982545020258666289726",
+      "baseline_interest_exact": "263700.65285229918323409535907294686313581534473075",
+      "rate_label": "4.0%",
+      "ltv_label": "<80%",
+      "ltv_exact": "0.7999975",
+      "deposit_fraction": "0.200002500",
+      "savings_fraction": "0.199990000",
+      "interest_width": "0.872131711",
+      "payment_fraction": "0.763862086",
+      "eligible": true,
+      "ledger": [
+        {
+          "source": "cash_savings",
+          "use": "transaction_costs",
+          "amount": "5000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "deposit",
+          "amount": "80001"
+        },
+        {
+          "source": "cash_savings",
+          "use": "retained_cash",
+          "amount": "19999"
+        }
+      ]
+    },
+    "100000": {
+      "deposit": "100000.00",
+      "mortgage": "300000.00",
+      "savings": "0.00",
+      "baseline_interest": "247220.13",
+      "interest": "215608.52",
+      "payment": "1432.25",
+      "available": "567.75",
+      "annual_rate": "0.04",
+      "payment_exact": "1432.2458863963784771340646322327711706458110361354",
+      "available_exact": "567.7541136036215228659353677672288293541889638646",
+      "interest_exact": "215608.51910269625176826326760379762143249197300358",
+      "baseline_interest_exact": "247220.13461195114662929761568593670274202295450691",
+      "rate_label": "4.0%",
+      "ltv_label": "75.00%",
+      "ltv_exact": "0.75",
+      "deposit_fraction": "0.250000000",
+      "savings_fraction": "0E-9",
+      "interest_width": "0.872131711",
+      "payment_fraction": "0.716122943",
+      "eligible": true,
+      "ledger": [
+        {
+          "source": "cash_savings",
+          "use": "transaction_costs",
+          "amount": "5000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "deposit",
+          "amount": "100000"
+        }
+      ]
+    },
+    "79999.99": {
+      "deposit": "79999.99",
+      "mortgage": "320000.01",
+      "savings": "20000.01",
+      "baseline_interest": "263701.49",
+      "interest": "263701.49",
+      "payment": "1621.39",
+      "available": "378.61",
+      "annual_rate": "0.045",
+      "payment_exact": "1621.3930421113491948230250306710731642297627116893",
+      "available_exact": "378.6069578886508051769749693289268357702372883107",
+      "interest_exact": "263701.48516008571013628901104158633912271457620809",
+      "baseline_interest_exact": "263701.48516008571013628901104158633912271457620809",
+      "rate_label": "4.5%",
+      "ltv_label": ">80%",
+      "ltv_exact": "0.800000025",
+      "deposit_fraction": "0.199999975",
+      "savings_fraction": "0.200000100",
+      "interest_width": "1.000000000",
+      "payment_fraction": "0.810696521",
+      "eligible": false,
+      "ledger": [
+        {
+          "source": "cash_savings",
+          "use": "transaction_costs",
+          "amount": "5000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "deposit",
+          "amount": "79999.99"
+        },
+        {
+          "source": "cash_savings",
+          "use": "retained_cash",
+          "amount": "20000.01"
+        }
+      ]
+    },
+    "80000.01": {
+      "deposit": "80000.01",
+      "mortgage": "319999.99",
+      "savings": "19999.99",
+      "baseline_interest": "263701.47",
+      "interest": "229982.41",
+      "payment": "1527.73",
+      "available": "472.27",
+      "annual_rate": "0.04",
+      "payment_exact": "1527.7288977479408290637197032461348409298260836840",
+      "available_exact": "472.2711022520591709362802967538651590701739163160",
+      "interest_exact": "229982.41318925869846293909316860854273473739012077",
+      "baseline_interest_exact": "263701.46867874340267287923575507862672693439340662",
+      "rate_label": "4.0%",
+      "ltv_label": "<80%",
+      "ltv_exact": "0.799999975",
+      "deposit_fraction": "0.200000025",
+      "savings_fraction": "0.199999900",
+      "interest_width": "0.872131711",
+      "payment_fraction": "0.763864449",
+      "eligible": true,
+      "ledger": [
+        {
+          "source": "cash_savings",
+          "use": "transaction_costs",
+          "amount": "5000"
+        },
+        {
+          "source": "cash_savings",
+          "use": "deposit",
+          "amount": "80000.01"
+        },
+        {
+          "source": "cash_savings",
+          "use": "retained_cash",
+          "amount": "19999.99"
+        }
+      ]
+    }
+  },
+  "provenance": {
+    "model_version": "feasibility-v1",
+    "mortgage_rate_curve_version": "r2-fictional-045-040-budget-2026-10-29-v1",
+    "expected_completion_date": "2026-10-29",
+    "purchase_rules": {
+      "model_version": "purchase-rules-v1",
+      "expected_completion_date": "2026-10-29",
+      "stamp_duty_rules_version": "sdlt-england-ni-residential-2025-04-01",
+      "lisa_rules_version": "lisa-first-home-2024-04-06",
+      "stamp_duty_effective_from": "2025-04-01",
+      "lisa_effective_from": "2024-04-06",
+      "stamp_duty_verified_on": "2026-08-29",
+      "lisa_verified_on": "2026-08-29"
+    }
+  },
+  "rows": 60001,
+  "raw_bytes": 9397188,
+  "gzip_bytes": 1734163,
+  "columns": [
+    "deposit",
+    "mortgage",
+    "savings",
+    "baseline_interest",
+    "interest",
+    "payment",
+    "available",
+    "rate_label",
+    "ltv_label",
+    "deposit_fraction",
+    "savings_fraction",
+    "interest_width",
+    "payment_fraction",
+    "eligible"
+  ],
+  "method": "M3 ledger and rate selection; M1 full schedules; Decimal 50; display ROUND_HALF_UP; no frontend finance"
+}

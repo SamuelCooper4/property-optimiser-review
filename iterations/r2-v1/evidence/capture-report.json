@@ -1,0 +1,154 @@
+[
+  {
+    "name": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 1100
+    },
+    "mobileEmulation": false,
+    "speed": 1,
+    "editing": "none",
+    "frames": 4018,
+    "medianFrameMs": 8.30000000000291,
+    "p95FrameMs": 8.400000000001455,
+    "maxFrameMs": 16.699999999999818,
+    "events": [
+      {
+        "label": "initial",
+        "seconds": 0.706
+      },
+      {
+        "label": "first-transfer",
+        "seconds": 1.611
+      },
+      {
+        "label": "lesson-1",
+        "seconds": 6.244
+      },
+      {
+        "label": "fixed-rate-reverse",
+        "seconds": 8.023
+      },
+      {
+        "label": "fixed-rate-forward",
+        "seconds": 12.242
+      },
+      {
+        "label": "lesson-2",
+        "seconds": 16.77
+      },
+      {
+        "label": "pricing-reverse",
+        "seconds": 18.546
+      },
+      {
+        "label": "pricing-forward",
+        "seconds": 22.667
+      },
+      {
+        "label": "lesson-3",
+        "seconds": 27.295
+      },
+      {
+        "label": "payment-reverse",
+        "seconds": 29.076
+      },
+      {
+        "label": "lesson-4",
+        "seconds": 33.6
+      },
+      {
+        "label": "budget-forward",
+        "seconds": 35.956
+      },
+      {
+        "label": "recurring-months",
+        "seconds": 40.685
+      },
+      {
+        "label": "manual-reversal",
+        "seconds": 46.408
+      },
+      {
+        "label": "end",
+        "seconds": 50.686
+      }
+    ]
+  },
+  {
+    "name": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mobileEmulation": true,
+    "speed": 1,
+    "editing": "none",
+    "frames": 4020,
+    "medianFrameMs": 8.30000000000291,
+    "p95FrameMs": 8.400000000001455,
+    "maxFrameMs": 8.600000000002183,
+    "events": [
+      {
+        "label": "initial",
+        "seconds": 0.691
+      },
+      {
+        "label": "first-transfer",
+        "seconds": 1.598
+      },
+      {
+        "label": "lesson-1",
+        "seconds": 6.227
+      },
+      {
+        "label": "fixed-rate-reverse",
+        "seconds": 8.004
+      },
+      {
+        "label": "fixed-rate-forward",
+        "seconds": 12.233
+      },
+      {
+        "label": "lesson-2",
+        "seconds": 16.757
+      },
+      {
+        "label": "pricing-reverse",
+        "seconds": 18.535
+      },
+      {
+        "label": "pricing-forward",
+        "seconds": 22.661
+      },
+      {
+        "label": "lesson-3",
+        "seconds": 27.29
+      },
+      {
+        "label": "payment-reverse",
+        "seconds": 29.07
+      },
+      {
+        "label": "lesson-4",
+        "seconds": 33.589
+      },
+      {
+        "label": "budget-forward",
+        "seconds": 35.884
+      },
+      {
+        "label": "recurring-months",
+        "seconds": 40.612
+      },
+      {
+        "label": "manual-reversal",
+        "seconds": 46.334
+      },
+      {
+        "label": "end",
+        "seconds": 50.436
+      }
+    ]
+  }
+]

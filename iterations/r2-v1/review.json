@@ -1,0 +1,50 @@
+{
+  "gate": "R2",
+  "iteration": "R2-v1",
+  "status": "Owner visual feedback pending",
+  "source_commit": "8ffbc5444a3abd7ffc9cd89aa5ecb08ecde35d00",
+  "source_branch": "design/m8-r2-v1",
+  "accepted_r1_source": "3e894c37f5bb1d0f3bc0cbaef5ac90735e4dd125",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r2-v1/",
+  "assumptions": {
+    "version": "r2-fictional-045-040-budget-2026-10-29-v1",
+    "effective_from": "2026-10-29",
+    "property_price_gbp": "400000",
+    "allocatable_cash_gbp": "100000",
+    "baseline_annual_rate": "0.045",
+    "lower_band_annual_rate": "0.04",
+    "threshold_ltv": "0.80",
+    "supported_ltv": "0.90",
+    "term_years": 30,
+    "monthly_budget_gbp": "2000",
+    "minimum_deposit_gbp": 40000,
+    "maximum_deposit_gbp": 100000
+  },
+  "recordings": [
+    "evidence/desktop.webm",
+    "evidence/mobile.webm"
+  ],
+  "captures": {
+    "desktop": "Chrome 1440x1100",
+    "mobile": "Chrome touch emulation 390x844, not physical phone",
+    "speed": "1x",
+    "editing": "none"
+  },
+  "tests": {
+    "node": 5,
+    "python": 3,
+    "fixture_rows": 60001,
+    "independent_reference": "100-digit Decimal annuity",
+    "browser": "evidence/browser-report.json",
+    "announcement_regression": "forward, backward and reduced-motion chapter changes"
+  },
+  "limits": [
+    "One fictional scenario, whole-pound deposit entry",
+    "Interest uses a separate graphical scale",
+    "No physical-phone, screen-reader or novice study",
+    "Chromium tested, no Safari/Firefox certification",
+    "Author inspected screenshots and decoded video samples; owner motion/comprehension review remains required",
+    "No accumulated savings, investment growth, optimisation or personalised advice"
+  ],
+  "disclaimer": "Illustrative extreme: no cash reserve; buying costs separately funded. Rates are fictional and fixed for the full 30 years. Monthly opportunity is not purchase-day cash."
+}

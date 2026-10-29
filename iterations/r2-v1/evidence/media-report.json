@@ -1,0 +1,108 @@
+[
+  {
+    "name": "desktop",
+    "duration": 50.52,
+    "width": 1440,
+    "height": 1100,
+    "decoded": true,
+    "samples": [
+      [
+        "transfer",
+        3.411
+      ],
+      [
+        "baseline",
+        7.244
+      ],
+      [
+        "rate-transition",
+        17.169999999999998
+      ],
+      [
+        "rate-crossing",
+        24.667
+      ],
+      [
+        "payment-transition",
+        27.695
+      ],
+      [
+        "payment",
+        28.395000000000003
+      ],
+      [
+        "budget-transition",
+        34
+      ],
+      [
+        "budget",
+        34.800000000000004
+      ],
+      [
+        "budget-moving",
+        37.756
+      ],
+      [
+        "recurring",
+        42.985
+      ],
+      [
+        "reversal",
+        47.908
+      ]
+    ]
+  },
+  {
+    "name": "mobile",
+    "duration": 50.44,
+    "width": 390,
+    "height": 844,
+    "decoded": true,
+    "samples": [
+      [
+        "transfer",
+        3.398
+      ],
+      [
+        "baseline",
+        7.227
+      ],
+      [
+        "rate-transition",
+        17.157
+      ],
+      [
+        "rate-crossing",
+        24.661
+      ],
+      [
+        "payment-transition",
+        27.689999999999998
+      ],
+      [
+        "payment",
+        28.39
+      ],
+      [
+        "budget-transition",
+        33.989
+      ],
+      [
+        "budget",
+        34.789
+      ],
+      [
+        "budget-moving",
+        37.684
+      ],
+      [
+        "recurring",
+        42.912
+      ],
+      [
+        "reversal",
+        47.834
+      ]
+    ]
+  }
+]
