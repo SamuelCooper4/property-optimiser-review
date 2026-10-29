@@ -1,0 +1,34 @@
+[
+  {
+    "name": "desktop",
+    "duration": 17.24,
+    "width": 1440,
+    "height": 1100,
+    "samples": [
+      2,
+      3,
+      5,
+      8,
+      10,
+      12,
+      16
+    ],
+    "decoded": true
+  },
+  {
+    "name": "mobile",
+    "duration": 18.12,
+    "width": 390,
+    "height": 844,
+    "samples": [
+      2,
+      3,
+      5,
+      8,
+      10,
+      12,
+      17
+    ],
+    "decoded": true
+  }
+]

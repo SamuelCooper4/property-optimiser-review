@@ -1,0 +1,30 @@
+[
+  {
+    "name": "desktop",
+    "viewport": {
+      "width": 1440,
+      "height": 1100
+    },
+    "mobileEmulation": false,
+    "frames": 1195,
+    "medianFrameMs": 8.300000000000182,
+    "p95FrameMs": 8.400000000000546,
+    "maxFrameMs": 16.700000000000728,
+    "speed": 1,
+    "editing": "none"
+  },
+  {
+    "name": "mobile",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "mobileEmulation": true,
+    "frames": 1196,
+    "medianFrameMs": 8.300000000000182,
+    "p95FrameMs": 8.400000000000546,
+    "maxFrameMs": 8.5,
+    "speed": 1,
+    "editing": "none"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "url": "http://127.0.0.1:8771/",
+  "checks": [
+    "desktop: pause/resume, reverse, interruption, capture release, exact entry, keyboard, interest, node identity, no page overflow",
+    "Emulated touch drag",
+    "mobile: pause/resume, reverse, interruption, capture release, exact entry, keyboard, interest, node identity, no page overflow",
+    "Reduced motion: discrete manual states and no flow",
+    "320px and simulated 200% HTML control/text enlargement: no page overflow"
+  ],
+  "errors": [],
+  "axe": [
+    {
+      "name": "desktop",
+      "violations": []
+    },
+    {
+      "name": "mobile",
+      "violations": []
+    }
+  ],
+  "overflows": [
+    {
+      "name": "desktop",
+      "text": []
+    },
+    {
+      "name": "mobile",
+      "text": []
+    }
+  ]
+}

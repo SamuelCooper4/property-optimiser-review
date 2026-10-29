@@ -1,0 +1,30 @@
+{
+  "gate": "R1",
+  "iteration": "R1-v1",
+  "status": "Owner visual review pending",
+  "source_commit": "3e894c37f5bb1d0f3bc0cbaef5ac90735e4dd125",
+  "source_branch": "design/m8-r1-v1",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r1-v1/",
+  "disclaimer": "Fictional illustration; no personal mortgage advice. Costs set aside separately.",
+  "assumptions": {
+    "annual_nominal_rate": "0.045",
+    "fixed_term_years": 30,
+    "fixture_version": "r1-fictional-fixed-045-30y-2026-10-29-v1"
+  },
+  "recordings": [
+    "evidence/desktop.webm",
+    "evidence/mobile.webm"
+  ],
+  "capture": {
+    "desktop": "Chrome 1440x1100",
+    "mobile": "Chrome touch emulation 390x844; not a physical phone",
+    "speed": "1x",
+    "editing": "none"
+  },
+  "limits": [
+    "Whole-pound choices from 40000 to 80000",
+    "Interest hatching has a separate graphical scale",
+    "No novice, physical-device or screen-reader study",
+    "Author inspected stills and sampled decoded frames; no claim of full playback/comprehension acceptance"
+  ]
+}
