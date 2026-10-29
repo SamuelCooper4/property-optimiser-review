@@ -1,0 +1,24 @@
+{
+  "node_tests": 5,
+  "python_tests": 3,
+  "serialized_states": 60001,
+  "full_backend_suite_rerun": false,
+  "reason": "Unchanged engine and numerical/data artifacts; complete independent fixture oracle rerun",
+  "physical_device": false,
+  "main_refs_before_publication": {
+    "source": "974131482705298898f1400e51b68330ca553402",
+    "review": "44acbcf8eebd858914f388ec00b2bfc0823fdad8"
+  },
+  "browser_report_sha256": "eaa602022cc6fc4c810fe34cf713cffb9e5cc1c8fb4bfb444e258c85fcf54b64",
+  "fit_report_sha256": "4d6cf99d149148a58a33fafa1cc0e62391faec4bbace909e3060b448c197c062",
+  "touch_report_sha256": "16e1ddb59cc69b4ad9272bb74e1c1ad51ece1a61162f9cfccf9184e2cd09680d",
+  "access_report_sha256": "6e7aec2f0d62b4fe3bb330fdb3a35a13806bf69ead8272954834eb803b2012d6",
+  "transition_report_sha256": "8329b3ea088ea0be558d3aa51b2875dfea2e84359f487b69b0f97d5ab79da8e7",
+  "preservation_report_sha256": "2468bcfeb971df9acde84573e24b39ec34a687cf52a8dd4b647070ee6dcbbcaf",
+  "capture_report_sha256": "fc6565624092db64705e1ff63522b2ea970f1d223bb15762f3a332a4b191665c",
+  "media_report_sha256": "37724f50b19f221abb9ec07b910673311bdd5cce2e6e88bbb9a062a34676ed14",
+  "recording_playback": {
+    "desktop": "Completed at 1x without error",
+    "mobile": "Completed at 1x without error"
+  }
+}

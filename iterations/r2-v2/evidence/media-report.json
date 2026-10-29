@@ -1,0 +1,122 @@
+[
+  {
+    "name": "desktop",
+    "duration": 49.72,
+    "width": 1280,
+    "height": 720,
+    "decoded": true,
+    "samples": [
+      [
+        "transfer",
+        2.9530000000000003
+      ],
+      [
+        "baseline",
+        6.797
+      ],
+      [
+        "rate-transition",
+        16.766
+      ],
+      [
+        "rate-crossing",
+        24.302
+      ],
+      [
+        "payment-transition",
+        27.336
+      ],
+      [
+        "payment",
+        28.036
+      ],
+      [
+        "budget-transition",
+        33.662
+      ],
+      [
+        "budget",
+        34.462
+      ],
+      [
+        "budget-moving",
+        36.846999999999994
+      ],
+      [
+        "recurring",
+        42.092
+      ],
+      [
+        "reversal",
+        47.038
+      ]
+    ],
+    "playback": {
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "currentTime": 49.72,
+      "elapsedSeconds": 49.734
+    }
+  },
+  {
+    "name": "mobile",
+    "duration": 49.72,
+    "width": 390,
+    "height": 844,
+    "decoded": true,
+    "samples": [
+      [
+        "transfer",
+        2.959
+      ],
+      [
+        "baseline",
+        6.798
+      ],
+      [
+        "rate-transition",
+        16.779
+      ],
+      [
+        "rate-crossing",
+        24.315
+      ],
+      [
+        "payment-transition",
+        27.351
+      ],
+      [
+        "payment",
+        28.051000000000002
+      ],
+      [
+        "budget-transition",
+        33.678
+      ],
+      [
+        "budget",
+        34.478
+      ],
+      [
+        "budget-moving",
+        36.873
+      ],
+      [
+        "recurring",
+        42.12
+      ],
+      [
+        "reversal",
+        47.064
+      ]
+    ],
+    "playback": {
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "currentTime": 49.72,
+      "elapsedSeconds": 49.739
+    }
+  }
+]

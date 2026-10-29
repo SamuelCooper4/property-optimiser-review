@@ -1,0 +1,50 @@
+{
+  "gate": "R2",
+  "iteration": "R2-v2",
+  "status": "Owner visual feedback pending",
+  "source_commit": "7b48350c9032d5b0d604e68852ac9a148f257fc5",
+  "source_branch": "design/m8-r2-v2",
+  "base_r2_v1_source": "8ffbc5444a3abd7ffc9cd89aa5ecb08ecde35d00",
+  "base_r2_v1_publication": "06293bc2393847732a483cf74e3583fac6981dcb",
+  "accepted_r1_source": "3e894c37f5bb1d0f3bc0cbaef5ac90735e4dd125",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r2-v2/",
+  "publication_record": "../../publications/r2-v2.json",
+  "assumptions": {
+    "version": "r2-fictional-045-040-budget-2026-10-29-v1",
+    "effective_from": "2026-10-29",
+    "property_price_gbp": "400000",
+    "allocatable_cash_gbp": "100000",
+    "baseline_annual_rate": "0.045",
+    "lower_band_annual_rate": "0.04",
+    "threshold_ltv": "0.80",
+    "supported_ltv": "0.90",
+    "term_years": 30,
+    "monthly_budget_gbp": "2000",
+    "minimum_deposit_gbp": 40000,
+    "maximum_deposit_gbp": 100000
+  },
+  "recordings": [
+    "evidence/desktop.webm",
+    "evidence/mobile.webm"
+  ],
+  "captures": {
+    "desktop": "Chromium 1280×720",
+    "mobile": "Chromium touch emulation 390×844; not physical phone",
+    "speed": 1,
+    "editing": "none"
+  },
+  "checks": {
+    "node_tests": 5,
+    "python_tests": 3,
+    "independent_oracle_rows": 60001,
+    "default_viewport_cases": 25,
+    "touch_cases": 9,
+    "access_reflow_cases": 3
+  },
+  "limits": [
+    "One fictional scenario; whole-pound entry",
+    "No physical-phone, Safari/Firefox, screen-reader speech or novice study",
+    "200% text, emulated pinch zoom and half-size desktop reflow tested; not browser-UI zoom certification",
+    "No asset accumulation, investment growth, optimisation, personalisation, login, R3 or main merge"
+  ]
+}

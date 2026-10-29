@@ -1,0 +1,56 @@
+{
+  "url": "http://127.0.0.1:8773/",
+  "checks": [
+    "desktop: coordinated k rounding, exact stopped values, conserved capital, constant house, baseline preserved, threshold both directions, payment/budget results, persistent DOM identity, pause/resume, interruption, reverse/capture, keyboard, exact input, three-month recurrence",
+    "Mobile: real emulated touch events reverse allocation",
+    "mobile: coordinated k rounding, exact stopped values, conserved capital, constant house, baseline preserved, threshold both directions, payment/budget results, persistent DOM identity, pause/resume, interruption, reverse/capture, keyboard, exact input, three-month recurrence",
+    "Reduced motion, dynamic preference, 320px and simulated 200% HTML text enlargement"
+  ],
+  "errors": [],
+  "axe": [
+    {
+      "name": "desktop",
+      "violations": []
+    },
+    {
+      "name": "mobile",
+      "violations": []
+    }
+  ],
+  "overflows": [
+    {
+      "name": "desktop",
+      "text": []
+    },
+    {
+      "name": "mobile",
+      "text": []
+    },
+    {
+      "name": "reduced",
+      "text": []
+    },
+    {
+      "name": "320px",
+      "text": []
+    }
+  ],
+  "transport": [
+    [
+      {
+        "name": "http://127.0.0.1:8773/fixtures.json.gz",
+        "duration": 39,
+        "transferSize": 1734463,
+        "decodedBodySize": 9397188
+      }
+    ],
+    [
+      {
+        "name": "http://127.0.0.1:8773/fixtures.json.gz",
+        "duration": 36.20000000111759,
+        "transferSize": 1734463,
+        "decodedBodySize": 9397188
+      }
+    ]
+  ]
+}
