@@ -1,0 +1,77 @@
+{
+  "physicalDevice": false,
+  "cases": [
+    {
+      "reduced": false,
+      "keyboardDates": true,
+      "pauseReplay": true,
+      "backwardContinuity": true,
+      "depositPreserved": true,
+      "zeroOpeningContributions": true,
+      "domIdentity": true
+    },
+    {
+      "reduced": true,
+      "keyboardDates": true,
+      "pauseReplay": true,
+      "backwardContinuity": true,
+      "depositPreserved": true,
+      "zeroOpeningContributions": true,
+      "domIdentity": true
+    },
+    {
+      "interruptChapter": "replay",
+      "completeScene": true
+    },
+    {
+      "interruptChapter": "range",
+      "completeScene": true
+    },
+    {
+      "staleDateDiscarded": true
+    }
+  ],
+  "axe": [
+    {
+      "reduced": false,
+      "stage": 5,
+      "violations": []
+    },
+    {
+      "reduced": false,
+      "stage": 6,
+      "violations": []
+    },
+    {
+      "reduced": false,
+      "stage": 7,
+      "violations": []
+    },
+    {
+      "reduced": false,
+      "stage": 8,
+      "violations": []
+    },
+    {
+      "reduced": true,
+      "stage": 5,
+      "violations": []
+    },
+    {
+      "reduced": true,
+      "stage": 6,
+      "violations": []
+    },
+    {
+      "reduced": true,
+      "stage": 7,
+      "violations": []
+    },
+    {
+      "reduced": true,
+      "stage": 8,
+      "violations": []
+    }
+  ],
+  "errors": []
+}

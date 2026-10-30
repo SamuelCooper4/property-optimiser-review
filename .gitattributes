@@ -1,2 +1,4 @@
 iterations/r2-v1/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 iterations/r2-v2/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+iterations/r3-v1/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+iterations/r3-v1/fonts/OFL.txt -text -whitespace

@@ -1,0 +1,426 @@
+{
+  "metadata": {
+    "version": "r3-authored-path-2026-10-30-v1",
+    "effective_from": "2026-10-30",
+    "months": [
+      0,
+      12,
+      36,
+      60,
+      120,
+      240,
+      360
+    ],
+    "columns": [
+      "cash_value",
+      "cash_interest",
+      "contributions",
+      "investment_change",
+      "investment_value",
+      "debt"
+    ],
+    "status": "illustrative interface data; not successor-model validation",
+    "annual_cash_rate": "0.02",
+    "annual_investment_path": [
+      "0.04",
+      "-0.18",
+      "-0.06",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04"
+    ],
+    "allocation": "50% opening cash, 50% opening investment; all monthly capacity invested at month end",
+    "source": "Agent-authored design scenario under owner authorisation; no market estimate",
+    "validated": "Debt and payment: unchanged M1 engine, 30 years; cash growth primitive: unchanged M4",
+    "illustrative": "Allocation, contribution accumulation, investment path and gains/losses; no tax, fees, inflation, rate reset or withdrawals",
+    "precision": "Decimal 50; display ROUND_HALF_UP; displayed change is rounded total minus displayed capital and contributions",
+    "engine_source_commit": "7b48350c9032d5b0d604e68852ac9a148f257fc5",
+    "mortgage_assumptions_version": "r2-fictional-045-040-budget-2026-10-29-v1"
+  },
+  "examples": {
+    "40000": [
+      {
+        "initial_cash": "30000.00",
+        "initial_investment": "30000.00",
+        "cash_value": "30000.00",
+        "cash_interest": "0.00",
+        "contributions": "0.00",
+        "investment_change": "0.00",
+        "investment_value": "30000.00",
+        "debt": "360000.00"
+      },
+      {
+        "initial_cash": "30000.00",
+        "initial_investment": "30000.00",
+        "cash_value": "30600.00",
+        "cash_interest": "600.00",
+        "contributions": "2111.19",
+        "investment_change": "1238.44",
+        "investment_value": "33349.63",
+        "debt": "354192.38"
+      },
+      {
+        "initial_cash": "30000.00",
+        "initial_investment": "30000.00",
+        "cash_value": "31836.24",
+        "cash_interest": "1836.24",
+        "contributions": "6333.58",
+        "investment_change": "-6760.26",
+        "investment_value": "29573.32",
+        "debt": "341764.49"
+      },
+      {
+        "initial_cash": "30000.00",
+        "initial_investment": "30000.00",
+        "cash_value": "33122.42",
+        "cash_interest": "3122.42",
+        "contributions": "10555.97",
+        "investment_change": "-4184.23",
+        "investment_value": "36371.74",
+        "debt": "328168.50"
+      },
+      {
+        "initial_cash": "30000.00",
+        "initial_investment": "30000.00",
+        "cash_value": "36569.83",
+        "cash_interest": "6569.83",
+        "contributions": "21111.95",
+        "investment_change": "4782.89",
+        "investment_value": "55894.84",
+        "debt": "288321.97"
+      },
+      {
+        "initial_cash": "30000.00",
+        "initial_investment": "30000.00",
+        "cash_value": "44578.42",
+        "cash_interest": "14578.42",
+        "contributions": "42223.89",
+        "investment_change": "36322.77",
+        "investment_value": "108546.66",
+        "debt": "176003.00"
+      },
+      {
+        "initial_cash": "30000.00",
+        "initial_investment": "30000.00",
+        "cash_value": "54340.85",
+        "cash_interest": "24340.85",
+        "contributions": "63335.84",
+        "investment_change": "93148.37",
+        "investment_value": "186484.21",
+        "debt": "0.00"
+      }
+    ],
+    "79999": [
+      {
+        "initial_cash": "10000.50",
+        "initial_investment": "10000.50",
+        "cash_value": "10000.50",
+        "cash_interest": "0.00",
+        "contributions": "0.00",
+        "investment_change": "0.00",
+        "investment_value": "10000.50",
+        "debt": "320001.00"
+      },
+      {
+        "initial_cash": "10000.50",
+        "initial_investment": "10000.50",
+        "cash_value": "10200.51",
+        "cash_interest": "200.01",
+        "contributions": "4543.22",
+        "investment_change": "482.73",
+        "investment_value": "15026.45",
+        "debt": "314838.66"
+      },
+      {
+        "initial_cash": "10000.50",
+        "initial_investment": "10000.50",
+        "cash_value": "10612.61",
+        "cash_interest": "612.11",
+        "contributions": "13629.67",
+        "investment_change": "-3725.21",
+        "investment_value": "19904.96",
+        "debt": "303791.61"
+      },
+      {
+        "initial_cash": "10000.50",
+        "initial_investment": "10000.50",
+        "cash_value": "11041.36",
+        "cash_interest": "1040.86",
+        "contributions": "22716.12",
+        "investment_change": "-1750.53",
+        "investment_value": "30966.09",
+        "debt": "291706.25"
+      },
+      {
+        "initial_cash": "10000.50",
+        "initial_investment": "10000.50",
+        "cash_value": "12190.55",
+        "cash_interest": "2190.05",
+        "contributions": "45432.23",
+        "investment_change": "7297.76",
+        "investment_value": "62730.49",
+        "debt": "256286.99"
+      },
+      {
+        "initial_cash": "10000.50",
+        "initial_investment": "10000.50",
+        "cash_value": "14860.22",
+        "cash_interest": "4859.72",
+        "contributions": "90864.47",
+        "investment_change": "47530.85",
+        "investment_value": "148395.82",
+        "debt": "156447.60"
+      },
+      {
+        "initial_cash": "10000.50",
+        "initial_investment": "10000.50",
+        "cash_value": "18114.52",
+        "cash_interest": "8114.02",
+        "contributions": "136296.70",
+        "investment_change": "128904.22",
+        "investment_value": "275201.42",
+        "debt": "0.00"
+      }
+    ],
+    "80000": [
+      {
+        "initial_cash": "10000.00",
+        "initial_investment": "10000.00",
+        "cash_value": "10000.00",
+        "cash_interest": "0.00",
+        "contributions": "0.00",
+        "investment_change": "0.00",
+        "investment_value": "10000.00",
+        "debt": "320000.00"
+      },
+      {
+        "initial_cash": "10000.00",
+        "initial_investment": "10000.00",
+        "cash_value": "10200.00",
+        "cash_interest": "200.00",
+        "contributions": "5667.25",
+        "investment_change": "503.17",
+        "investment_value": "16170.42",
+        "debt": "314364.68"
+      },
+      {
+        "initial_cash": "10000.00",
+        "initial_investment": "10000.00",
+        "cash_value": "10612.08",
+        "cash_interest": "612.08",
+        "contributions": "17001.76",
+        "investment_change": "-4155.96",
+        "investment_value": "22845.80",
+        "debt": "302395.92"
+      },
+      {
+        "initial_cash": "10000.00",
+        "initial_investment": "10000.00",
+        "cash_value": "11040.81",
+        "cash_interest": "1040.81",
+        "contributions": "28336.26",
+        "investment_change": "-1854.59",
+        "investment_value": "36481.67",
+        "debt": "289432.04"
+      },
+      {
+        "initial_cash": "10000.00",
+        "initial_investment": "10000.00",
+        "cash_value": "12189.94",
+        "cash_interest": "2189.94",
+        "contributions": "56672.53",
+        "investment_change": "8967.44",
+        "investment_value": "75639.97",
+        "debt": "252108.67"
+      },
+      {
+        "initial_cash": "10000.00",
+        "initial_investment": "10000.00",
+        "cash_value": "14859.47",
+        "cash_interest": "4859.47",
+        "contributions": "113345.05",
+        "investment_change": "57900.82",
+        "investment_value": "181245.87",
+        "debt": "150894.06"
+      },
+      {
+        "initial_cash": "10000.00",
+        "initial_investment": "10000.00",
+        "cash_value": "18113.62",
+        "cash_interest": "8113.62",
+        "contributions": "170017.58",
+        "investment_change": "157550.82",
+        "investment_value": "337568.40",
+        "debt": "0.00"
+      }
+    ],
+    "80001": [
+      {
+        "initial_cash": "9999.50",
+        "initial_investment": "9999.50",
+        "cash_value": "9999.50",
+        "cash_interest": "0.00",
+        "contributions": "0.00",
+        "investment_change": "0.00",
+        "investment_value": "9999.50",
+        "debt": "319999.00"
+      },
+      {
+        "initial_cash": "9999.50",
+        "initial_investment": "9999.50",
+        "cash_value": "10199.49",
+        "cash_interest": "199.99",
+        "contributions": "5667.31",
+        "investment_change": "503.14",
+        "investment_value": "16169.95",
+        "debt": "314363.70"
+      },
+      {
+        "initial_cash": "9999.50",
+        "initial_investment": "9999.50",
+        "cash_value": "10611.55",
+        "cash_interest": "612.05",
+        "contributions": "17001.93",
+        "investment_change": "-4155.88",
+        "investment_value": "22845.55",
+        "debt": "302394.98"
+      },
+      {
+        "initial_cash": "9999.50",
+        "initial_investment": "9999.50",
+        "cash_value": "11040.26",
+        "cash_interest": "1040.76",
+        "contributions": "28336.55",
+        "investment_change": "-1854.53",
+        "investment_value": "36481.52",
+        "debt": "289431.14"
+      },
+      {
+        "initial_cash": "9999.50",
+        "initial_investment": "9999.50",
+        "cash_value": "12189.33",
+        "cash_interest": "2189.83",
+        "contributions": "56673.10",
+        "investment_change": "8967.50",
+        "investment_value": "75640.10",
+        "debt": "252107.88"
+      },
+      {
+        "initial_cash": "9999.50",
+        "initial_investment": "9999.50",
+        "cash_value": "14858.73",
+        "cash_interest": "4859.23",
+        "contributions": "113346.20",
+        "investment_change": "57901.06",
+        "investment_value": "181246.76",
+        "debt": "150893.58"
+      },
+      {
+        "initial_cash": "9999.50",
+        "initial_investment": "9999.50",
+        "cash_value": "18112.71",
+        "cash_interest": "8113.21",
+        "contributions": "170019.30",
+        "investment_change": "157551.63",
+        "investment_value": "337570.43",
+        "debt": "0.00"
+      }
+    ],
+    "100000": [
+      {
+        "initial_cash": "0.00",
+        "initial_investment": "0.00",
+        "cash_value": "0.00",
+        "cash_interest": "0.00",
+        "contributions": "0.00",
+        "investment_change": "0.00",
+        "investment_value": "0.00",
+        "debt": "300000.00"
+      },
+      {
+        "initial_cash": "0.00",
+        "initial_investment": "0.00",
+        "cash_value": "0.00",
+        "cash_interest": "0.00",
+        "contributions": "6813.05",
+        "investment_change": "124.02",
+        "investment_value": "6937.07",
+        "debt": "294716.89"
+      },
+      {
+        "initial_cash": "0.00",
+        "initial_investment": "0.00",
+        "cash_value": "0.00",
+        "cash_interest": "0.00",
+        "contributions": "20439.15",
+        "investment_change": "-2611.46",
+        "investment_value": "17827.69",
+        "debt": "283496.18"
+      },
+      {
+        "initial_cash": "0.00",
+        "initial_investment": "0.00",
+        "cash_value": "0.00",
+        "cash_interest": "0.00",
+        "contributions": "34065.25",
+        "investment_change": "-631.20",
+        "investment_value": "33434.05",
+        "debt": "271342.54"
+      },
+      {
+        "initial_cash": "0.00",
+        "initial_investment": "0.00",
+        "cash_value": "0.00",
+        "cash_interest": "0.00",
+        "contributions": "68130.49",
+        "investment_change": "10120.56",
+        "investment_value": "78251.05",
+        "debt": "236351.88"
+      },
+      {
+        "initial_cash": "0.00",
+        "initial_investment": "0.00",
+        "cash_value": "0.00",
+        "cash_interest": "0.00",
+        "contributions": "136260.99",
+        "investment_change": "62856.89",
+        "investment_value": "199117.88",
+        "debt": "141463.18"
+      },
+      {
+        "initial_cash": "0.00",
+        "initial_investment": "0.00",
+        "cash_value": "0.00",
+        "cash_interest": "0.00",
+        "contributions": "204391.48",
+        "investment_change": "173638.84",
+        "investment_value": "378030.32",
+        "debt": "0.00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,950 @@
+{
+  "cases": [
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 8,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 8,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 8,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 8,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 8,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 7,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 6,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 5,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 320,
+      "stage": 4,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 8,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 8,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 8,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 8,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 8,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 7,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 6,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 5,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 390,
+      "stage": 4,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 8,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 8,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 8,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 8,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 8,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 7,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 6,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 5,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 0,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 1,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 2,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 3,
+      "outside": [],
+      "collisions": []
+    },
+    {
+      "width": 1280,
+      "stage": 4,
+      "sample": 4,
+      "outside": [],
+      "collisions": []
+    }
+  ],
+  "physicalDevice": false
+}

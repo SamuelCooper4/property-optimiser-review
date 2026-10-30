@@ -1,0 +1,23 @@
+{
+  "base_source": "7b48350c9032d5b0d604e68852ac9a148f257fc5",
+  "protected_paths": [
+    "backend",
+    "api",
+    "frontend",
+    "design/r0-v1",
+    "design/r0-v2",
+    "design/r1-v1",
+    "design/r2-v1",
+    "design/r2-v2"
+  ],
+  "tracked_diff_empty": true,
+  "identical_inherited_files": {
+    "src/state.mjs": "2e5fe95d5868f5fa3d8dfa59cc73e4c0cfba5d983c31df4f459365312cd4d587",
+    "generate_fixtures.py": "e9663afe5ec36de6ee72e48aaa4bf21f64b5692e0ae7301a12bd44ae62339995",
+    "test_fixtures.py": "4fc7635734aa85a3af51acfccb7e8de78cc47193d0aedf7454b117c6fbb20dee",
+    "public/fixtures.json.gz": "30ec3d271ab1b1475855b331150eb6e4310eb8d26e526dd993f0b314b228aa0d",
+    "public/financial-evidence.json": "80ea75dc0238c59870db736cbaf8c616faeb01eb36c185611342316e6c27bb2f"
+  },
+  "engine_changed": false,
+  "illustrative_data_added": true
+}

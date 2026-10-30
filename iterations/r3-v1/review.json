@@ -1,0 +1,27 @@
+{
+  "iteration": "R3-v1",
+  "gate": "R3",
+  "status": "Owner visual feedback pending",
+  "source_commit": "5ec7a65da8aab79513f47764d67f48194e107b0b",
+  "source_branch": "design/m8-r3-v1",
+  "base_source": "7b48350c9032d5b0d604e68852ac9a148f257fc5",
+  "preserved_r2_v2_publication": "226167470839c456f2e0ab55253adbf6d45d48d9",
+  "fixture_version": "r3-authored-path-2026-10-30-v1",
+  "publication_record": "../../publications/r3-v1.json",
+  "checks": {
+    "python_tests": 6,
+    "node_tests": 6,
+    "legacy_rows": 60001,
+    "illustrative_snapshots": 420007,
+    "lesson_viewport_cases": 45,
+    "touch_cases": 9,
+    "access_reflow_cases": 3,
+    "new_transition_samples": 135
+  },
+  "limits": [
+    "Illustrative future-model data, not validated successor results",
+    "Chromium emulation, not physical-phone testing",
+    "No novice comprehension study or owner visual acceptance",
+    "No R4, production engine, optimisation or main merge"
+  ]
+}

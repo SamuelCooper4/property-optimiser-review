@@ -1,0 +1,95 @@
+{
+  "physicalDevice": false,
+  "cases": [
+    {
+      "width": 390,
+      "height": 844,
+      "stage": 0,
+      "nearDividerOffsetCSSPx": 18,
+      "rapidReversal": true,
+      "outsideRelease": true,
+      "cancellation": true,
+      "scrollUnchanged": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "stage": 2,
+      "nearDividerOffsetCSSPx": 18,
+      "rapidReversal": true,
+      "outsideRelease": true,
+      "cancellation": true,
+      "scrollUnchanged": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "stage": 4,
+      "nearDividerOffsetCSSPx": 18,
+      "rapidReversal": true,
+      "outsideRelease": true,
+      "cancellation": true,
+      "scrollUnchanged": true
+    },
+    {
+      "width": 390,
+      "height": 664,
+      "stage": 0,
+      "nearDividerOffsetCSSPx": 18,
+      "rapidReversal": true,
+      "outsideRelease": true,
+      "cancellation": true,
+      "scrollUnchanged": true
+    },
+    {
+      "width": 390,
+      "height": 664,
+      "stage": 2,
+      "nearDividerOffsetCSSPx": 18,
+      "rapidReversal": true,
+      "outsideRelease": true,
+      "cancellation": true,
+      "scrollUnchanged": true
+    },
+    {
+      "width": 390,
+      "height": 664,
+      "stage": 4,
+      "nearDividerOffsetCSSPx": 18,
+      "rapidReversal": true,
+      "outsideRelease": true,
+      "cancellation": true,
+      "scrollUnchanged": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "stage": 0,
+      "nearDividerOffsetCSSPx": 18,
+      "rapidReversal": true,
+      "outsideRelease": true,
+      "cancellation": true,
+      "scrollUnchanged": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "stage": 2,
+      "nearDividerOffsetCSSPx": 18,
+      "rapidReversal": true,
+      "outsideRelease": true,
+      "cancellation": true,
+      "scrollUnchanged": true
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "stage": 4,
+      "nearDividerOffsetCSSPx": 18,
+      "rapidReversal": true,
+      "outsideRelease": true,
+      "cancellation": true,
+      "scrollUnchanged": true
+    }
+  ]
+}
