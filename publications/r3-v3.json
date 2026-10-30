@@ -1,0 +1,19 @@
+{
+  "iteration": "R3-v3",
+  "status": "Owner visual feedback pending",
+  "source_commit": "0ff5946b82b49e7cdd3eef8f5eddbb6af73a13ae",
+  "source_wrapper_commit": "bb9ebfa93d4e195bb2ec20876b949cba63f77e7f",
+  "source_branch": "design/m8-r3-v3",
+  "publication_asset_commit": "da8cd0ed03d2ed01d718c30b0010c42def9b648a",
+  "publication_branch": "review/r3-v3",
+  "base_source": "8c3d72b2338f6385b8863a9d8f76dbec6847409b",
+  "preserved_r3_v2_source": "231175e71cc227858537d8ba89a28ea8fa3765b2",
+  "preserved_r3_v2_publication": "0582fe35dfa1e27d67cd4d08177b454370296661",
+  "publication_parent": "894f25eda8879f300bd74097f24c4e2ddbe1a5d2",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v3/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v3/review.html",
+  "asset_manifest": "iterations/r3-v3/asset-manifest.json",
+  "packaged_asset_count": 237,
+  "illustrative_fixture_version": "r3-v3-cohorts-2026-10-30-v1",
+  "boundary": "Illustrative interface with five allocation settings and eleven dates; no successor certification, physical-device or novice study; stop for owner visual feedback"
+}
