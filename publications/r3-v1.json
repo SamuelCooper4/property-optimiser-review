@@ -1,0 +1,18 @@
+{
+  "iteration": "R3-v1",
+  "status": "Owner visual feedback pending",
+  "source_commit": "5ec7a65da8aab79513f47764d67f48194e107b0b",
+  "source_wrapper_commit": "5dd137ec632e212701d072ced7901d912894fe35",
+  "source_branch": "design/m8-r3-v1",
+  "publication_asset_commit": "56dbf8a7f317a3e758a278a41a9c3754addd95b0",
+  "publication_branch": "review/r3-v1",
+  "base_source": "7b48350c9032d5b0d604e68852ac9a148f257fc5",
+  "preserved_r2_v2_publication": "226167470839c456f2e0ab55253adbf6d45d48d9",
+  "publication_parent": "1490cfb5260ec8c931ca68230b3d1d147c308dbb",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v1/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v1/review.html",
+  "asset_manifest": "iterations/r3-v1/asset-manifest.json",
+  "packaged_asset_count": 175,
+  "illustrative_fixture_version": "r3-authored-path-2026-10-30-v1",
+  "boundary": "Illustrative interface prototype; production successor implementation and validation later; stop for owner feedback"
+}
