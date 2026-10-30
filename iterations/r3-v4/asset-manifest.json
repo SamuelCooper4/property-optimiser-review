@@ -1,0 +1,85 @@
+{
+  "iteration": "R3-v4",
+  "files": [
+    {
+      "path": "assets/index-B347wjf8.css",
+      "bytes": 12404,
+      "sha256": "e22b8355a4961a1dcfa30fbdc878d006960b81c7d3c4d35e27f4e41d00987271"
+    },
+    {
+      "path": "assets/index-BohKs9cO.js",
+      "bytes": 325004,
+      "sha256": "15f40f89c1a628294cc93b7b71d73b6289e7ccb58a78d8e57a9daefb51e9f8ca"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "facts.json",
+      "bytes": 485823,
+      "sha256": "f757e74c6c5e6ad98d7618d1b8065960bb5414854fa32d23796cb0cf3b41dd92"
+    },
+    {
+      "path": "fonts/InstrumentSans.ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "bytes": 4496,
+      "sha256": "841742d77e5deeaf719ad3f9aaf17891abe4b827a49fc8e1b0558ee59a2b3195"
+    },
+    {
+      "path": "illustration.py",
+      "bytes": 6161,
+      "sha256": "427f52838a390f587fe0b5ed09e3813008b11112fd38e94c1c6a328e148b12e7"
+    },
+    {
+      "path": "index.html",
+      "bytes": 614,
+      "sha256": "68d400d1d67c6a9449e53ae730a96ed13fac925dbe18a28f1c5d8208643a3a2a"
+    },
+    {
+      "path": "provider-worker.mjs",
+      "bytes": 769,
+      "sha256": "207497a0431a9feeb12cb769da22351cc91c343ea0e65245e281f29dcd798c01"
+    },
+    {
+      "path": "review.html",
+      "bytes": 629,
+      "sha256": "980b31bd866504675bec511465683f992e4ee345f3bb0c86b9f221ae0b3aa3cb"
+    },
+    {
+      "path": "runtime/LICENSE.txt",
+      "bytes": 16725,
+      "sha256": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
+    },
+    {
+      "path": "runtime/pyodide-lock.json",
+      "bytes": 120010,
+      "sha256": "3256ffc76388de0e37f4b34d42ab484268d1afc675179ff97b2a5bb14f84ccac"
+    },
+    {
+      "path": "runtime/pyodide.asm.js",
+      "bytes": 1074322,
+      "sha256": "1263f02b5b26099b96112378156f242dd98b39a8201ba7765e5fe3d455c5ce91"
+    },
+    {
+      "path": "runtime/pyodide.asm.wasm",
+      "bytes": 8647684,
+      "sha256": "e2f4ee75b325e35eb31bfb8c613d4dd5098f5502c156a97847686875b5025480"
+    },
+    {
+      "path": "runtime/pyodide.mjs",
+      "bytes": 17616,
+      "sha256": "23213d27e9dacbda6f25f955fb38dabfc40ada082c04ee253047ea5dddcaa3b5"
+    },
+    {
+      "path": "runtime/python_stdlib.zip",
+      "bytes": 2423989,
+      "sha256": "4298b6ee445cb724c3973437da47789752b9e6ff4e26619026b283ec801fc46b"
+    }
+  ]
+}
