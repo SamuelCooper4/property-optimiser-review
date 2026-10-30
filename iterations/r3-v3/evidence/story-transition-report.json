@@ -1,0 +1,23 @@
+{
+  "url": "http://127.0.0.1:8794/",
+  "cases": [
+    {
+      "width": 320,
+      "scalePause": true,
+      "comparisonPause": true,
+      "captionsAfterArrival": true
+    },
+    {
+      "width": 390,
+      "scalePause": true,
+      "comparisonPause": true,
+      "captionsAfterArrival": true
+    },
+    {
+      "width": 1280,
+      "scalePause": true,
+      "comparisonPause": true,
+      "captionsAfterArrival": true
+    }
+  ]
+}

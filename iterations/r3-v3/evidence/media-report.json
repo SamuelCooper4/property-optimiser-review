@@ -1,0 +1,28 @@
+[
+  {
+    "name": "desktop",
+    "duration": 39.64,
+    "width": 1280,
+    "height": 720,
+    "decodedFrames": 7,
+    "playback": {
+      "ended": true,
+      "rate": 1,
+      "error": null
+    },
+    "elapsedSeconds": 39.658
+  },
+  {
+    "name": "mobile",
+    "duration": 39.76,
+    "width": 390,
+    "height": 844,
+    "decodedFrames": 7,
+    "playback": {
+      "ended": true,
+      "rate": 1,
+      "error": null
+    },
+    "elapsedSeconds": 39.777
+  }
+]

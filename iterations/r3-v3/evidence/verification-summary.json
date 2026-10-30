@@ -1,0 +1,27 @@
+{
+  "node_tests": 8,
+  "python_tests": 7,
+  "legacy_rows": 60001,
+  "illustrative_rows": 3300055,
+  "preserved_aggregate_fields": 13,
+  "viewport_lessons": 45,
+  "text200_lessons": 45,
+  "lifecycle_modes": [
+    "normal",
+    "reduced"
+  ],
+  "inherited_touch_cases": 9,
+  "access_cases": 3,
+  "backend_passed": 4730,
+  "backend_skips": 0,
+  "backend_warnings": 2,
+  "backend_initial_setup_errors": 169,
+  "backend_initial_issue": "Missing backend/.tmp parent; entire suite rerun after creating it",
+  "ruff": "pass",
+  "mypy_source_files": 53,
+  "physical_devices_tested": false,
+  "spoken_screen_reader_tested": false,
+  "novice_comprehension_tested": false,
+  "owner_accepted": false,
+  "production_successor_validated": false
+}

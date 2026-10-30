@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8794/",
+  "cases": [
+    {
+      "reducedMotion": "no-preference",
+      "emptyRespected": true,
+      "fullTouch": true,
+      "keyboard": true,
+      "potIdentity": true,
+      "growthThenAdditionsThenComparison": true,
+      "loss": true,
+      "pauseArrival": true,
+      "sharedDate": true,
+      "differentContributions": true,
+      "backPreserves": true,
+      "staleDate": true
+    },
+    {
+      "reducedMotion": "reduce",
+      "emptyRespected": true,
+      "fullTouch": true,
+      "keyboard": true,
+      "potIdentity": true,
+      "growthThenAdditionsThenComparison": true,
+      "loss": true,
+      "pauseArrival": true,
+      "sharedDate": true,
+      "differentContributions": true,
+      "backPreserves": true,
+      "staleDate": true
+    }
+  ],
+  "errors": [],
+  "physicalDevice": false
+}

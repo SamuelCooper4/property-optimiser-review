@@ -1,0 +1,46 @@
+{
+  "iteration": "R3-v3",
+  "gate": "R3",
+  "status": "Owner visual feedback pending",
+  "source_commit": "0ff5946b82b49e7cdd3eef8f5eddbb6af73a13ae",
+  "source_branch": "design/m8-r3-v3",
+  "base_source": "8c3d72b2338f6385b8863a9d8f76dbec6847409b",
+  "preserved_tested_r3_v2": "231175e71cc227858537d8ba89a28ea8fa3765b2",
+  "preserved_r3_v2_publication": "0582fe35dfa1e27d67cd4d08177b454370296661",
+  "fixture_version": "r3-v3-cohorts-2026-10-30-v1",
+  "publication_record": "../../publications/r3-v3.json",
+  "checks": {
+    "node_tests": 8,
+    "python_tests": 7,
+    "legacy_rows": 60001,
+    "illustrative_rows": 3300055,
+    "preserved_aggregate_fields": 13,
+    "viewport_lessons": 45,
+    "text200_lessons": 45,
+    "lifecycle_modes": [
+      "normal",
+      "reduced"
+    ],
+    "inherited_touch_cases": 9,
+    "access_cases": 3,
+    "backend_passed": 4730,
+    "backend_skips": 0,
+    "backend_warnings": 2,
+    "backend_initial_setup_errors": 169,
+    "backend_initial_issue": "Missing backend/.tmp parent; entire suite rerun after creating it",
+    "ruff": "pass",
+    "mypy_source_files": 53,
+    "physical_devices_tested": false,
+    "spoken_screen_reader_tested": false,
+    "novice_comprehension_tested": false,
+    "owner_accepted": false,
+    "production_successor_validated": false
+  },
+  "limits": [
+    "Illustrative consistency is not successor validation",
+    "Five allocation settings and eleven discrete dates",
+    "Chromium emulation, not physical devices",
+    "No novice study or owner acceptance",
+    "No R4, production engine or main merge"
+  ]
+}
