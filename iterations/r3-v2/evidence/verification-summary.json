@@ -1,0 +1,23 @@
+{
+  "node_tests": 8,
+  "python_illustration_tests": 5,
+  "legacy_rows": 60001,
+  "illustrative_rows": 3300055,
+  "viewport_lessons": 45,
+  "emulated_deposit_touch_cases": 9,
+  "access_reflow_cases": 3,
+  "comparison_lifecycle_modes": [
+    "normal",
+    "reduced"
+  ],
+  "paused_comparison_transitions": 3,
+  "backend_tests_passed": 4730,
+  "backend_skips": 0,
+  "backend_warnings": "Two optional PyYAML reporting warnings",
+  "ruff": "pass",
+  "mypy_source_files": 53,
+  "production_successor_validated": false,
+  "physical_devices_tested": false,
+  "novice_comprehension_tested": false,
+  "owner_acceptance": false
+}

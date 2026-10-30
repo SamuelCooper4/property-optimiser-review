@@ -1,0 +1,25 @@
+{
+  "url": "http://127.0.0.1:8792/",
+  "speed": 1,
+  "editing": "none",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 720,
+      "durationMs": 48925,
+      "emulatedTouch": false,
+      "file": "desktop.webm"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "durationMs": 48633,
+      "emulatedTouch": true,
+      "file": "mobile.webm"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,41 @@
+{
+  "physicalDevice": false,
+  "cases": [
+    {
+      "name": "phone",
+      "width": 390,
+      "height": 664,
+      "textScale": 1,
+      "panelKeyboard": true,
+      "exactEntry": true,
+      "focusReturn": true,
+      "axeViolations": 0,
+      "pinchZoom": true,
+      "note": ""
+    },
+    {
+      "name": "narrow-text-200",
+      "width": 320,
+      "height": 568,
+      "textScale": 2,
+      "panelKeyboard": true,
+      "exactEntry": true,
+      "focusReturn": true,
+      "axeViolations": 0,
+      "pinchZoom": false,
+      "note": ""
+    },
+    {
+      "name": "desktop-200-reflow",
+      "width": 640,
+      "height": 360,
+      "textScale": 1,
+      "panelKeyboard": true,
+      "exactEntry": true,
+      "focusReturn": true,
+      "axeViolations": 0,
+      "pinchZoom": false,
+      "note": "Half-size CSS layout viewport equivalent to 200% zoom at 1280x720; not browser UI zoom automation"
+    }
+  ]
+}

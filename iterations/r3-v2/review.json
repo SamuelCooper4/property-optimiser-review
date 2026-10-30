@@ -1,0 +1,42 @@
+{
+  "iteration": "R3-v2",
+  "gate": "R3",
+  "status": "Owner visual feedback pending",
+  "source_commit": "231175e71cc227858537d8ba89a28ea8fa3765b2",
+  "source_branch": "design/m8-r3-v2",
+  "base_source": "5dd137ec632e212701d072ced7901d912894fe35",
+  "preserved_tested_r3_v1": "5ec7a65da8aab79513f47764d67f48194e107b0b",
+  "preserved_r3_v1_publication": "56dbf8a7f317a3e758a278a41a9c3754addd95b0",
+  "fixture_version": "r3-v2-choices-2026-10-30-v1",
+  "publication_record": "../../publications/r3-v2.json",
+  "checks": {
+    "node_tests": 8,
+    "python_illustration_tests": 5,
+    "legacy_rows": 60001,
+    "illustrative_rows": 3300055,
+    "viewport_lessons": 45,
+    "emulated_deposit_touch_cases": 9,
+    "access_reflow_cases": 3,
+    "comparison_lifecycle_modes": [
+      "normal",
+      "reduced"
+    ],
+    "paused_comparison_transitions": 3,
+    "backend_tests_passed": 4730,
+    "backend_skips": 0,
+    "backend_warnings": "Two optional PyYAML reporting warnings",
+    "ruff": "pass",
+    "mypy_source_files": 53,
+    "production_successor_validated": false,
+    "physical_devices_tested": false,
+    "novice_comprehension_tested": false,
+    "owner_acceptance": false
+  },
+  "limits": [
+    "Illustrative consistency is not successor validation",
+    "Five allocation settings and eleven discrete dates",
+    "Chromium emulation, not physical devices",
+    "No novice study or owner acceptance",
+    "No R4, production engine or main merge"
+  ]
+}

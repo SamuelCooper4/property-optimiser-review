@@ -1,0 +1,30 @@
+{
+  "url": "http://127.0.0.1:8793/",
+  "cases": [
+    {
+      "reducedMotion": "no-preference",
+      "minBoundary": true,
+      "maximumExplicit": true,
+      "pauseReplay": true,
+      "keyboard": true,
+      "touchAllocation": true,
+      "staleResponse": true,
+      "backPreserves": true,
+      "interruptedEntry": true,
+      "replayAboveEarlierChoice": true
+    },
+    {
+      "reducedMotion": "reduce",
+      "minBoundary": true,
+      "maximumExplicit": true,
+      "pauseReplay": true,
+      "keyboard": true,
+      "touchAllocation": true,
+      "staleResponse": true,
+      "backPreserves": true,
+      "interruptedEntry": true,
+      "replayAboveEarlierChoice": true
+    }
+  ],
+  "physicalDevice": false
+}
