@@ -17,6 +17,166 @@
       "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
     },
     {
+      "path": "evidence/capture-report.json",
+      "bytes": 2496,
+      "sha256": "823eb3e2a98605b8dc5a27e40a8b6d20531df9b07687838aad24f6523e61da7f"
+    },
+    {
+      "path": "evidence/desktop-allocate.png",
+      "bytes": 47847,
+      "sha256": "93b04da45101e18b67f418357404341fb98a25ec1cb9d5a2b4b427b60bf94819"
+    },
+    {
+      "path": "evidence/desktop-contribution.png",
+      "bytes": 48437,
+      "sha256": "895cdee66bf3be7103686c59b8233d3bd371436f0d91a7a6c23a51644e9fc3c6"
+    },
+    {
+      "path": "evidence/desktop-early-years.png",
+      "bytes": 69295,
+      "sha256": "ccde4a19a518a9db15cb217fcf944d84489afa2dc2b55d66ed23224ba92aecbc"
+    },
+    {
+      "path": "evidence/desktop-larger.png",
+      "bytes": 67371,
+      "sha256": "b44c80e60fed019986514a2e503352df1cd816a1babc846e520dc21ea74ae466"
+    },
+    {
+      "path": "evidence/desktop-middle-years.png",
+      "bytes": 75416,
+      "sha256": "65a26d3beec526a22f4987c843342c803883ac1c4a0d4d69bff519bd907dabfc"
+    },
+    {
+      "path": "evidence/desktop-opening.png",
+      "bytes": 42161,
+      "sha256": "d357f9f698ee55585b25ee989ca5afa0eb1fb55565139a534628f494de2d18cb"
+    },
+    {
+      "path": "evidence/desktop-smaller.png",
+      "bytes": 54015,
+      "sha256": "7e7018845b39e7e429e11dfeb713f1d7d4026d156b68ccba5becff992b31b890"
+    },
+    {
+      "path": "evidence/desktop-year30.png",
+      "bytes": 81811,
+      "sha256": "113a70785fe9a2a83fabcd46a4990d0c7c58c1f17056afc996e62d7705cd74fa"
+    },
+    {
+      "path": "evidence/desktop.webm",
+      "bytes": 7845371,
+      "sha256": "a69e55fbd6bc761457947cacf5f56cca79e8d5a233fa1159f5721137c22f2c50"
+    },
+    {
+      "path": "evidence/media-report.json",
+      "bytes": 398,
+      "sha256": "9861e49f05d57c96199a127fe305b35713f52ba6fb992792de35a474d9dff7bb"
+    },
+    {
+      "path": "evidence/mobile-allocate.png",
+      "bytes": 31150,
+      "sha256": "8e7dbb75d78592e797dc7c6bdcf39f577658cb3854b03a9fdf873c1073e06396"
+    },
+    {
+      "path": "evidence/mobile-contribution.png",
+      "bytes": 32128,
+      "sha256": "810c08b261865e9cd52e5849a6f0b7bca3d92a94367f789df0e32a920e957056"
+    },
+    {
+      "path": "evidence/mobile-early-years.png",
+      "bytes": 48422,
+      "sha256": "1aafacaaf1f6e981eb23d23eeeeff2bd3fe57fec64f320fa68e927b51502e3ec"
+    },
+    {
+      "path": "evidence/mobile-larger.png",
+      "bytes": 47464,
+      "sha256": "f0cc0af396cbfc0b6e8e1bdd66f3131be52e8fb2bac689e5534e3f7809b89851"
+    },
+    {
+      "path": "evidence/mobile-middle-years.png",
+      "bytes": 48773,
+      "sha256": "c6c96c1d989d622cee202fa18e235790e30de84083eb577770cf5c8d3ded8ebc"
+    },
+    {
+      "path": "evidence/mobile-opening.png",
+      "bytes": 24943,
+      "sha256": "51d73d2e82692e5c3dd05f7b6982fda434dcb016d6ca597241bcb1d6f9639222"
+    },
+    {
+      "path": "evidence/mobile-smaller.png",
+      "bytes": 38241,
+      "sha256": "df18fcffa3ef5813812db69d18471bd6592a8647258083765b9d182d81fea4ee"
+    },
+    {
+      "path": "evidence/mobile-year30.png",
+      "bytes": 45772,
+      "sha256": "6e07f06a85e0c17da4e37ee60cad2e0f98505ab6a4821f315b2392b299707a2e"
+    },
+    {
+      "path": "evidence/mobile.webm",
+      "bytes": 6513060,
+      "sha256": "50ba509c6697139721ec68957f228bfc9900282a91120ec06757c1e5add92812"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-10s.png",
+      "bytes": 171074,
+      "sha256": "b05d0a2b3e42c3bb812cc21d17baf10762a884bc75787bd0cf06b307594a0aa4"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-18s.png",
+      "bytes": 224172,
+      "sha256": "0474f74d1dcf9d70ebbc17581b1976975e4f37c7b028321576827fb70053b89c"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-35s.png",
+      "bytes": 244281,
+      "sha256": "22f66dcbf2d1111da0cbed09f5149ce0b60b3683aa2c7294b96a2c00fb9032ea"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-4s.png",
+      "bytes": 176896,
+      "sha256": "2675ba949a7102c891e2c49981a7f07280fd347b03a6b1726315268415b96ce2"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-55s.png",
+      "bytes": 254198,
+      "sha256": "e872ad3ed77919af361e466d573c28d11dadc63f491a5b344443893b5d566963"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-75s.png",
+      "bytes": 257766,
+      "sha256": "5ccbc85f25d66a32649ee919a7f285c80ed7c465d9deacda20bb45b392829fda"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-10s.png",
+      "bytes": 114195,
+      "sha256": "93423c73938f949aafa089ff0523d6e5d2487123d26677b44e48e3a95cb055a7"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-18s.png",
+      "bytes": 170080,
+      "sha256": "16f82d04348e2b567231f09765463f7f6395026cd8603434d0c7e64bb60492f6"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-35s.png",
+      "bytes": 195778,
+      "sha256": "c03786daa6d44223cb10101690cbc9d403f374be801190d82cf91b90f79cab24"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-4s.png",
+      "bytes": 114916,
+      "sha256": "42ae72644f5e4aa500db0eb57c91bd97524920c972fa453d5a604f8bf2fab5fa"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-55s.png",
+      "bytes": 200473,
+      "sha256": "d1aa4f5bef27e819e86c5669cd5c1fb02b29268c0efe85a5e93000cb72474c55"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-75s.png",
+      "bytes": 196909,
+      "sha256": "e30cf17618cd1410b91e01f8fbb6a9e27dd5c864fe21eebe1f7e963acd34079f"
+    },
+    {
       "path": "facts.json",
       "bytes": 485823,
       "sha256": "f757e74c6c5e6ad98d7618d1b8065960bb5414854fa32d23796cb0cf3b41dd92"
@@ -48,8 +208,13 @@
     },
     {
       "path": "review.html",
-      "bytes": 629,
-      "sha256": "980b31bd866504675bec511465683f992e4ee345f3bb0c86b9f221ae0b3aa3cb"
+      "bytes": 5957,
+      "sha256": "2ec617c8612aa96418380ba49d1862ab7a48fe32fb93dd54888d1b886fc0b47e"
+    },
+    {
+      "path": "review.json",
+      "bytes": 3187,
+      "sha256": "00dbfa33922ef579d81a1ff4a3e5d7bc158dda3bec2c2d7be32f630e95b46980"
     },
     {
       "path": "runtime/LICENSE.txt",

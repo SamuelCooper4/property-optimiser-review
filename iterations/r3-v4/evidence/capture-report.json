@@ -1,0 +1,109 @@
+{
+  "url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v4/",
+  "recordedDeploymentCommit": "22597099dfac007b5703631f29be8afb491c3e5a",
+  "playbackRate": 1,
+  "editing": "none",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 720,
+      "emulatedMobile": false,
+      "openingInvestment": "15001.00",
+      "watchClicks": 1,
+      "additionalJourneyClicks": 0,
+      "durationMs": 78947,
+      "journeyMs": 74553,
+      "samples": [
+        {
+          "seconds": "4.0094",
+          "month": "0",
+          "cue": "opening"
+        },
+        {
+          "seconds": "6.010000000000024",
+          "month": "1",
+          "cue": "arrival"
+        },
+        {
+          "seconds": "11.028100000000054",
+          "month": "1",
+          "cue": "small"
+        },
+        {
+          "seconds": "16.01269999999998",
+          "month": "1",
+          "cue": "large"
+        },
+        {
+          "seconds": "32.01729999999966",
+          "month": "80",
+          "cue": "run"
+        },
+        {
+          "seconds": "49.01370000000228",
+          "month": "216",
+          "cue": "run"
+        },
+        {
+          "seconds": "68.01900000000552",
+          "month": "360",
+          "cue": "end"
+        }
+      ],
+      "errors": [],
+      "file": "desktop.webm"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedMobile": true,
+      "openingInvestment": "15001.00",
+      "watchClicks": 1,
+      "additionalJourneyClicks": 0,
+      "durationMs": 78936,
+      "journeyMs": 74555,
+      "samples": [
+        {
+          "seconds": "4.000999999999999",
+          "month": "0",
+          "cue": "opening"
+        },
+        {
+          "seconds": "6.009900000000025",
+          "month": "1",
+          "cue": "arrival"
+        },
+        {
+          "seconds": "11.027900000000047",
+          "month": "1",
+          "cue": "small"
+        },
+        {
+          "seconds": "16.012699999999967",
+          "month": "1",
+          "cue": "large"
+        },
+        {
+          "seconds": "32.01719999999964",
+          "month": "80",
+          "cue": "run"
+        },
+        {
+          "seconds": "49.013600000002306",
+          "month": "216",
+          "cue": "run"
+        },
+        {
+          "seconds": "68.01890000000544",
+          "month": "360",
+          "cue": "end"
+        }
+      ],
+      "errors": [],
+      "file": "mobile.webm"
+    }
+  ]
+}
