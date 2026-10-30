@@ -1,0 +1,20 @@
+{
+  "iteration": "R3-v4",
+  "status": "Owner visual feedback pending; no R4 or merge",
+  "source_commit": "a36847f1aa297d2e7c0da2daf87eb0248bcc2762",
+  "source_wrapper_commit": "5151eddf9f7f6f1eabf46225417a15e0803d9577",
+  "source_branch": "design/m8-r3-v4",
+  "publication_asset_commit": "56b121777791cc067270e7b83e65f20462f78669",
+  "publication_branch": "review/r3-v4",
+  "recorded_public_commit": "22597099dfac007b5703631f29be8afb491c3e5a",
+  "recorded_pages_run": 41128691748,
+  "base_source_wrapper": "bb9ebfa93d4e195bb2ec20876b949cba63f77e7f",
+  "preserved_r3_v3_deployment": "5beae56c3da8619345c2ec4c0a33de8150cedc84",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v4/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v4/review.html",
+  "asset_manifest": "iterations/r3-v4/asset-manifest.json",
+  "packaged_asset_count": 49,
+  "illustrative_model_version": "r3-v4-illustration-2026-10-30-v1",
+  "capture": "Uncut normal-speed desktop and emulated mobile; exact GBP 15001; one Watch click; no further journey clicks; month 360",
+  "boundary": "Illustrative interface; no production successor certification, physical-device, Safari/Firefox or novice study; owner visual acceptance pending"
+}
