@@ -1,0 +1,19 @@
+{
+  "iteration": "R3-v2",
+  "status": "Owner visual feedback pending",
+  "source_commit": "231175e71cc227858537d8ba89a28ea8fa3765b2",
+  "source_wrapper_commit": "8c3d72b2338f6385b8863a9d8f76dbec6847409b",
+  "source_branch": "design/m8-r3-v2",
+  "publication_asset_commit": "0582fe35dfa1e27d67cd4d08177b454370296661",
+  "publication_branch": "review/r3-v2",
+  "base_source": "5dd137ec632e212701d072ced7901d912894fe35",
+  "preserved_r3_v1_source": "5ec7a65da8aab79513f47764d67f48194e107b0b",
+  "preserved_r3_v1_publication": "56dbf8a7f317a3e758a278a41a9c3754addd95b0",
+  "publication_parent": "e79c3b798d7615a6be8c5836df793534a09e25e8",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v2/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v2/review.html",
+  "asset_manifest": "iterations/r3-v2/asset-manifest.json",
+  "packaged_asset_count": 226,
+  "illustrative_fixture_version": "r3-v2-choices-2026-10-30-v1",
+  "boundary": "Illustrative interface prototype; production successor validation later; no physical-device or novice study; stop for owner visual feedback"
+}
