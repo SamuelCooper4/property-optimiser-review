@@ -1,0 +1,73 @@
+{
+  "iteration": "R3-v9",
+  "tested_source_commit": "4d596a29857508b02a8defeafecf76b153023bfd",
+  "source_wrapper_commit": "bfd57c040de9fb9010ea80beddabd36c72d66dc2",
+  "publication_asset_commit": "ac123980826c19fb9d9c5c1a11033d8c34c82158",
+  "recorded_source_commit": "fa867e2e2de6f1aac13578a6953378a4246a82ac",
+  "recorded_public_commit": null,
+  "recording_scope": "Local compiled build; application hashes retained and live publication verified separately",
+  "source_branch": "design/m8-r3-v9",
+  "public_branch": "review/r3-v9",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/24",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v9/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v9/review.html",
+  "scenario_version": "r3-v9-teaching-2026-10-31-v1",
+  "model_version": "r3-v9-illustration-2026-10-31-v1",
+  "facts_version": "r3-v9-facts-2026-10-31-v1",
+  "monthly_budget_gbp": "2400.00",
+  "shared_reserve_gbp": "5000.00",
+  "default_deposit_gbp": "60000.00",
+  "default_opening_investment_gbp": "35000.00",
+  "default_final_investment_gbp": "1161837.00",
+  "default_outside_total_gbp": "1166837.00",
+  "backend_tests_passed": 4730,
+  "illustration_tests_passed": 6,
+  "javascript_tests_passed": 3,
+  "worker_parity_cases": 6,
+  "viewport_scene_checks": 60,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 720,
+      "duration": 47.76,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "decodedFrames": 8,
+      "elapsedSeconds": 47.787
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "duration": 47.8,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "decodedFrames": 8,
+      "elapsedSeconds": 47.818
+    }
+  ],
+  "novice_comprehension_tested": false,
+  "physical_device_tested": false,
+  "calculator_available": false,
+  "hosted_source_ci": {
+    "source_commit": "bfd57c040de9fb9010ea80beddabd36c72d66dc2",
+    "check_runs": 0,
+    "workflow_runs": 0,
+    "status": "No hosted source CI run or pass claimed; local verification retained separately"
+  },
+  "preservation": {
+    "base": "9f67ebad8220871cd86bbc9159643db6a5ef18bf",
+    "asset_commit": "ac123980826c19fb9d9c5c1a11033d8c34c82158",
+    "prior_blobs_preserved": 1450,
+    "allowed_existing_changes": [
+      ".gitattributes",
+      "index.html"
+    ],
+    "result": "pass"
+  },
+  "status": "Owner visual feedback pending; no R4 or main merge",
+  "deployment_identity_note": "The deployment is the commit containing this record. Its full SHA and successful Pages receipt are in source PUBLICATION.md; a file cannot contain its own commit hash."
+}
