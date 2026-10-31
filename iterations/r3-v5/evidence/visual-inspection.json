@@ -1,0 +1,20 @@
+{
+  "scope": "Visual inspection of decoded video frames and captured scene screenshots; full 1x playback checked separately by check_media.mjs",
+  "recorded_public_commit": "214da49ff6dc26763999f574b4f5fd89be5f498e",
+  "inspected": [
+    "desktop and mobile at 26 seconds: connected monthly-payment/saving lesson",
+    "desktop and mobile at 30 seconds: explicit switching question with declining deposit and released savings",
+    "mobile at 36 seconds: automatic cash/investment allocation",
+    "mobile at 75 seconds: shared-date comparison with persistent cash and cohort pattern",
+    "desktop and mobile at 115 seconds: both mortgages repaid",
+    "desktop and mobile final quarter-second: exact totals, difference and exploration invitation"
+  ],
+  "extra_frames": {
+    "switch_seconds": 30,
+    "end_seconds_before_eof": 0.25
+  },
+  "desktop_total_spacing": "corrected before these recordings",
+  "physical_device": false,
+  "novice_comprehension": false,
+  "owner_acceptance": "pending"
+}

@@ -1,0 +1,236 @@
+{
+  "url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v5/",
+  "recordedDeploymentCommit": "214da49ff6dc26763999f574b4f5fd89be5f498e",
+  "browser": "156.0.8078.74",
+  "playbackRate": 1,
+  "editing": "none",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 720,
+      "emulatedMobile": false,
+      "openingDeposit": "100000.00",
+      "openingInvestment": "55000.00",
+      "watchClicks": 1,
+      "additionalJourneyClicks": 0,
+      "durationMs": 120776,
+      "journeyMs": 81380,
+      "cues": [
+        {
+          "stage": 1,
+          "elapsedMs": 14942,
+          "sentence": "Borrowing less means less interest to pay."
+        },
+        {
+          "stage": 2,
+          "elapsedMs": 21018,
+          "sentence": "A larger deposit can also unlock a lower mortgage rate."
+        },
+        {
+          "stage": 3,
+          "elapsedMs": 27885,
+          "sentence": "A smaller payment leaves more to save each month."
+        },
+        {
+          "stage": 4,
+          "elapsedMs": 34256,
+          "sentence": "A smaller deposit leaves more money to save or invest from day one."
+        },
+        {
+          "stage": 5,
+          "elapsedMs": 39461,
+          "sentence": "You can keep some in cash and invest some."
+        }
+      ],
+      "samples": [
+        {
+          "seconds": "2.0088999999999975",
+          "month": "0",
+          "cue": "split"
+        },
+        {
+          "seconds": "6.0016999999999845",
+          "month": "0",
+          "cue": "opening"
+        },
+        {
+          "seconds": "9.019200000000021",
+          "month": "1",
+          "cue": "arrival"
+        },
+        {
+          "seconds": "14.012300000000142",
+          "month": "1",
+          "cue": "small"
+        },
+        {
+          "seconds": "20.013900000000096",
+          "month": "1",
+          "cue": "large"
+        },
+        {
+          "seconds": "25.0153",
+          "month": "1",
+          "cue": "tradeoff"
+        },
+        {
+          "seconds": "46.00450000000203",
+          "month": "141",
+          "cue": "run"
+        },
+        {
+          "seconds": "74.51240000000699",
+          "month": "360",
+          "cue": "repaid"
+        },
+        {
+          "seconds": "78.01340000000776",
+          "month": "360",
+          "cue": "end"
+        },
+        {
+          "seconds": "80",
+          "month": "360",
+          "cue": "end"
+        }
+      ],
+      "errors": [],
+      "performance": {
+        "frames": 9723,
+        "medianMs": 8.30000000000291,
+        "p95Ms": 8.400000000008731,
+        "maxMs": 8.60000000000582,
+        "over34ms": 0,
+        "longTasks": [],
+        "metrics": {
+          "LayoutCount": 6850,
+          "RecalcStyleCount": 7534,
+          "LayoutDuration": 0.348123,
+          "RecalcStyleDuration": 0.248256,
+          "DevToolsCommandDuration": 0.013993000000000002,
+          "ScriptDuration": 1.9891480000000001,
+          "V8CompileDuration": 0,
+          "TaskDuration": 5.095259,
+          "TaskOtherDuration": 2.4957390000000004
+        },
+        "scope": "Real-time normal-speed playback with video recording and ten screenshots; no CPU throttle"
+      },
+      "file": "desktop.webm"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedMobile": true,
+      "openingDeposit": "100000.00",
+      "openingInvestment": "55000.00",
+      "watchClicks": 1,
+      "additionalJourneyClicks": 0,
+      "durationMs": 119410,
+      "journeyMs": 81284,
+      "cues": [
+        {
+          "stage": 1,
+          "elapsedMs": 13669,
+          "sentence": "Borrowing less means less interest to pay."
+        },
+        {
+          "stage": 2,
+          "elapsedMs": 19720,
+          "sentence": "A larger deposit can also unlock a lower mortgage rate."
+        },
+        {
+          "stage": 3,
+          "elapsedMs": 26581,
+          "sentence": "A smaller payment leaves more to save each month."
+        },
+        {
+          "stage": 4,
+          "elapsedMs": 32952,
+          "sentence": "A smaller deposit leaves more money to save or invest from day one."
+        },
+        {
+          "stage": 5,
+          "elapsedMs": 38152,
+          "sentence": "You can keep some in cash and invest some."
+        }
+      ],
+      "samples": [
+        {
+          "seconds": "2.008899999999999",
+          "month": "0",
+          "cue": "split"
+        },
+        {
+          "seconds": "6.010099999999998",
+          "month": "0",
+          "cue": "opening"
+        },
+        {
+          "seconds": "9.002600000000035",
+          "month": "1",
+          "cue": "arrival"
+        },
+        {
+          "seconds": "14.003900000000161",
+          "month": "1",
+          "cue": "small"
+        },
+        {
+          "seconds": "20.013900000000074",
+          "month": "1",
+          "cue": "large"
+        },
+        {
+          "seconds": "24.99869999999997",
+          "month": "1",
+          "cue": "tradeoff"
+        },
+        {
+          "seconds": "46.004500000001975",
+          "month": "141",
+          "cue": "run"
+        },
+        {
+          "seconds": "74.49570000000718",
+          "month": "360",
+          "cue": "repaid"
+        },
+        {
+          "seconds": "78.00510000000794",
+          "month": "360",
+          "cue": "end"
+        },
+        {
+          "seconds": "80",
+          "month": "360",
+          "cue": "end"
+        }
+      ],
+      "errors": [],
+      "performance": {
+        "frames": 9720,
+        "medianMs": 8.30000000000291,
+        "p95Ms": 8.400000000008731,
+        "maxMs": 9.099999999998545,
+        "over34ms": 0,
+        "longTasks": [],
+        "metrics": {
+          "LayoutCount": 6850,
+          "RecalcStyleCount": 7433,
+          "LayoutDuration": 0.34075199999999994,
+          "RecalcStyleDuration": 0.250761,
+          "DevToolsCommandDuration": 0.014071999999999998,
+          "ScriptDuration": 1.846832,
+          "V8CompileDuration": 0,
+          "TaskDuration": 4.933586,
+          "TaskOtherDuration": 2.4811690000000004
+        },
+        "scope": "Real-time normal-speed playback with video recording and ten screenshots; no CPU throttle"
+      },
+      "file": "mobile.webm"
+    }
+  ]
+}
