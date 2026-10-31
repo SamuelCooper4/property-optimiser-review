@@ -1,0 +1,168 @@
+{
+  "version": "r3-v7-illustration-2026-10-31-v1",
+  "facts_version": "r3-v7-facts-2026-10-31-v1",
+  "budget_gbp": "2100.00",
+  "budget_exact": "2100",
+  "teaching": {
+    "deposit": 60000,
+    "investment": 100000,
+    "version": "r3-v7-teaching-2026-10-31-v1"
+  },
+  "small": {
+    "deposit": "60000.00",
+    "debt": "340000.00",
+    "retained": "100000.00",
+    "investment": "100000.00",
+    "cash": "5000.00",
+    "rate": "0.055",
+    "rate_label": "5.5%",
+    "ltv": "0.85",
+    "ltv_label": "85%",
+    "ltv_exact_label": "85%",
+    "payment": "1930.48",
+    "contribution": "169.52",
+    "next_threshold": 80000,
+    "rate_comparison": {
+      "principal": "340000.00",
+      "term_months": 360,
+      "old_rate": "0.057462291930297756704304569051232431967669258788645",
+      "old_rate_label": "5.746%",
+      "old_interest": "374000.00",
+      "new_interest": "354973.74",
+      "saving": "19026.26"
+    },
+    "reserve": "5000.00",
+    "interest": "354973.74",
+    "baseline_interest": "354973.74",
+    "deposit_fraction": "0.15",
+    "retained_fraction": "0.625",
+    "payment_fraction": "0.91927743075229046754415828116204781156793335647333",
+    "interest_fraction": "1",
+    "max_investment": 100000
+  },
+  "large": {
+    "deposit": "160000.00",
+    "debt": "240000.00",
+    "retained": "0.00",
+    "investment": "0.00",
+    "cash": "5000.00",
+    "rate": "0.051",
+    "rate_label": "5.1%",
+    "ltv": "0.6",
+    "ltv_label": "60%",
+    "ltv_exact_label": "60%",
+    "payment": "1303.08",
+    "contribution": "796.92",
+    "next_threshold": 160000,
+    "rate_comparison": {
+      "principal": "240000.00",
+      "term_months": 360,
+      "old_rate": "0.052",
+      "old_rate_label": "5.2%",
+      "old_interest": "234431.80",
+      "new_interest": "229108.60",
+      "saving": "5323.20"
+    },
+    "reserve": "5000.00",
+    "interest": "229108.60",
+    "baseline_interest": "250569.70",
+    "deposit_fraction": "0.4",
+    "retained_fraction": "0",
+    "payment_fraction": "0.62051402674332572453641760658369357261530526179462",
+    "interest_fraction": "0.91435080463131162997984119137865226442861322010090",
+    "max_investment": 0
+  },
+  "ledger": [
+    {
+      "source": "cash_after_costs",
+      "use": "deposit",
+      "amount": "60000.00"
+    },
+    {
+      "source": "cash_after_costs",
+      "use": "retained_cash",
+      "amount": "5000.00"
+    },
+    {
+      "source": "cash_after_costs",
+      "use": "investment",
+      "amount": "100000.00"
+    }
+  ],
+  "large_ledger": [
+    {
+      "source": "cash_after_costs",
+      "use": "deposit",
+      "amount": "160000.00"
+    },
+    {
+      "source": "cash_after_costs",
+      "use": "retained_cash",
+      "amount": "5000.00"
+    },
+    {
+      "source": "cash_after_costs",
+      "use": "investment",
+      "amount": "0.00"
+    }
+  ],
+  "final": {
+    "winner": "small",
+    "difference": "77300.22",
+    "absolute_difference": "77300.22",
+    "difference_exact": "77300.21751279516353624809786543329135351268504440"
+  },
+  "end": {
+    "small": {
+      "month": 360,
+      "debt": "0.00",
+      "repaid": "340000.00",
+      "payment": "1930.48",
+      "contribution_month": "169.52",
+      "interest_paid": "354973.74",
+      "cash_value": "9056.81",
+      "opening_value": "819920.19",
+      "later_value": "200647.71",
+      "outside_total": "1029624.71",
+      "outside_exact": "1029624.7068243899264620486418707588289926934817418",
+      "investment_value": "1020567.90",
+      "contributions": "61026.26",
+      "opening_change": "719920.19",
+      "later_change": "139621.45",
+      "investment_change": "859541.64",
+      "before_investment_value": "1020398.38",
+      "before_later_value": "200478.19",
+      "payments_completed_fraction": "1",
+      "payments_completed_label": "360 of 360 payments",
+      "scheduled_payments_total": "694973.74",
+      "payments_made": "694973.74",
+      "repaid_fraction": "0.85"
+    },
+    "large": {
+      "month": 360,
+      "debt": "0.00",
+      "repaid": "240000.00",
+      "payment": "1303.08",
+      "contribution_month": "796.92",
+      "interest_paid": "229108.60",
+      "cash_value": "9056.81",
+      "opening_value": "0.00",
+      "later_value": "943267.68",
+      "outside_total": "952324.49",
+      "outside_exact": "952324.48931159476292580054400532553763918079669740",
+      "investment_value": "943267.68",
+      "contributions": "286891.40",
+      "opening_change": "0.00",
+      "later_change": "656376.28",
+      "investment_change": "656376.28",
+      "before_investment_value": "942470.76",
+      "before_later_value": "942470.76",
+      "payments_completed_fraction": "1",
+      "payments_completed_label": "360 of 360 payments",
+      "scheduled_payments_total": "469108.60",
+      "payments_made": "469108.60",
+      "repaid_fraction": "0.60"
+    },
+    "month": 360
+  }
+}

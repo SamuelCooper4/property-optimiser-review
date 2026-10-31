@@ -1,0 +1,23 @@
+{
+  "recorded_source": "198bf116df14610366e7a790e6c34f1a164171ec",
+  "scope": "Complete journeys captured at normal speed; complete encoded videos played at 1x to ended with media errors checked. Agent visual review uses captured scene checkpoints and decoded frames, rather than human novice testing.",
+  "inspected_final_images": [
+    "recorded-frames/desktop-35s.png",
+    "recorded-frames/mobile-35s.png",
+    "recorded-frames/mobile-65s.png",
+    "desktop-chapter2.png",
+    "mobile-chapter2.png",
+    "mobile-first-arrival.png",
+    "desktop-repaid.png",
+    "mobile-switch.png",
+    "home-390.png",
+    "mobile-chapter5.png",
+    "desktop-chapter5.png",
+    "desktop-end.png"
+  ],
+  "findings": "Opening establishes resources; next-action copy follows each relationship; interest is grouped below the house on mobile; same-principal pricing and direct smaller-deposit switch are explicit; final totals share one scale and clearly name the conditional result. Removed redundant Home label after a failing frame-by-frame transition test; replacement recordings use the correction. Short-screen secondary controls are reachable by scrolling above the fixed navigation.",
+  "physical_device_tested": false,
+  "novice_comprehension_tested": false,
+  "owner_acceptance": "pending",
+  "captured_application_bytes_match_rebuilt_application": true
+}

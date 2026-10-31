@@ -1,0 +1,253 @@
+{
+  "url": "http://127.0.0.1:8818/",
+  "recordedSourceCommit": "198bf116df14610366e7a790e6c34f1a164171ec",
+  "recordedDeploymentCommit": null,
+  "browser": "156.0.8078.74",
+  "playbackRate": 1,
+  "editing": "none",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 720,
+      "emulatedMobile": false,
+      "openingDeposit": "60000.00",
+      "openingInvestment": "100000.00",
+      "watchClicks": 1,
+      "additionalJourneyClicks": 0,
+      "durationMs": 68026,
+      "journeyMs": 28267,
+      "cues": [
+        {
+          "opening": "home",
+          "sentence": "You’re buying a £400,000 home. How much of your savings should become the deposit?"
+        },
+        {
+          "opening": "savings",
+          "sentence": "A larger deposit means a smaller mortgage."
+        },
+        {
+          "stage": 1,
+          "elapsedMs": 12603,
+          "sentence": "Borrowing less means less interest to pay."
+        },
+        {
+          "stage": 2,
+          "elapsedMs": 19475,
+          "sentence": "The lower rate reduces interest on the same mortgage."
+        },
+        {
+          "stage": 3,
+          "elapsedMs": 30045,
+          "sentence": "A smaller monthly payment leaves more to save each month."
+        },
+        {
+          "stage": 4,
+          "elapsedMs": 35211,
+          "sentence": "A smaller deposit leaves more money to save or invest from day one."
+        },
+        {
+          "stage": 5,
+          "elapsedMs": 39810,
+          "sentence": "The rest can start working from day one."
+        }
+      ],
+      "samples": [
+        {
+          "seconds": "1.008599999999997",
+          "month": "0",
+          "cue": "smallIntro"
+        },
+        {
+          "seconds": "2.5173999999999963",
+          "month": "0",
+          "cue": "firstArrival"
+        },
+        {
+          "seconds": "7.5105",
+          "month": "180",
+          "cue": "smallRun"
+        },
+        {
+          "seconds": "11.019700000000055",
+          "month": "360",
+          "cue": "smallHold"
+        },
+        {
+          "seconds": "13.012000000000093",
+          "month": "0",
+          "cue": "largeIntro"
+        },
+        {
+          "seconds": "16.50450000000016",
+          "month": "180",
+          "cue": "largeRun"
+        },
+        {
+          "seconds": "20.013900000000085",
+          "month": "360",
+          "cue": "largeHold"
+        },
+        {
+          "seconds": "22.01440000000004",
+          "month": "360",
+          "cue": "compare"
+        },
+        {
+          "seconds": "24.01500000000001",
+          "month": "360",
+          "cue": "repaid"
+        },
+        {
+          "seconds": "27",
+          "month": "360",
+          "cue": "end"
+        }
+      ],
+      "errors": [],
+      "performance": {
+        "frames": 3364,
+        "medianMs": 8.30000000000291,
+        "p95Ms": 8.400000000001455,
+        "maxMs": 16.69999999999709,
+        "over34ms": 0,
+        "longTasks": [],
+        "metrics": {
+          "LayoutCount": 1696,
+          "RecalcStyleCount": 1730,
+          "LayoutDuration": 0.17168700000000003,
+          "RecalcStyleDuration": 0.060281,
+          "DevToolsCommandDuration": 0.014642000000000002,
+          "ScriptDuration": 0.7167349999999999,
+          "V8CompileDuration": 0,
+          "TaskDuration": 1.607828,
+          "TaskOtherDuration": 0.6444829999999999
+        },
+        "scope": "Real-time normal-speed playback with video recording and ten later-sequence screenshots; no CPU throttle"
+      },
+      "file": "desktop.webm"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedMobile": true,
+      "openingDeposit": "60000.00",
+      "openingInvestment": "100000.00",
+      "watchClicks": 1,
+      "additionalJourneyClicks": 0,
+      "durationMs": 67802,
+      "journeyMs": 28199,
+      "cues": [
+        {
+          "opening": "home",
+          "sentence": "You’re buying a £400,000 home. How much of your savings should become the deposit?"
+        },
+        {
+          "opening": "savings",
+          "sentence": "A larger deposit means a smaller mortgage."
+        },
+        {
+          "stage": 1,
+          "elapsedMs": 12445,
+          "sentence": "Borrowing less means less interest to pay."
+        },
+        {
+          "stage": 2,
+          "elapsedMs": 19304,
+          "sentence": "The lower rate reduces interest on the same mortgage."
+        },
+        {
+          "stage": 3,
+          "elapsedMs": 29870,
+          "sentence": "A smaller monthly payment leaves more to save each month."
+        },
+        {
+          "stage": 4,
+          "elapsedMs": 35048,
+          "sentence": "A smaller deposit leaves more money to save or invest from day one."
+        },
+        {
+          "stage": 5,
+          "elapsedMs": 39625,
+          "sentence": "The rest can start working from day one."
+        }
+      ],
+      "samples": [
+        {
+          "seconds": "1.0003999999999926",
+          "month": "0",
+          "cue": "smallIntro"
+        },
+        {
+          "seconds": "2.50079999999999",
+          "month": "0",
+          "cue": "firstArrival"
+        },
+        {
+          "seconds": "7.502100000000005",
+          "month": "180",
+          "cue": "smallRun"
+        },
+        {
+          "seconds": "11.01150000000008",
+          "month": "360",
+          "cue": "smallHold"
+        },
+        {
+          "seconds": "13.003600000000125",
+          "month": "0",
+          "cue": "largeIntro"
+        },
+        {
+          "seconds": "16.50470000000018",
+          "month": "180",
+          "cue": "largeRun"
+        },
+        {
+          "seconds": "20.013900000000124",
+          "month": "360",
+          "cue": "largeHold"
+        },
+        {
+          "seconds": "22.006200000000078",
+          "month": "360",
+          "cue": "compare"
+        },
+        {
+          "seconds": "24.006800000000048",
+          "month": "360",
+          "cue": "repaid"
+        },
+        {
+          "seconds": "27",
+          "month": "360",
+          "cue": "end"
+        }
+      ],
+      "errors": [],
+      "performance": {
+        "frames": 3363,
+        "medianMs": 8.30000000000291,
+        "p95Ms": 8.400000000001455,
+        "maxMs": 8.5,
+        "over34ms": 0,
+        "longTasks": [],
+        "metrics": {
+          "LayoutCount": 1697,
+          "RecalcStyleCount": 1726,
+          "LayoutDuration": 0.175944,
+          "RecalcStyleDuration": 0.05999,
+          "DevToolsCommandDuration": 0.014646000000000003,
+          "ScriptDuration": 0.689783,
+          "V8CompileDuration": 0,
+          "TaskDuration": 1.571333,
+          "TaskOtherDuration": 0.6309699999999999
+        },
+        "scope": "Real-time normal-speed playback with video recording and ten later-sequence screenshots; no CPU throttle"
+      },
+      "file": "mobile.webm"
+    }
+  ]
+}
