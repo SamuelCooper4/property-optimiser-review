@@ -1,0 +1,66 @@
+{
+  "iteration": "R3-v8",
+  "tested_source_commit": "daa4793bef154fe142f135ff5a2c3becd8277c82",
+  "recorded_source_commit": "25bce37287107c85127becb9033175c7e94b3129",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/23",
+  "source_base": "1f33e07a058f52407198428d0fabe896ad2dc076",
+  "backend": {
+    "initial": {
+      "passed": 4561,
+      "setup_errors": 169,
+      "cause": "Missing backend/.tmp parent for explicit pytest basetemp"
+    },
+    "final": {
+      "passed": 4730,
+      "skipped": 0,
+      "warnings": 2,
+      "warning": "Optional PyYAML formatting dependency",
+      "seconds": 283.79
+    },
+    "ruff": "All checks passed",
+    "mypy": "Success: no issues found in 53 source files",
+    "production_files_changed": false
+  },
+  "illustration_tests": 10,
+  "javascript_tests": 4,
+  "worker_parity_cases": 6,
+  "viewport_beat_cases": 120,
+  "resize_changes": 20,
+  "enlarged_text_scenes": 15,
+  "details_accessibility_cases": 3,
+  "media": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 720,
+      "duration": 75.44,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "decodedFrames": 8,
+      "elapsedSeconds": 75.456
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "duration": 75.4,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "decodedFrames": 8,
+      "elapsedSeconds": 75.425
+    }
+  ],
+  "final": {
+    "winner": "small",
+    "difference": "37134.89",
+    "absolute_difference": "37134.89",
+    "difference_exact": "37134.8861301365093313655170454126610517353096106"
+  },
+  "smaller_total": "1272613.25",
+  "larger_total": "1235478.36",
+  "physical_device_tested": false,
+  "novice_comprehension_tested": false,
+  "status": "Owner visual review pending; no R4 or main merge"
+}

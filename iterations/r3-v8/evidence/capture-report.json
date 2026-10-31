@@ -1,0 +1,301 @@
+{
+  "url": "http://127.0.0.1:8838/",
+  "recordedSourceCommit": "25bce37287107c85127becb9033175c7e94b3129",
+  "playbackRate": 1,
+  "editing": "none",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 720,
+      "emulatedMobile": false,
+      "durationMs": 74002,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 3966,
+          "headline": "You’re buying a £400,000 home."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6529,
+          "headline": "You have £160,000 available for the deposit and investing."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 9080,
+          "headline": "How much should you put towards the deposit?"
+        },
+        {
+          "beat": "borrowing",
+          "elapsedMs": 13061,
+          "headline": "A larger deposit means a smaller mortgage."
+        },
+        {
+          "beat": "payment",
+          "elapsedMs": 17617,
+          "headline": "Each monthly mortgage payment pays back some of your loan and pays interest to the lender."
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 21583,
+          "headline": "Borrow less, pay less interest."
+        },
+        {
+          "beat": "ltv",
+          "elapsedMs": 24150,
+          "headline": "Borrowing a smaller share of the home’s value can unlock a lower rate."
+        },
+        {
+          "beat": "threshold",
+          "elapsedMs": 26711,
+          "headline": "At a £60,000 deposit, a 5% rate becomes available."
+        },
+        {
+          "beat": "rate",
+          "elapsedMs": 31078,
+          "headline": "The better rate reduces interest on the same mortgage."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 33646,
+          "headline": "£2,200 is available each month for the mortgage and saving or investing."
+        },
+        {
+          "beat": "minimum",
+          "elapsedMs": 36213,
+          "headline": "At the minimum deposit, the mortgage uses that full amount."
+        },
+        {
+          "beat": "remainder",
+          "elapsedMs": 40180,
+          "headline": "Lower payments leave more available each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 42739,
+          "headline": "But a smaller deposit leaves more money available from day one."
+        },
+        {
+          "beat": "smaller",
+          "elapsedMs": 46707,
+          "headline": "With £60,000 down, £100,000 stays outside the home to invest."
+        },
+        {
+          "beat": "allocation",
+          "elapsedMs": 49315,
+          "headline": "This example keeps £5,000 in cash and invests the rest."
+        },
+        {
+          "beat": "prepare",
+          "elapsedMs": 51867,
+          "headline": "Start with £100,000.00, then add £374.81 each month."
+        },
+        {
+          "beat": "smallRun",
+          "elapsedMs": 59436,
+          "headline": "Your investments change value as monthly additions arrive."
+        },
+        {
+          "beat": "largePrepare",
+          "elapsedMs": 62005,
+          "headline": "A larger deposit starts with less invested, but adds more each month."
+        },
+        {
+          "beat": "largeRun",
+          "elapsedMs": 69583,
+          "headline": "The same monthly budget adds more to investments."
+        },
+        {
+          "beat": "conclusion",
+          "elapsedMs": 73641,
+          "headline": "In this example, the smaller deposit finishes ahead."
+        }
+      ],
+      "runs": [
+        {
+          "id": "smallRun",
+          "firstMovementToEndMs": 4984.800000000003,
+          "nominalMs": 5000,
+          "headlineChanges": 0,
+          "financialRequests": 0,
+          "scale": "1500000"
+        },
+        {
+          "id": "largeRun",
+          "firstMovementToEndMs": 4984.799999999996,
+          "nominalMs": 5000,
+          "headlineChanges": 0,
+          "financialRequests": 0,
+          "scale": "1500000"
+        }
+      ],
+      "file": "desktop.webm",
+      "errors": []
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedMobile": true,
+      "durationMs": 73825,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 3923,
+          "headline": "You’re buying a £400,000 home."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6474,
+          "headline": "You have £160,000 available for the deposit and investing."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 9032,
+          "headline": "How much should you put towards the deposit?"
+        },
+        {
+          "beat": "borrowing",
+          "elapsedMs": 12993,
+          "headline": "A larger deposit means a smaller mortgage."
+        },
+        {
+          "beat": "payment",
+          "elapsedMs": 17546,
+          "headline": "Each monthly mortgage payment pays back some of your loan and pays interest to the lender."
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 21504,
+          "headline": "Borrow less, pay less interest."
+        },
+        {
+          "beat": "ltv",
+          "elapsedMs": 24056,
+          "headline": "Borrowing a smaller share of the home’s value can unlock a lower rate."
+        },
+        {
+          "beat": "threshold",
+          "elapsedMs": 26620,
+          "headline": "At a £60,000 deposit, a 5% rate becomes available."
+        },
+        {
+          "beat": "rate",
+          "elapsedMs": 30983,
+          "headline": "The better rate reduces interest on the same mortgage."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 33542,
+          "headline": "£2,200 is available each month for the mortgage and saving or investing."
+        },
+        {
+          "beat": "minimum",
+          "elapsedMs": 36092,
+          "headline": "At the minimum deposit, the mortgage uses that full amount."
+        },
+        {
+          "beat": "remainder",
+          "elapsedMs": 40051,
+          "headline": "Lower payments leave more available each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 42601,
+          "headline": "But a smaller deposit leaves more money available from day one."
+        },
+        {
+          "beat": "smaller",
+          "elapsedMs": 46569,
+          "headline": "With £60,000 down, £100,000 stays outside the home to invest."
+        },
+        {
+          "beat": "allocation",
+          "elapsedMs": 49170,
+          "headline": "This example keeps £5,000 in cash and invests the rest."
+        },
+        {
+          "beat": "prepare",
+          "elapsedMs": 51722,
+          "headline": "Start with £100,000.00, then add £374.81 each month."
+        },
+        {
+          "beat": "smallRun",
+          "elapsedMs": 59283,
+          "headline": "Your investments change value as monthly additions arrive."
+        },
+        {
+          "beat": "largePrepare",
+          "elapsedMs": 61842,
+          "headline": "A larger deposit starts with less invested, but adds more each month."
+        },
+        {
+          "beat": "largeRun",
+          "elapsedMs": 69411,
+          "headline": "The same monthly budget adds more to investments."
+        },
+        {
+          "beat": "conclusion",
+          "elapsedMs": 73467,
+          "headline": "In this example, the smaller deposit finishes ahead."
+        }
+      ],
+      "runs": [
+        {
+          "id": "smallRun",
+          "firstMovementToEndMs": 4984.799999999996,
+          "nominalMs": 5000,
+          "headlineChanges": 0,
+          "financialRequests": 0,
+          "scale": "1500000"
+        },
+        {
+          "id": "largeRun",
+          "firstMovementToEndMs": 4984.600000000006,
+          "nominalMs": 5000,
+          "headlineChanges": 0,
+          "financialRequests": 0,
+          "scale": "1500000"
+        }
+      ],
+      "file": "mobile.webm",
+      "errors": []
+    }
+  ],
+  "applicationAssets": [
+    {
+      "path": "index.html",
+      "sha256": "7b3ce373a3c50fae8edceec55ef5e2fdf3225c0f529911e150dad05d0aa7d0f2"
+    },
+    {
+      "path": "illustration.py",
+      "sha256": "8cd1333cb8c0cfb86aa5a5c1abc6b1dddbd38bed0a8f977b7862888963603ce9"
+    },
+    {
+      "path": "scenario.py",
+      "sha256": "1c580abebf8eed3416de11f32a49152c543686efd1a9123281fca7ffeae64e68"
+    },
+    {
+      "path": "facts.json",
+      "sha256": "00663fbf0aa1a0fe22d22a8f30d4ffef405957e4a704c64d31df240c4d015b67"
+    },
+    {
+      "path": "provider-worker.mjs",
+      "sha256": "7108d067cf5659d8d8540871a88ee5f5aac3b72fcab907a8fd39b8d688804b1d"
+    },
+    {
+      "path": "assets/index-BQpssv71.css",
+      "sha256": "b95858a64399745868fabe51e956b6e4139be6d442f5b424517c8edeecd33a0a"
+    },
+    {
+      "path": "assets/index-DWgGYEr8.js",
+      "sha256": "dacd69caa6d45defbe91a2bf8a801fba4a24f08c730a2339c5971051ad3348cb"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    }
+  ]
+}

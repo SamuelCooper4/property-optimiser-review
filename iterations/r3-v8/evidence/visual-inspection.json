@@ -1,0 +1,24 @@
+{
+  "recorded_source_commit": "25bce37287107c85127becb9033175c7e94b3129",
+  "reviewer": "implementing agent",
+  "complete_journey_checkpoints": {
+    "desktop": "20 of 20 beats at 1280x720",
+    "mobile": "20 of 20 beats at 390x844"
+  },
+  "decoded_video_frames_per_recording": [
+    4,
+    8,
+    12,
+    20,
+    35,
+    48,
+    58,
+    65
+  ],
+  "inspection": "Personally inspected all 40 final scene screenshots and all 16 decoded frames. Labels, payment split, staircase, first-result persistence, common scale and final comparison checked. Full transition paths are additionally covered by sampled geometry assertions. This is agent inspection, not owner acceptance.",
+  "full_video_playback": "Both uncut recordings validated at normal 1x playback; see media-report.json for actual outcomes.",
+  "physical_device_tested": false,
+  "novice_comprehension_tested": false,
+  "firefox_safari_tested": false,
+  "spoken_screen_reader_tested": false
+}
