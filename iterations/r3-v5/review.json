@@ -1,0 +1,15 @@
+{
+  "iteration": "R3-v5",
+  "source_commit": "6b5eab1c8343d0ec6369fdfd9c7ff3b9a3e7d384",
+  "base_wrapper": "5151eddf9f7f6f1eabf46225417a15e0803d9577",
+  "capture": {
+    "recordings": [],
+    "recordedDeploymentCommit": null
+  },
+  "recorded_public_commit": null,
+  "status": "Owner visual feedback pending; no R4 or merge",
+  "physical_device_tested": false,
+  "novice_tested": false,
+  "scenario_version": "r3-v5-teaching-2026-10-31-v1",
+  "counterexample_not_optimum": true
+}

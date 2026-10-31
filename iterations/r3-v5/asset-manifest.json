@@ -1,0 +1,100 @@
+{
+  "iteration": "R3-v5",
+  "files": [
+    {
+      "path": "assets/index-CkW33TDw.css",
+      "bytes": 14651,
+      "sha256": "e16b7f63dddfe637a0001c76236aed91c7b1c218848617d776fd910dd29d6710"
+    },
+    {
+      "path": "assets/index-Drl5-nwM.js",
+      "bytes": 320347,
+      "sha256": "8df92b84cfe71f796e4b69315a7e9f7c1d51815d023abe4c5d7bf3edab98f2ea"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "evidence/scenario.json",
+      "bytes": 3143,
+      "sha256": "5ab32946944881195a2eccf4eb1dd04c7a3dc72eee06f45bea090416e12b852a"
+    },
+    {
+      "path": "facts.json",
+      "bytes": 486014,
+      "sha256": "271c5199e3bb1b5efd32b1ed6a5b2d2f87d58dbe01481349c61304c5ff85292c"
+    },
+    {
+      "path": "fonts/InstrumentSans.ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "bytes": 4496,
+      "sha256": "841742d77e5deeaf719ad3f9aaf17891abe4b827a49fc8e1b0558ee59a2b3195"
+    },
+    {
+      "path": "illustration.py",
+      "bytes": 7644,
+      "sha256": "8adbe4fe0599f9d717cbb7d7e25a30f6eeba89e786a959f3889f8d90b9d04c84"
+    },
+    {
+      "path": "index.html",
+      "bytes": 615,
+      "sha256": "c05c02367a9f71c1601e5fbfab8b60e892d35679422da0c95b98686914c8b0dc"
+    },
+    {
+      "path": "provider-worker.mjs",
+      "bytes": 783,
+      "sha256": "7108d067cf5659d8d8540871a88ee5f5aac3b72fcab907a8fd39b8d688804b1d"
+    },
+    {
+      "path": "review.html",
+      "bytes": 7090,
+      "sha256": "a32c1f722a5ce85395007bbcddbbbe0a4d823aa0e7651b9fae4372a74369597f"
+    },
+    {
+      "path": "review.json",
+      "bytes": 492,
+      "sha256": "86feb772536e28d9a68d438fc1ddaee2075eee3c1eba7783a672f6a6b046e08c"
+    },
+    {
+      "path": "runtime/LICENSE.txt",
+      "bytes": 16725,
+      "sha256": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
+    },
+    {
+      "path": "runtime/pyodide-lock.json",
+      "bytes": 120010,
+      "sha256": "3256ffc76388de0e37f4b34d42ab484268d1afc675179ff97b2a5bb14f84ccac"
+    },
+    {
+      "path": "runtime/pyodide.asm.js",
+      "bytes": 1074322,
+      "sha256": "1263f02b5b26099b96112378156f242dd98b39a8201ba7765e5fe3d455c5ce91"
+    },
+    {
+      "path": "runtime/pyodide.asm.wasm",
+      "bytes": 8647684,
+      "sha256": "e2f4ee75b325e35eb31bfb8c613d4dd5098f5502c156a97847686875b5025480"
+    },
+    {
+      "path": "runtime/pyodide.mjs",
+      "bytes": 17616,
+      "sha256": "23213d27e9dacbda6f25f955fb38dabfc40ada082c04ee253047ea5dddcaa3b5"
+    },
+    {
+      "path": "runtime/python_stdlib.zip",
+      "bytes": 2423989,
+      "sha256": "4298b6ee445cb724c3973437da47789752b9e6ff4e26619026b283ec801fc46b"
+    },
+    {
+      "path": "scenario.py",
+      "bytes": 561,
+      "sha256": "1176c657dc8265ee1234133cfe039e10911b850c074c142dceae4defe78ba43a"
+    }
+  ]
+}
