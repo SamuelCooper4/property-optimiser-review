@@ -1,0 +1,56 @@
+{
+  "iteration": "R3-v6",
+  "tested_source_commit": "89d696174295fb3a26aaa19bc675335079d8f55c",
+  "source_wrapper_commit": "c80c431046b6f6d1c73bbeb00e5fcec12bb4e6f8",
+  "publication_asset_commit": "7882646e292f97499240e6235ef6bd2e8ce51706",
+  "recorded_source_commit": "cbdf381ee2a67722ae2ee7e477be490a34643a07",
+  "recorded_public_commit": null,
+  "recording_scope": "Local compiled build; published bytes verified independently",
+  "source_branch": "design/m8-r3-v6",
+  "public_branch": "review/r3-v6",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/21",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v6/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v6/review.html",
+  "scenario_version": "r3-v6-teaching-2026-10-31-v1",
+  "model_version": "r3-v6-illustration-2026-10-31-v1",
+  "facts_version": "r3-v6-facts-2026-10-31-v1",
+  "monthly_budget_gbp": "2089.44",
+  "smaller_outside_total_gbp": "932554.09",
+  "larger_outside_total_gbp": "930770.26",
+  "verified_difference_gbp": "1783.83",
+  "backend_tests_passed": 4730,
+  "illustration_tests_passed": 8,
+  "recordings": {
+    "media": [
+      {
+        "name": "desktop",
+        "width": 1280,
+        "height": 720,
+        "duration": 77.52,
+        "ended": true,
+        "rate": 1,
+        "error": null,
+        "decodedFrames": 8,
+        "elapsedSeconds": 77.54
+      },
+      {
+        "name": "mobile",
+        "width": 390,
+        "height": 844,
+        "duration": 77.44,
+        "ended": true,
+        "rate": 1,
+        "error": null,
+        "decodedFrames": 8,
+        "elapsedSeconds": 77.457
+      }
+    ],
+    "uncut": true,
+    "playback_rate": 1,
+    "physical_device": false
+  },
+  "novice_comprehension_tested": false,
+  "hosted_source_ci": "Not claimed; inspect source receipt for final status",
+  "status": "Owner visual feedback pending; no R4 or main merge",
+  "deployment_identity_note": "The final deployment is the commit containing this record. Its full SHA and successful Pages receipt are in source PUBLICATION.md; a file cannot contain its own commit hash."
+}
