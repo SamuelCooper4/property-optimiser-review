@@ -1,0 +1,64 @@
+{
+  "iteration": "R3-v8",
+  "tested_source_commit": "daa4793bef154fe142f135ff5a2c3becd8277c82",
+  "source_wrapper_commit": "43d5f3765e2b81ece9a772db2b8df6173276aec4",
+  "publication_asset_commit": "5589d4d9b1c0315065a11a57150062e9b8f9a110",
+  "recorded_source_commit": "25bce37287107c85127becb9033175c7e94b3129",
+  "recorded_public_commit": null,
+  "recording_scope": "Local compiled build; all application byte hashes retained and live publication verified separately",
+  "source_branch": "design/m8-r3-v8",
+  "public_branch": "review/r3-v8",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/23",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v8/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v8/review.html",
+  "scenario_version": "r3-v8-teaching-2026-10-31-v1",
+  "model_version": "r3-v8-illustration-2026-10-31-v1",
+  "facts_version": "r3-v8-facts-2026-10-31-v1",
+  "monthly_budget_gbp": "2200.00",
+  "shared_reserve_gbp": "5000.00",
+  "smaller_outside_total_gbp": "1272613.25",
+  "larger_outside_total_gbp": "1235478.36",
+  "verified_difference_gbp": "37134.89",
+  "backend_tests_passed": 4730,
+  "illustration_tests_passed": 10,
+  "javascript_tests_passed": 4,
+  "recordings": {
+    "media": [
+      {
+        "name": "desktop",
+        "width": 1280,
+        "height": 720,
+        "duration": 75.44,
+        "ended": true,
+        "rate": 1,
+        "error": null,
+        "decodedFrames": 8,
+        "elapsedSeconds": 75.456
+      },
+      {
+        "name": "mobile",
+        "width": 390,
+        "height": 844,
+        "duration": 75.4,
+        "ended": true,
+        "rate": 1,
+        "error": null,
+        "decodedFrames": 8,
+        "elapsedSeconds": 75.425
+      }
+    ],
+    "uncut": true,
+    "playback_rate": 1,
+    "physical_device": false
+  },
+  "novice_comprehension_tested": false,
+  "hosted_source_ci": {
+    "source_commit": "43d5f3765e2b81ece9a772db2b8df6173276aec4",
+    "check_runs": 0,
+    "workflow_runs": 0,
+    "status": "No source CI run or pass claimed; design branches are outside configured workflow triggers"
+  },
+  "status": "Owner visual feedback pending; no R4 or main merge",
+  "deployment_identity_note": "The final deployment is the commit containing this record. Its full SHA and successful Pages receipt are in source PUBLICATION.md; a file cannot contain its own commit hash.",
+  "worker_parity_cases": 6
+}
