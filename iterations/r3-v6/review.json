@@ -1,0 +1,250 @@
+{
+  "iteration": "R3-v6",
+  "tested_source_commit": "89d696174295fb3a26aaa19bc675335079d8f55c",
+  "base_wrapper": "02cf9a0f4756eccbfdacec415594e025acb5658e",
+  "capture": {
+    "url": "http://127.0.0.1:8816/",
+    "recordedSourceCommit": "cbdf381ee2a67722ae2ee7e477be490a34643a07",
+    "recordedDeploymentCommit": null,
+    "browser": "156.0.8078.74",
+    "playbackRate": 1,
+    "editing": "none",
+    "physicalDevice": false,
+    "recordings": [
+      {
+        "name": "desktop",
+        "width": 1280,
+        "height": 720,
+        "emulatedMobile": false,
+        "openingDeposit": "100000.00",
+        "openingInvestment": "55000.00",
+        "watchClicks": 1,
+        "additionalJourneyClicks": 0,
+        "durationMs": 75961,
+        "journeyMs": 24282,
+        "cues": [
+          {
+            "opening": "home",
+            "sentence": "You\u2019re buying a \u00a3400,000 home."
+          },
+          {
+            "opening": "savings",
+            "sentence": "You have \u00a3160,000 saved towards the purchase."
+          },
+          {
+            "opening": "question",
+            "sentence": "How much should you put into the deposit?"
+          },
+          {
+            "stage": 1,
+            "elapsedMs": 22993,
+            "sentence": "Borrowing less means less interest to pay."
+          },
+          {
+            "stage": 2,
+            "elapsedMs": 29071,
+            "sentence": "A larger deposit can also unlock a lower mortgage rate."
+          },
+          {
+            "stage": 3,
+            "elapsedMs": 40147,
+            "sentence": "A smaller payment leaves more to save each month."
+          },
+          {
+            "stage": 4,
+            "elapsedMs": 46522,
+            "sentence": "A smaller deposit leaves more money to save or invest from day one."
+          },
+          {
+            "stage": 5,
+            "elapsedMs": 51752,
+            "sentence": "Follow this example: \u00a35,000 in cash and \u00a355,000 invested."
+          }
+        ],
+        "samples": [
+          {
+            "seconds": "1.5087000000000022",
+            "month": "0",
+            "cue": "smallIntro"
+          },
+          {
+            "seconds": "5.518199999999995",
+            "month": "181",
+            "cue": "smallRun"
+          },
+          {
+            "seconds": "9.010900000000023",
+            "month": "360",
+            "cue": "smallHold"
+          },
+          {
+            "seconds": "11.011400000000075",
+            "month": "0",
+            "cue": "largeIntro"
+          },
+          {
+            "seconds": "14.50410000000016",
+            "month": "180",
+            "cue": "largeRun"
+          },
+          {
+            "seconds": "18.00500000000018",
+            "month": "360",
+            "cue": "largeHold"
+          },
+          {
+            "seconds": "20.02230000000012",
+            "month": "360",
+            "cue": "compare"
+          },
+          {
+            "seconds": "23",
+            "month": "360",
+            "cue": "end"
+          }
+        ],
+        "errors": [],
+        "performance": {
+          "frames": 2885,
+          "medianMs": 8.30000000000291,
+          "p95Ms": 8.400000000008731,
+          "maxMs": 8.5,
+          "over34ms": 0,
+          "longTasks": [],
+          "metrics": {
+            "LayoutCount": 1515,
+            "RecalcStyleCount": 1541,
+            "LayoutDuration": 0.18967600000000007,
+            "RecalcStyleDuration": 0.06992899999999996,
+            "DevToolsCommandDuration": 0.012506,
+            "ScriptDuration": 0.678213,
+            "V8CompileDuration": 0,
+            "TaskDuration": 1.6337209999999995,
+            "TaskOtherDuration": 0.683397
+          },
+          "scope": "Real-time normal-speed playback with video recording and eight screenshots; no CPU throttle"
+        },
+        "file": "desktop.webm"
+      },
+      {
+        "name": "mobile",
+        "width": 390,
+        "height": 844,
+        "emulatedMobile": true,
+        "openingDeposit": "100000.00",
+        "openingInvestment": "55000.00",
+        "watchClicks": 1,
+        "additionalJourneyClicks": 0,
+        "durationMs": 75644,
+        "journeyMs": 24235,
+        "cues": [
+          {
+            "opening": "home",
+            "sentence": "You\u2019re buying a \u00a3400,000 home."
+          },
+          {
+            "opening": "savings",
+            "sentence": "You have \u00a3160,000 saved towards the purchase."
+          },
+          {
+            "opening": "question",
+            "sentence": "How much should you put into the deposit?"
+          },
+          {
+            "stage": 1,
+            "elapsedMs": 22742,
+            "sentence": "Borrowing less means less interest to pay."
+          },
+          {
+            "stage": 2,
+            "elapsedMs": 28806,
+            "sentence": "A larger deposit can also unlock a lower mortgage rate."
+          },
+          {
+            "stage": 3,
+            "elapsedMs": 39876,
+            "sentence": "A smaller payment leaves more to save each month."
+          },
+          {
+            "stage": 4,
+            "elapsedMs": 46246,
+            "sentence": "A smaller deposit leaves more money to save or invest from day one."
+          },
+          {
+            "stage": 5,
+            "elapsedMs": 51439,
+            "sentence": "Follow this example: \u00a35,000 in cash and \u00a355,000 invested."
+          }
+        ],
+        "samples": [
+          {
+            "seconds": "1.500399999999992",
+            "month": "0",
+            "cue": "smallIntro"
+          },
+          {
+            "seconds": "5.501499999999995",
+            "month": "180",
+            "cue": "smallRun"
+          },
+          {
+            "seconds": "9.002500000000023",
+            "month": "360",
+            "cue": "smallHold"
+          },
+          {
+            "seconds": "11.003000000000064",
+            "month": "0",
+            "cue": "largeIntro"
+          },
+          {
+            "seconds": "14.504000000000143",
+            "month": "180",
+            "cue": "largeRun"
+          },
+          {
+            "seconds": "18.00500000000015",
+            "month": "360",
+            "cue": "largeHold"
+          },
+          {
+            "seconds": "20.013900000000103",
+            "month": "360",
+            "cue": "compare"
+          },
+          {
+            "seconds": "23",
+            "month": "360",
+            "cue": "end"
+          }
+        ],
+        "errors": [],
+        "performance": {
+          "frames": 2884,
+          "medianMs": 8.30000000000291,
+          "p95Ms": 8.400000000008731,
+          "maxMs": 8.599999999991269,
+          "over34ms": 0,
+          "longTasks": [],
+          "metrics": {
+            "LayoutCount": 1515,
+            "RecalcStyleCount": 1537,
+            "LayoutDuration": 0.15240200000000004,
+            "RecalcStyleDuration": 0.057742000000000016,
+            "DevToolsCommandDuration": 0.011997,
+            "ScriptDuration": 0.603818,
+            "V8CompileDuration": 0,
+            "TaskDuration": 1.3691909999999998,
+            "TaskOtherDuration": 0.5432319999999999
+          },
+          "scope": "Real-time normal-speed playback with video recording and eight screenshots; no CPU throttle"
+        },
+        "file": "mobile.webm"
+      }
+    ]
+  },
+  "scenario_version": "r3-v6-teaching-2026-10-31-v1",
+  "status": "Owner visual feedback pending; no R4 or merge",
+  "physical_device_tested": false,
+  "novice_tested": false
+}

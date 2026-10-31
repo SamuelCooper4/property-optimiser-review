@@ -1,0 +1,17 @@
+{
+  "recorded_source_commit": "cbdf381ee2a67722ae2ee7e477be490a34643a07",
+  "scope": "Decoded final-recording frames plus final regression screenshots; not a human full-length watch or novice comprehension test",
+  "inspected_recorded_frames": [
+    "desktop-35s.png",
+    "mobile-48s.png",
+    "desktop-58s.png",
+    "mobile-65s.png",
+    "desktop-final.png",
+    "mobile-final.png"
+  ],
+  "final_frame_position": "Encoded duration minus 0.25 seconds",
+  "findings": "Budget/deposit and allocation/Home labels separated. Growth objects labelled on a common scale; final rows and totals readable; fixed bottom Back/tracker visible. No collision in these inspected frames.",
+  "normal_speed_full_playback": "Both videos played to ended at rate1 without media error; see media-report.json",
+  "physical_device": false,
+  "owner_acceptance": "pending"
+}

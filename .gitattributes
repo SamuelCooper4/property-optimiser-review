@@ -8,3 +8,4 @@ iterations/r3-v3/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,
 iterations/r3-v3/fonts/OFL.txt -text -whitespace
 iterations/r3-v4/** -text
 iterations/r3-v5/** -text
+iterations/r3-v6/** -text

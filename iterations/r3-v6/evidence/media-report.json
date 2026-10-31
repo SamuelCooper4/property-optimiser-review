@@ -1,0 +1,24 @@
+[
+  {
+    "name": "desktop",
+    "width": 1280,
+    "height": 720,
+    "duration": 77.52,
+    "ended": true,
+    "rate": 1,
+    "error": null,
+    "decodedFrames": 8,
+    "elapsedSeconds": 77.54
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "height": 844,
+    "duration": 77.44,
+    "ended": true,
+    "rate": 1,
+    "error": null,
+    "decodedFrames": 8,
+    "elapsedSeconds": 77.457
+  }
+]
