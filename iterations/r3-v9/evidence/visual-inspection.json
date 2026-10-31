@@ -1,0 +1,36 @@
+{
+  "recorded_source_commit": "fa867e2e2de6f1aac13578a6953378a4246a82ac",
+  "scene_checkpoints": 20,
+  "viewports": [
+    [
+      1280,
+      720
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "recorded_frames_per_video": [
+    4,
+    8,
+    12,
+    18,
+    24,
+    30,
+    36,
+    42
+  ],
+  "method": "Agent inspected full-journey screenshot contact sheets, focused full-resolution images, early transition frames and 16 decoded recording frames. Browser recordings played to ended at normal 1x; interaction performed by reproducible browser scripts. Interactive Chrome access host unavailable.",
+  "observations": [
+    "House, savings, attached interest and monthly split remain readable",
+    "Allocation opening tile remains legible; no rescaling loss during growth",
+    "Two investment cohorts, reserve and actual principal repayment remain distinct",
+    "Completed scene and truthful availability dialog remain visible"
+  ],
+  "limits": [
+    "Browser-emulated phone only",
+    "No physical-device, novice-comprehension, spoken screen-reader or Firefox/Safari testing",
+    "No owner visual acceptance claimed"
+  ]
+}

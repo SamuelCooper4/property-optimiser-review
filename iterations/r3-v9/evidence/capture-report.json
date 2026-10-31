@@ -1,0 +1,179 @@
+{
+  "url": "http://127.0.0.1:8839/",
+  "recordedSourceCommit": "fa867e2e2de6f1aac13578a6953378a4246a82ac",
+  "playbackRate": 1,
+  "editing": "none",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 720,
+      "emulatedMobile": false,
+      "durationMs": 45314,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 4059,
+          "headline": "You’re buying a home."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6724,
+          "headline": "You have savings available."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 11756,
+          "headline": "How much should you put towards the deposit?"
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 14411,
+          "headline": "Borrowing less means less interest to pay."
+        },
+        {
+          "beat": "pricing",
+          "elapsedMs": 19444,
+          "headline": "A larger deposit can unlock a lower mortgage rate."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 22111,
+          "headline": "A smaller mortgage payment leaves more to save each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 24778,
+          "headline": "But a smaller deposit leaves more money available from day one."
+        },
+        {
+          "beat": "allocation",
+          "elapsedMs": 28677,
+          "headline": "Keep a reserve. Invest the rest."
+        },
+        {
+          "beat": "growth",
+          "elapsedMs": 36359,
+          "headline": "Your investments change as monthly additions arrive."
+        },
+        {
+          "beat": "ending",
+          "elapsedMs": 39027,
+          "headline": "That’s one starting deposit. What happens if you choose a different amount?"
+        }
+      ],
+      "run": {
+        "firstMovementToEndMs": 4984.700000000001,
+        "nominalMs": 5000,
+        "headlineChanges": 0,
+        "financialRequests": 0,
+        "scale": "1500000.00"
+      },
+      "file": "desktop.webm",
+      "errors": []
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedMobile": true,
+      "durationMs": 45196,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 4023,
+          "headline": "You’re buying a home."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6675,
+          "headline": "You have savings available."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 11725,
+          "headline": "How much should you put towards the deposit?"
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 14379,
+          "headline": "Borrowing less means less interest to pay."
+        },
+        {
+          "beat": "pricing",
+          "elapsedMs": 19422,
+          "headline": "A larger deposit can unlock a lower mortgage rate."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 22072,
+          "headline": "A smaller mortgage payment leaves more to save each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 24721,
+          "headline": "But a smaller deposit leaves more money available from day one."
+        },
+        {
+          "beat": "allocation",
+          "elapsedMs": 28601,
+          "headline": "Keep a reserve. Invest the rest."
+        },
+        {
+          "beat": "growth",
+          "elapsedMs": 36269,
+          "headline": "Your investments change as monthly additions arrive."
+        },
+        {
+          "beat": "ending",
+          "elapsedMs": 38929,
+          "headline": "That’s one starting deposit. What happens if you choose a different amount?"
+        }
+      ],
+      "run": {
+        "firstMovementToEndMs": 4984.700000000001,
+        "nominalMs": 5000,
+        "headlineChanges": 0,
+        "financialRequests": 0,
+        "scale": "1500000.00"
+      },
+      "file": "mobile.webm",
+      "errors": []
+    }
+  ],
+  "applicationAssets": [
+    {
+      "path": "index.html",
+      "sha256": "5805e5ef22c0e3dce0fb0d70eaea3e03dedcf2a85884c74629ccbd07ed9728bc"
+    },
+    {
+      "path": "illustration.py",
+      "sha256": "6cdef02f48ec9fb9c28a349e29f88ce5e7ea21367f1dad4225649673d58d7f03"
+    },
+    {
+      "path": "scenario.py",
+      "sha256": "2715ead72f2c2d8ea03976e1fa5b86838c229a26607f3741fe2619e395ccd547"
+    },
+    {
+      "path": "facts.json",
+      "sha256": "15726715eefda8f6cdcd80acdacd71e84b405510c55311a54c9d27dc891136ba"
+    },
+    {
+      "path": "provider-worker.mjs",
+      "sha256": "a4da0914741f2189d647e78a6e8fa222807d661a619b2509af057703f961c18c"
+    },
+    {
+      "path": "assets/index-CmSka66r.css",
+      "sha256": "a34426442e3a1b0691034322f24d0c4c9432de91523088ea06639fb94787a968"
+    },
+    {
+      "path": "assets/index-DVCyhIox.js",
+      "sha256": "4f97a3c5cf72bfd56f425637128aecdb666ea5d70b21c6055c7752657b306bbe"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    }
+  ]
+}

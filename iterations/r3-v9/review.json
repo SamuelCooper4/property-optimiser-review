@@ -1,0 +1,18 @@
+{
+  "iteration": "R3-v9",
+  "tested_source_commit": "4d596a29857508b02a8defeafecf76b153023bfd",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/24",
+  "recorded_source_commit": "fa867e2e2de6f1aac13578a6953378a4246a82ac",
+  "scenario": "r3-v9-teaching-2026-10-31-v1",
+  "model": "r3-v9-illustration-2026-10-31-v1",
+  "backend_tests": 4730,
+  "illustration_tests": 6,
+  "javascript_tests": 3,
+  "viewport_scene_checks": 60,
+  "worker_parity_cases": 6,
+  "recording_scope": "Local compiled build; live byte identity verified separately",
+  "physical_device_tested": false,
+  "novice_comprehension_tested": false,
+  "calculator_available": false,
+  "owner_visual_acceptance": "pending"
+}

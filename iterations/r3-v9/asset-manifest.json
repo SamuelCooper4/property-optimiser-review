@@ -1,0 +1,310 @@
+{
+  "iteration": "R3-v9",
+  "files": [
+    {
+      "path": "assets/index-CmSka66r.css",
+      "bytes": 7288,
+      "sha256": "a34426442e3a1b0691034322f24d0c4c9432de91523088ea06639fb94787a968"
+    },
+    {
+      "path": "assets/index-DVCyhIox.js",
+      "bytes": 315895,
+      "sha256": "4f97a3c5cf72bfd56f425637128aecdb666ea5d70b21c6055c7752657b306bbe"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "evidence/capture-report.json",
+      "bytes": 5117,
+      "sha256": "b01d696d0e73dde6a2ec2ba1275d0a76adc6bdb49aa6daec8026c477b4f1d7e9"
+    },
+    {
+      "path": "evidence/desktop-allocation.png",
+      "bytes": 63227,
+      "sha256": "21e4ab6932b9c0aca4bfd03685866e82d79a14ffc5ff49fcd0c249be91b4dcc1"
+    },
+    {
+      "path": "evidence/desktop-budget.png",
+      "bytes": 58958,
+      "sha256": "643c39e69b7c68724c3241820e6a3d3035f06a9e91583b5d80f327fc5ab0f284"
+    },
+    {
+      "path": "evidence/desktop-choice.png",
+      "bytes": 56155,
+      "sha256": "9cf263d6ff772311424a70f1f8889c82ea791b3df5f34cabcf6217fec795c0a2"
+    },
+    {
+      "path": "evidence/desktop-ending.png",
+      "bytes": 92313,
+      "sha256": "19299f8d656383b1cb64600584b029fc5a332b2ef5e69e4a772cec87939aa07c"
+    },
+    {
+      "path": "evidence/desktop-growth.png",
+      "bytes": 83210,
+      "sha256": "5f6143c8905bf38dd1b1fb3db41afe90c4e14863be18e948e6f336737f285bc7"
+    },
+    {
+      "path": "evidence/desktop-handoff.png",
+      "bytes": 86733,
+      "sha256": "5c966f5dc7c2fe2771c21d0507f4598813cca3b16e509f691e7b1a401d2f1154"
+    },
+    {
+      "path": "evidence/desktop-home.png",
+      "bytes": 29616,
+      "sha256": "faaf7d206b18186636b348ab2a2a5956419ba48900c2b5f83eca403152c8378e"
+    },
+    {
+      "path": "evidence/desktop-interest.png",
+      "bytes": 101931,
+      "sha256": "b155da646ba1ed1ce72ddc97bfd25fc07654c3495aa27d278e515a1059229628"
+    },
+    {
+      "path": "evidence/desktop-pricing.png",
+      "bytes": 80528,
+      "sha256": "39c3611d89d7a43b676e72fd20043fdcb5f35870082fd445451979bccbbb0f0e"
+    },
+    {
+      "path": "evidence/desktop-savings.png",
+      "bytes": 40955,
+      "sha256": "e61cee3676f1bea34d2f6edb22fcacf5ee600df00690af2eee5dd96a2c85aca4"
+    },
+    {
+      "path": "evidence/desktop-switch.png",
+      "bytes": 62628,
+      "sha256": "6e2171dab438aafef5f238912953712048a9c57e124b508371ae86a42109fc0d"
+    },
+    {
+      "path": "evidence/desktop.webm",
+      "bytes": 4386368,
+      "sha256": "1ae3516e867ab0028e1d118809321a82fb5a813ad97725747c409146cca230f7"
+    },
+    {
+      "path": "evidence/media-report.json",
+      "bytes": 397,
+      "sha256": "c607d70e23e9f9e50418df3a5184135a71b9c35cec50d0fcacba04030ce5e0a5"
+    },
+    {
+      "path": "evidence/mobile-allocation.png",
+      "bytes": 56192,
+      "sha256": "805b96c0cfb0a24a731c0f65f3b9d198efe2b04a6bea88f7e963ddb80933822b"
+    },
+    {
+      "path": "evidence/mobile-budget.png",
+      "bytes": 53604,
+      "sha256": "d5add7a0585a563984e6d425ae6b246ee822ef35cd95f4ee28161391e608049f"
+    },
+    {
+      "path": "evidence/mobile-choice.png",
+      "bytes": 48685,
+      "sha256": "333ccc43cd86e6a8f7feb4a62043ec56024afe853a028b5254734814027889c1"
+    },
+    {
+      "path": "evidence/mobile-ending.png",
+      "bytes": 76657,
+      "sha256": "cc2ba9832b4639743579e91467598d13034b441c784d2f6babdda51c8bf2e41d"
+    },
+    {
+      "path": "evidence/mobile-growth.png",
+      "bytes": 65755,
+      "sha256": "b193e236306cbd21f219f1be922b1d1467be59409c0282b7968af2df5378699c"
+    },
+    {
+      "path": "evidence/mobile-handoff.png",
+      "bytes": 72577,
+      "sha256": "d46210ceedb745f86954eeaee3e7a8f14ca36bc0057b623e73b1182d94d8b48e"
+    },
+    {
+      "path": "evidence/mobile-home.png",
+      "bytes": 20457,
+      "sha256": "36051f8bb75b8e88081515b46ad9a54a0ec1ccb86496b6f02cee5f03837be5d9"
+    },
+    {
+      "path": "evidence/mobile-interest.png",
+      "bytes": 62885,
+      "sha256": "e92b39a31b21be0dff112831b329cde504d3ff1294dd328f6c7a4b56c70450c0"
+    },
+    {
+      "path": "evidence/mobile-pricing.png",
+      "bytes": 62170,
+      "sha256": "640370797a4beebfc2d658c65fdf6395ae8b2aefcae0e907d19734694547e9d6"
+    },
+    {
+      "path": "evidence/mobile-savings.png",
+      "bytes": 32175,
+      "sha256": "e6a26a2a61cb9321e6a7bb743794eb58484db69c6f733a198ab3204ebb5cd420"
+    },
+    {
+      "path": "evidence/mobile-switch.png",
+      "bytes": 54568,
+      "sha256": "5d28771f92776be5e032a0e8bb62dffd2deec0b1852838756beaba324e0a11b2"
+    },
+    {
+      "path": "evidence/mobile.webm",
+      "bytes": 3042916,
+      "sha256": "1525633be1971bade24a7276ece1ee848636295b9bf21db00d1df8bacc8ce878"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-12s.png",
+      "bytes": 224860,
+      "sha256": "64dbe3ee79fa166ac98d2efbe514b4c5f43d2ab44fe4494d7db6dbb22ea20db6"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-18s.png",
+      "bytes": 247930,
+      "sha256": "d07874a30818a5e857de77ccea3aa44e98eb1e5ade2fb7a2485de597a82483cc"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-24s.png",
+      "bytes": 238596,
+      "sha256": "002b94571782a236bb243938b536a894f9c0fb61dc7f3f78a5031dee5440dc4d"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-30s.png",
+      "bytes": 226984,
+      "sha256": "e2b286ea0ab095278eee45681abf731abfd37222588620d8a88ec9aa492d3b78"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-36s.png",
+      "bytes": 265676,
+      "sha256": "6735114d18c22567e3e386966d4c8084359c05b1c4f64a4ed608d07378452df6"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-42s.png",
+      "bytes": 250267,
+      "sha256": "8ab149572529e6ef356959ece82eadc59407a963c85c99a490e014790cb59616"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-4s.png",
+      "bytes": 134570,
+      "sha256": "ab43b4ddd86652ae6617e0459c1078b5b8522f94408de616270e23ea962cc513"
+    },
+    {
+      "path": "evidence/recorded-frames/desktop-8s.png",
+      "bytes": 207279,
+      "sha256": "b3cfca0bdaf8d75bfcf97d7ace35b22615057d9457aa9ca2ff4c5ce205890d38"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-12s.png",
+      "bytes": 128614,
+      "sha256": "5ead47c30320b63384c2c1cd6b8e88869261f80aac4460c0359b4f2b27abfb67"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-18s.png",
+      "bytes": 168069,
+      "sha256": "e365b7c319c9c2f96a9288630c5ff9f5b89df76fa87118f2576b31ec33b39817"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-24s.png",
+      "bytes": 149944,
+      "sha256": "8960b9ea4a92e9bf4e5eaa9f902160202e8b98afff5588b1d8a3978a699fef83"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-30s.png",
+      "bytes": 152877,
+      "sha256": "6154a0f652ab646719f330f017d18559fd2f03ce3f94ec1ef56465abbb12b594"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-36s.png",
+      "bytes": 176709,
+      "sha256": "eca011cb052d0dbc721ab68c64f8e5e7fa77b1fb1c0d1aaf7589dc8caa83b751"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-42s.png",
+      "bytes": 169524,
+      "sha256": "f7a10a0185296cee9e808014427621787d211983ecfbeaa2963076d2e6fad2a2"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-4s.png",
+      "bytes": 70764,
+      "sha256": "5bcd7ccf82ab4e8aa8380690ce8b1feb5375f156b2594211e8b8f7647a622d78"
+    },
+    {
+      "path": "evidence/recorded-frames/mobile-8s.png",
+      "bytes": 131277,
+      "sha256": "1afde2671a8a15673873f50e16a4d50aa0a378b808b41e1b911b9a65c70f7ea2"
+    },
+    {
+      "path": "evidence/visual-inspection.json",
+      "bytes": 1160,
+      "sha256": "fa2920172ec5959976441f6d4f022d53a5822f481568fc3eaee469a95964132b"
+    },
+    {
+      "path": "facts.json",
+      "bytes": 224567,
+      "sha256": "15726715eefda8f6cdcd80acdacd71e84b405510c55311a54c9d27dc891136ba"
+    },
+    {
+      "path": "fonts/InstrumentSans.ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "bytes": 4496,
+      "sha256": "841742d77e5deeaf719ad3f9aaf17891abe4b827a49fc8e1b0558ee59a2b3195"
+    },
+    {
+      "path": "illustration.py",
+      "bytes": 8347,
+      "sha256": "6cdef02f48ec9fb9c28a349e29f88ce5e7ea21367f1dad4225649673d58d7f03"
+    },
+    {
+      "path": "index.html",
+      "bytes": 614,
+      "sha256": "5805e5ef22c0e3dce0fb0d70eaea3e03dedcf2a85884c74629ccbd07ed9728bc"
+    },
+    {
+      "path": "provider-worker.mjs",
+      "bytes": 797,
+      "sha256": "a4da0914741f2189d647e78a6e8fa222807d661a619b2509af057703f961c18c"
+    },
+    {
+      "path": "review.html",
+      "bytes": 6009,
+      "sha256": "2fb1a4cb1904d5046363395dbcf5465dba9ff1673a7abd620deb0145a813ad15"
+    },
+    {
+      "path": "review.json",
+      "bytes": 725,
+      "sha256": "a86cd54c1ddee3f16d45683666625abd40845e1bfb84ad4bf49aaf667eb603ac"
+    },
+    {
+      "path": "runtime/LICENSE.txt",
+      "bytes": 16725,
+      "sha256": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
+    },
+    {
+      "path": "runtime/pyodide-lock.json",
+      "bytes": 120010,
+      "sha256": "3256ffc76388de0e37f4b34d42ab484268d1afc675179ff97b2a5bb14f84ccac"
+    },
+    {
+      "path": "runtime/pyodide.asm.js",
+      "bytes": 1074322,
+      "sha256": "1263f02b5b26099b96112378156f242dd98b39a8201ba7765e5fe3d455c5ce91"
+    },
+    {
+      "path": "runtime/pyodide.asm.wasm",
+      "bytes": 8647684,
+      "sha256": "e2f4ee75b325e35eb31bfb8c613d4dd5098f5502c156a97847686875b5025480"
+    },
+    {
+      "path": "runtime/pyodide.mjs",
+      "bytes": 17616,
+      "sha256": "23213d27e9dacbda6f25f955fb38dabfc40ada082c04ee253047ea5dddcaa3b5"
+    },
+    {
+      "path": "runtime/python_stdlib.zip",
+      "bytes": 2423989,
+      "sha256": "4298b6ee445cb724c3973437da47789752b9e6ff4e26619026b283ec801fc46b"
+    },
+    {
+      "path": "scenario.py",
+      "bytes": 762,
+      "sha256": "2715ead72f2c2d8ea03976e1fa5b86838c229a26607f3741fe2619e395ccd547"
+    }
+  ]
+}
