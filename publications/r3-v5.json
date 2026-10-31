@@ -1,0 +1,8 @@
+{
+  "iteration": "R3-v5",
+  "initial_source_commit": "6b5eab1c8343d0ec6369fdfd9c7ff3b9a3e7d384",
+  "initial_asset_commit": "cc8f5726c90ce884c570be10daa42ac108b34412",
+  "source_branch": "design/m8-r3-v5",
+  "public_branch": "review/r3-v5",
+  "status": "Hosted full-journey recording in progress; owner review pending"
+}
