@@ -16,3 +16,5 @@ iterations/r3-v9/** -text
 iterations/r3-v10/** -text
 iterations/r3-v11/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 iterations/r3-v11/fonts/OFL.txt -whitespace
+iterations/r3-v12/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+iterations/r3-v12/fonts/OFL.txt -whitespace

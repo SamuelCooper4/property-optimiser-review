@@ -1,0 +1,10 @@
+{
+  "iteration": "R3-v12",
+  "recorded_source_commit": "9f148524cbfacbd394965d2acf81d8c75827ffef",
+  "tested_source_commit": "ef590cca5ce68b1371d53ce4f83f25b47831320b",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/27",
+  "physical_device_tested": false,
+  "novice_comprehension_tested": false,
+  "calculator_available": false,
+  "final_difference_gbp": "102911.67"
+}

@@ -1,0 +1,189 @@
+{
+  "url": "http://127.0.0.1:8842/",
+  "recordedSourceCommit": "9f148524cbfacbd394965d2acf81d8c75827ffef",
+  "playbackRate": 1,
+  "editing": "none",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 800,
+      "emulatedMobile": false,
+      "durationMs": 57787,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 3758,
+          "headline": "You’re buying a house."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6884,
+          "headline": "You have some savings."
+        },
+        {
+          "beat": "limit",
+          "elapsedMs": 10008,
+          "headline": "This household can spend up to £2,000 a month on its mortgage."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 17355,
+          "headline": "What is the optimum amount to put towards the deposit?"
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 20491,
+          "headline": "A larger deposit means a smaller mortgage—and less interest to pay."
+        },
+        {
+          "beat": "pricing",
+          "elapsedMs": 26009,
+          "headline": "A larger deposit can also unlock a lower interest rate."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 29135,
+          "headline": "A lower monthly mortgage payment leaves more to invest each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 34620,
+          "headline": "However, a smaller deposit leaves more savings available to invest from day one."
+        },
+        {
+          "beat": "allocation",
+          "elapsedMs": 39153,
+          "headline": "Keep a reserve. Invest the remaining savings."
+        },
+        {
+          "beat": "comparison",
+          "elapsedMs": 42356,
+          "headline": "Which choice leaves this household better off?"
+        },
+        {
+          "beat": "growth",
+          "elapsedMs": 51429,
+          "headline": "Which choice leaves this household better off?"
+        }
+      ],
+      "run": {
+        "firstMovementToEndMs": 4984.799999999996,
+        "nominalMs": 5000,
+        "headlineChanges": 0,
+        "financialRequests": 0,
+        "scale": "800000"
+      },
+      "file": "desktop.webm",
+      "errors": []
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedMobile": true,
+      "durationMs": 57709,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 3710,
+          "headline": "You’re buying a house."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6816,
+          "headline": "You have some savings."
+        },
+        {
+          "beat": "limit",
+          "elapsedMs": 9921,
+          "headline": "This household can spend up to £2,000 a month on its mortgage."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 17333,
+          "headline": "What is the optimum amount to put towards the deposit?"
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 20456,
+          "headline": "A larger deposit means a smaller mortgage—and less interest to pay."
+        },
+        {
+          "beat": "pricing",
+          "elapsedMs": 25966,
+          "headline": "A larger deposit can also unlock a lower interest rate."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 29087,
+          "headline": "A lower monthly mortgage payment leaves more to invest each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 34595,
+          "headline": "However, a smaller deposit leaves more savings available to invest from day one."
+        },
+        {
+          "beat": "allocation",
+          "elapsedMs": 39114,
+          "headline": "Keep a reserve. Invest the remaining savings."
+        },
+        {
+          "beat": "comparison",
+          "elapsedMs": 42309,
+          "headline": "Which choice leaves this household better off?"
+        },
+        {
+          "beat": "growth",
+          "elapsedMs": 51376,
+          "headline": "Which choice leaves this household better off?"
+        }
+      ],
+      "run": {
+        "firstMovementToEndMs": 4984.5999999999985,
+        "nominalMs": 5000,
+        "headlineChanges": 0,
+        "financialRequests": 0,
+        "scale": "800000"
+      },
+      "file": "mobile.webm",
+      "errors": []
+    }
+  ],
+  "applicationAssets": [
+    {
+      "path": "index.html",
+      "sha256": "76127e29752c954fa226f1d99fe1b428f5f7fd5d3f1ba4b90c5e240378c73825"
+    },
+    {
+      "path": "illustration.py",
+      "sha256": "f735028ba85f70ec360d9f06b6649d5eba55c9f7153dbb84de4ec39f622d038b"
+    },
+    {
+      "path": "scenario.py",
+      "sha256": "9d3898894b0411daebf0737d93ae736c5ca52abf84be416932f349490a343688"
+    },
+    {
+      "path": "facts.json",
+      "sha256": "2d388ea7c31859419edaff03355bbced6c0576ca192a9048714328b8c1df6a44"
+    },
+    {
+      "path": "provider-worker.mjs",
+      "sha256": "a4da0914741f2189d647e78a6e8fa222807d661a619b2509af057703f961c18c"
+    },
+    {
+      "path": "assets/index-Bbgle-Pr.css",
+      "sha256": "ef73ae3482922fcb2ae93afc6c954e9349701dad2a5cdcf66080876774f2110f"
+    },
+    {
+      "path": "assets/index-jIoUjfpW.js",
+      "sha256": "1ec040938a009d8935ff10056269a804116641574589d42933c0618d09b930f3"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    }
+  ]
+}
