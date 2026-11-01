@@ -1,0 +1,199 @@
+{
+  "url": "http://127.0.0.1:8841/",
+  "recordedSourceCommit": "0ea7381c159212bd29fbe992bd3181d73702782b",
+  "playbackRate": 1,
+  "editing": "none",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 800,
+      "emulatedMobile": false,
+      "durationMs": 61152,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 4053,
+          "headline": "You’re buying a house."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6721,
+          "headline": "You have some savings."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 13632,
+          "headline": "What is the optimum amount to put towards the deposit?"
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 16303,
+          "headline": "A larger deposit means a smaller mortgage—and less interest to pay."
+        },
+        {
+          "beat": "pricing",
+          "elapsedMs": 21286,
+          "headline": "A larger deposit can also unlock a lower interest rate."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 23952,
+          "headline": "A lower monthly mortgage payment leaves more to save or invest each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 28979,
+          "headline": "However, a smaller deposit leaves more savings available to save or invest from day one."
+        },
+        {
+          "beat": "bridge",
+          "elapsedMs": 36289,
+          "headline": "Keep some savings outside the house."
+        },
+        {
+          "beat": "smaller",
+          "elapsedMs": 40350,
+          "headline": "Two deposits. The same £2,000 each month."
+        },
+        {
+          "beat": "comparison",
+          "elapsedMs": 43017,
+          "headline": "How much better off is the smaller deposit?"
+        },
+        {
+          "beat": "growth",
+          "elapsedMs": 50704,
+          "headline": "How much better off is the smaller deposit?"
+        },
+        {
+          "beat": "ending",
+          "elapsedMs": 54776,
+          "headline": "What deposit works best for your numbers?"
+        }
+      ],
+      "run": {
+        "firstMovementToEndMs": 4984.700000000004,
+        "nominalMs": 5000,
+        "headlineChanges": 0,
+        "financialRequests": 0,
+        "scale": "1000000.00"
+      },
+      "file": "desktop.webm",
+      "errors": []
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedMobile": true,
+      "durationMs": 61087,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 4018,
+          "headline": "You’re buying a house."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6676,
+          "headline": "You have some savings."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 13592,
+          "headline": "What is the optimum amount to put towards the deposit?"
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 16250,
+          "headline": "A larger deposit means a smaller mortgage—and less interest to pay."
+        },
+        {
+          "beat": "pricing",
+          "elapsedMs": 21293,
+          "headline": "A larger deposit can also unlock a lower interest rate."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 23951,
+          "headline": "A lower monthly mortgage payment leaves more to save or invest each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 29008,
+          "headline": "However, a smaller deposit leaves more savings available to save or invest from day one."
+        },
+        {
+          "beat": "bridge",
+          "elapsedMs": 36295,
+          "headline": "Keep some savings outside the house."
+        },
+        {
+          "beat": "smaller",
+          "elapsedMs": 40355,
+          "headline": "Two deposits. The same £2,000 each month."
+        },
+        {
+          "beat": "comparison",
+          "elapsedMs": 43006,
+          "headline": "How much better off is the smaller deposit?"
+        },
+        {
+          "beat": "growth",
+          "elapsedMs": 50678,
+          "headline": "How much better off is the smaller deposit?"
+        },
+        {
+          "beat": "ending",
+          "elapsedMs": 54735,
+          "headline": "What deposit works best for your numbers?"
+        }
+      ],
+      "run": {
+        "firstMovementToEndMs": 4984.800000000003,
+        "nominalMs": 5000,
+        "headlineChanges": 0,
+        "financialRequests": 0,
+        "scale": "1000000.00"
+      },
+      "file": "mobile.webm",
+      "errors": []
+    }
+  ],
+  "applicationAssets": [
+    {
+      "path": "index.html",
+      "sha256": "66d915c2600fe2c19ff26ba8bc6b9c732a837d3a7090718408079ea61a7e1689"
+    },
+    {
+      "path": "illustration.py",
+      "sha256": "99a1d00c6bc0d861700ced0b48bfc26730a8aa2b5ad9062da94ba1e951f3da46"
+    },
+    {
+      "path": "scenario.py",
+      "sha256": "b2768714fca5d1f972d5081a39ada57034eb77d71caf77a54244dad74af572ea"
+    },
+    {
+      "path": "facts.json",
+      "sha256": "4c1698034761d4e3c2bfc94397c779d9f42fe03cd3fc7c01406e35c318cc92e8"
+    },
+    {
+      "path": "provider-worker.mjs",
+      "sha256": "a4da0914741f2189d647e78a6e8fa222807d661a619b2509af057703f961c18c"
+    },
+    {
+      "path": "assets/index-BttIbzAJ.js",
+      "sha256": "7e0eb358b535065c12ed59d5783663abe958fa56c808c46b06a627ad01c12c9e"
+    },
+    {
+      "path": "assets/index-CLXOLM6l.css",
+      "sha256": "bb0245f36e8a5654519cdd96978d5c533b7b1f917d0fcb03027cd124cbb86438"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    }
+  ]
+}

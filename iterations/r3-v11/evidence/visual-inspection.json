@@ -1,0 +1,21 @@
+{
+  "recorded_application": "0ea7381c159212bd29fbe992bd3181d73702782b",
+  "inspected_scene_captures": 24,
+  "inspected_decoded_frames": 18,
+  "frame_times_seconds": [
+    4,
+    10,
+    18,
+    24,
+    32,
+    38,
+    43,
+    47,
+    51
+  ],
+  "agent_inspection": "Both desktop/mobile contact sheets and decoded-frame contact sheets inspected. Separate large phone interaction, bridge, ending frames inspected during iteration. Final figures legible; no observed clipped/overlapping labels in inspected settled frames. Independent reviewer inspected mid-transition shapes and delayed labels.",
+  "media_validation": "Both uncut encoded files played at1x to ended, no media errors;63.68/63.84seconds. Not a physical-device test.",
+  "application_hashes_match_rebuilt_artifact": true,
+  "physical_device_tested": false,
+  "novice_comprehension_tested": false
+}

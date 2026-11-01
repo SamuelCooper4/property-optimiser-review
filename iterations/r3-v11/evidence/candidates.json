@@ -1,0 +1,38 @@
+{
+  "candidates": [
+    {
+      "deposit": 90000,
+      "rate": "0.05",
+      "payment": "1932.56",
+      "monthly_investment": "67.44",
+      "opening": "50000.00",
+      "final_net": "1058128.53",
+      "difference": "-134335.50"
+    },
+    {
+      "deposit": 112500,
+      "rate": "0.04",
+      "payment": "1611.28",
+      "monthly_investment": "388.72",
+      "opening": "27500.00",
+      "final_net": "1284259.61",
+      "difference": "91795.58"
+    },
+    {
+      "deposit": 120000,
+      "rate": "0.04",
+      "payment": "1575.47",
+      "monthly_investment": "424.53",
+      "opening": "20000.00",
+      "final_net": "1259224.45",
+      "difference": "66760.42"
+    }
+  ],
+  "larger": {
+    "payment": "1479.99",
+    "monthly_investment": "520.01",
+    "final_net": "1192464.03"
+  },
+  "minimum_affordable_deposit": 77437,
+  "choice": "112500: first deposit at 4%, simple inclusive threshold; additional deposit buys no further rate reduction. No return tuning."
+}
