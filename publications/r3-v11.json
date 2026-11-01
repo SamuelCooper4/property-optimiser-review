@@ -1,0 +1,84 @@
+{
+  "iteration": "R3-v11",
+  "recorded_source_commit": "0ea7381c159212bd29fbe992bd3181d73702782b",
+  "tested_source_commit": "90fc452281026148aaac417e4c1fdd6f74c3a5c3",
+  "source_wrapper_commit": "b10f72308a3eed1b99f53018e9966f88af3c4fb7",
+  "publication_asset_commit": "bac710289f19943b40527de9881edc0cefc2be64",
+  "source_branch": "design/m8-r3-v11",
+  "public_branch": "review/r3-v11",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/26",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v11/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v11/review.html",
+  "shared_monthly_funding_gbp": "2000",
+  "minimum_affordable_deposit_gbp": 77437,
+  "smaller_deposit_gbp": 112500,
+  "larger_deposit_gbp": 140000,
+  "both_comparison_mortgage_rates": "0.04",
+  "smaller_final_net_gbp": "1284259.61",
+  "larger_final_net_gbp": "1192464.03",
+  "final_difference_gbp": "91795.58",
+  "model_version": "r3-v11-illustration-2026-11-01-v1",
+  "scenario_version": "r3-v11-teaching-2026-11-01-v1",
+  "facts_version": "r3-v11-facts-2026-11-01-v1",
+  "backend_tests_passed_across_two_runs": 4730,
+  "backend_initial_passed": 4561,
+  "backend_missing_temp_parent_setup_errors": 169,
+  "backend_targeted_retry_passed": 169,
+  "illustration_tests_passed": 9,
+  "javascript_tests_passed": 3,
+  "worker_parity_cases": 13,
+  "viewport_scene_checks": 72,
+  "enlarged_text_checks": 24,
+  "mobile_control": {
+    "viewport_width": 390,
+    "travel_px": 302,
+    "target_height_px": 52,
+    "thumb_px": 48
+  },
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 800,
+      "duration": 63.68,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "decodedFrames": 9,
+      "elapsedSeconds": 63.698
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "duration": 63.84,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "decodedFrames": 9,
+      "elapsedSeconds": 63.869
+    }
+  ],
+  "recording_scope": "Uncut local compiled application; captured asset hashes match rebuilt and separately verified publication.",
+  "physical_device_tested": false,
+  "novice_comprehension_tested": false,
+  "calculator_available": false,
+  "hosted_source_ci": {
+    "source_commit": "b10f72308a3eed1b99f53018e9966f88af3c4fb7",
+    "check_runs": 0,
+    "workflow_runs": 0,
+    "status": "No hosted source CI run or pass claimed; local verification is separate"
+  },
+  "preservation": {
+    "base": "44692aa80f77cc2575bdce44e4c14a70010a1207",
+    "asset_commit": "bac710289f19943b40527de9881edc0cefc2be64",
+    "prior_blobs_preserved": 1582,
+    "allowed_existing_changes": [
+      ".gitattributes",
+      "index.html"
+    ],
+    "result": "pass"
+  },
+  "status": "Owner visual feedback pending; no R4 or main merge",
+  "deployment_identity_note": "The deployment is the commit containing this record. Its full SHA and verified Pages build receipt are in source PUBLICATION.md; a file cannot contain its own commit hash."
+}
