@@ -1,0 +1,82 @@
+{
+  "iteration": "R3-v12",
+  "recorded_source_commit": "9f148524cbfacbd394965d2acf81d8c75827ffef",
+  "tested_source_commit": "ef590cca5ce68b1371d53ce4f83f25b47831320b",
+  "source_wrapper_commit": "ccde9eb93fe098f4aaac0c048717eeac3f9aea17",
+  "publication_asset_commit": "d3bd8738abf01eaf3a743778b975573352ac8694",
+  "source_branch": "design/m8-r3-v12",
+  "public_branch": "review/r3-v12",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/27",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v12/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r3-v12/review.html",
+  "shared_monthly_funding_gbp": "2000",
+  "minimum_affordable_deposit_gbp": "77436.765907848945656756361451141460866549879245986",
+  "winner": "larger",
+  "final_difference_gbp": "102911.67",
+  "backend_tests_passed_clean_run": 4730,
+  "illustration_tests_passed": 10,
+  "javascript_tests_passed": 4,
+  "worker_parity_cases": 15,
+  "viewport_scene_checks": 66,
+  "enlarged_text_checks": 44,
+  "mobile_control": {
+    "viewport_width": 390,
+    "travel_px": 302,
+    "target_height_px": 52,
+    "thumb_px": 48
+  },
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 800,
+      "duration": 60.32,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "decodedFrames": 11,
+      "elapsedSeconds": 60.339
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "duration": 60.4,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "decodedFrames": 11,
+      "elapsedSeconds": 60.416
+    }
+  ],
+  "recording_scope": "Uncut local compiled application; captured asset hashes match rebuilt application. Anonymous publication bytes checked separately in source receipt.",
+  "physical_device_tested": false,
+  "novice_comprehension_tested": false,
+  "calculator_available": false,
+  "hosted_source_ci": {
+    "source_commit": "ccde9eb93fe098f4aaac0c048717eeac3f9aea17",
+    "check_runs": 0,
+    "workflow_runs": 0,
+    "status": "No hosted source CI run or pass claimed; local verification is separate"
+  },
+  "preservation": {
+    "base": "4dc5acc6beae97b698d844d6a63a7733bac40a45",
+    "asset_commit": "d3bd8738abf01eaf3a743778b975573352ac8694",
+    "prior_blobs_preserved": 1653,
+    "allowed_existing_changes": [
+      ".gitattributes",
+      "index.html"
+    ],
+    "result": "pass"
+  },
+  "status": "Owner visual feedback pending; no R4 or main merge",
+  "deployment_identity_note": "The deployment is the commit containing this record. Its full SHA and verified Pages build receipt are in source PUBLICATION.md; a file cannot contain its own commit hash.",
+  "smaller_deposit_gbp": "77436.765907848945656756361451141460866549879245986",
+  "smaller_rate": "0.05",
+  "smaller_monthly_investment_gbp": "0",
+  "smaller_final_net_gbp": "1089552.36",
+  "larger_deposit_gbp": "140000",
+  "larger_rate": "0.04",
+  "larger_monthly_investment_gbp": "520.0125840570755736281332133594697903326619293267",
+  "larger_final_net_gbp": "1192464.03"
+}
