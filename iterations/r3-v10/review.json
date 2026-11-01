@@ -1,0 +1,29 @@
+{
+  "iteration": "R3-v10",
+  "tested_source_commit": "afcf1b3a0729faa7a1273bdcdfb159dec1bf8e9a",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/25",
+  "recorded_source_commit": "ae1ca65f61e81984ba3260f659aa9f4067839e52",
+  "scenario": "r3-v10-teaching-2026-11-01-v1",
+  "model": "r3-v10-illustration-2026-11-01-v1",
+  "backend": {
+    "passed": 4730,
+    "skipped": 0,
+    "warnings": 2,
+    "seconds": 291.13,
+    "ruff": "pass",
+    "mypy": "pass",
+    "mypy_sources": 53,
+    "warning_detail": "Optional PyYAML output warnings from numpy/scipy configuration"
+  },
+  "illustration_tests": 7,
+  "javascript_tests": 3,
+  "viewport_scene_checks": 72,
+  "enlarged_text_checks": 15,
+  "worker_parity_cases": 8,
+  "recording_scope": "Uncut local compiled build; live byte identity checked separately",
+  "physical_device_tested": false,
+  "novice_comprehension_tested": false,
+  "calculator_available": false,
+  "owner_visual_acceptance": "pending",
+  "source_ci": "Recorded separately in publication identities; no inferred pass"
+}

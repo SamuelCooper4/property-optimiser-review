@@ -1,0 +1,31 @@
+{
+  "recorded_source_commit": "ae1ca65f61e81984ba3260f659aa9f4067839e52",
+  "inspector": "Codex agent",
+  "method": "Complete scene screenshot/contact inspection plus decoded normal-speed recording frames; full 1x media playback checked separately",
+  "scene_screenshots": 24,
+  "decoded_recording_frames": 18,
+  "viewports": [
+    [
+      1280,
+      800
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "inspected": [
+    "opening arrivals",
+    "deposit pointer/touch manipulation",
+    "three benefits",
+    "authored comparison transition",
+    "both scenario introductions",
+    "shared mid-run graph/house/pots",
+    "held ending",
+    "prototype handoff"
+  ],
+  "observations": "No clipping or overlaps in final captures; honest close graph; fixed investment scales and readable scenario identities. Earlier failing captures remain labelled in source verification/early and independent-review evidence, not published as final evidence.",
+  "physical_device": false,
+  "novice_comprehension": false,
+  "owner_visual_acceptance": "pending"
+}

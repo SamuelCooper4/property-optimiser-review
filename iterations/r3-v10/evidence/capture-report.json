@@ -1,0 +1,199 @@
+{
+  "url": "http://127.0.0.1:8840/",
+  "recordedSourceCommit": "ae1ca65f61e81984ba3260f659aa9f4067839e52",
+  "playbackRate": 1,
+  "editing": "none",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 800,
+      "emulatedMobile": false,
+      "durationMs": 53499,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 4042,
+          "headline": "You’re buying a house."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6696,
+          "headline": "You have some savings."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 11746,
+          "headline": "What is the optimum amount to put towards the deposit?"
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 14419,
+          "headline": "A larger deposit means a smaller mortgage—and less interest to pay."
+        },
+        {
+          "beat": "pricing",
+          "elapsedMs": 19334,
+          "headline": "A larger deposit can also unlock a lower interest rate."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 22010,
+          "headline": "A lower monthly mortgage payment leaves more to save or invest each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 24670,
+          "headline": "However, a smaller deposit leaves more savings available to save or invest from day one."
+        },
+        {
+          "beat": "larger",
+          "elapsedMs": 28730,
+          "headline": "Over time, savings and investments can grow—and you can add to them."
+        },
+        {
+          "beat": "smaller",
+          "elapsedMs": 32791,
+          "headline": "Let’s see how the two choices play out over 30 years."
+        },
+        {
+          "beat": "comparison",
+          "elapsedMs": 35457,
+          "headline": "Let’s see how the two choices play out over 30 years."
+        },
+        {
+          "beat": "growth",
+          "elapsedMs": 43134,
+          "headline": "Let’s see how the two choices play out over 30 years."
+        },
+        {
+          "beat": "ending",
+          "elapsedMs": 47194,
+          "headline": "What’s the optimum deposit for your situation?"
+        }
+      ],
+      "run": {
+        "firstMovementToEndMs": 4984.699999999997,
+        "nominalMs": 5000,
+        "headlineChanges": 0,
+        "financialRequests": 0,
+        "scale": "1000000.00"
+      },
+      "file": "desktop.webm",
+      "errors": []
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedMobile": true,
+      "durationMs": 53522,
+      "cues": [
+        {
+          "beat": "home",
+          "elapsedMs": 4025,
+          "headline": "You’re buying a house."
+        },
+        {
+          "beat": "savings",
+          "elapsedMs": 6676,
+          "headline": "You have some savings."
+        },
+        {
+          "beat": "choice",
+          "elapsedMs": 11710,
+          "headline": "What is the optimum amount to put towards the deposit?"
+        },
+        {
+          "beat": "interest",
+          "elapsedMs": 14364,
+          "headline": "A larger deposit means a smaller mortgage—and less interest to pay."
+        },
+        {
+          "beat": "pricing",
+          "elapsedMs": 19396,
+          "headline": "A larger deposit can also unlock a lower interest rate."
+        },
+        {
+          "beat": "budget",
+          "elapsedMs": 22049,
+          "headline": "A lower monthly mortgage payment leaves more to save or invest each month."
+        },
+        {
+          "beat": "switch",
+          "elapsedMs": 24708,
+          "headline": "However, a smaller deposit leaves more savings available to save or invest from day one."
+        },
+        {
+          "beat": "larger",
+          "elapsedMs": 28768,
+          "headline": "Over time, savings and investments can grow—and you can add to them."
+        },
+        {
+          "beat": "smaller",
+          "elapsedMs": 32819,
+          "headline": "Let’s see how the two choices play out over 30 years."
+        },
+        {
+          "beat": "comparison",
+          "elapsedMs": 35474,
+          "headline": "Let’s see how the two choices play out over 30 years."
+        },
+        {
+          "beat": "growth",
+          "elapsedMs": 43147,
+          "headline": "Let’s see how the two choices play out over 30 years."
+        },
+        {
+          "beat": "ending",
+          "elapsedMs": 47207,
+          "headline": "What’s the optimum deposit for your situation?"
+        }
+      ],
+      "run": {
+        "firstMovementToEndMs": 4984.699999999997,
+        "nominalMs": 5000,
+        "headlineChanges": 0,
+        "financialRequests": 0,
+        "scale": "1000000.00"
+      },
+      "file": "mobile.webm",
+      "errors": []
+    }
+  ],
+  "applicationAssets": [
+    {
+      "path": "index.html",
+      "sha256": "eee6fb2abe6f3f092f155021210bc0c90939093c2b033b2cca5fab1dd2dfdb83"
+    },
+    {
+      "path": "illustration.py",
+      "sha256": "46616cc0d046e61af34aaf5e4c910de9a74def3d6efc29ee45af0442cd91c4c9"
+    },
+    {
+      "path": "scenario.py",
+      "sha256": "a82d020a03409746389016eb5f9fed47217f40960eb5c60bcdfe96f94136a6be"
+    },
+    {
+      "path": "facts.json",
+      "sha256": "637f404a9ee2079b1dd0a2e5bf5688f229be54a715cff3c0b57c39a5ac826f23"
+    },
+    {
+      "path": "provider-worker.mjs",
+      "sha256": "a4da0914741f2189d647e78a6e8fa222807d661a619b2509af057703f961c18c"
+    },
+    {
+      "path": "assets/index-BlBXF7-8.css",
+      "sha256": "b5278ed3201a74d38362b7de4f1da05a61bc73be32da6142f9de5c8871ebedf7"
+    },
+    {
+      "path": "assets/index-DcJcxRvq.js",
+      "sha256": "bd1e8975c65c67363687a71161d7a4cf96a7c5f1688e3a245d56ceab113aaa9c"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    }
+  ]
+}
