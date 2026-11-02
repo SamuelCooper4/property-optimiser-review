@@ -1,0 +1,256 @@
+{
+  "recordedSourceCommit": "f06c13bd413053b4110f854433a3d0af8df813f9",
+  "url": "http://127.0.0.1:8844/",
+  "editing": "None. Continuous browser recordings at normal speed.",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "emulatedTouch": false,
+      "durationMs": 53189,
+      "cues": [
+        {
+          "label": "Default dashboard",
+          "elapsedMs": 9226
+        },
+        {
+          "label": "Edited inputs, old result explicitly stale",
+          "elapsedMs": 11084
+        },
+        {
+          "label": "Calculated entered assumptions",
+          "elapsedMs": 16481
+        },
+        {
+          "label": "Deposit and term inspection linked to summary",
+          "elapsedMs": 17974
+        },
+        {
+          "label": "Horizon 20, independent timeline cursor 7",
+          "elapsedMs": 19429
+        },
+        {
+          "label": "Timeline paused",
+          "elapsedMs": 22702
+        },
+        {
+          "label": "Added and reordered allocation tile",
+          "elapsedMs": 24371
+        },
+        {
+          "label": "Expanded allocation",
+          "elapsedMs": 25873
+        },
+        {
+          "label": "curve treatment A",
+          "elapsedMs": 27631
+        },
+        {
+          "label": "curve treatment B",
+          "elapsedMs": 29100
+        },
+        {
+          "label": "map treatment A",
+          "elapsedMs": 30667
+        },
+        {
+          "label": "map treatment B",
+          "elapsedMs": 32143
+        },
+        {
+          "label": "allocation treatment A",
+          "elapsedMs": 33766
+        },
+        {
+          "label": "allocation treatment B",
+          "elapsedMs": 35234
+        },
+        {
+          "label": "timeline treatment A",
+          "elapsedMs": 36831
+        },
+        {
+          "label": "timeline treatment B",
+          "elapsedMs": 38319
+        },
+        {
+          "label": "risk treatment A",
+          "elapsedMs": 39981
+        },
+        {
+          "label": "risk treatment B",
+          "elapsedMs": 41461
+        },
+        {
+          "label": "Fixed-plan rate stress; no silent reoptimisation",
+          "elapsedMs": 45691
+        },
+        {
+          "label": "Funded combined overpayment comparison",
+          "elapsedMs": 49821
+        },
+        {
+          "label": "Permitted timing and amount candidates",
+          "elapsedMs": 51287
+        },
+        {
+          "label": "Restored default layout",
+          "elapsedMs": 53188
+        }
+      ],
+      "errors": [],
+      "file": "desktop.webm"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedTouch": true,
+      "durationMs": 68537,
+      "cues": [
+        {
+          "label": "Refined comparison endpoint",
+          "elapsedMs": 15724
+        },
+        {
+          "label": "Default dashboard",
+          "elapsedMs": 25121
+        },
+        {
+          "label": "Edited inputs, old result explicitly stale",
+          "elapsedMs": 26855
+        },
+        {
+          "label": "Calculated entered assumptions",
+          "elapsedMs": 32279
+        },
+        {
+          "label": "Deposit and term inspection linked to summary",
+          "elapsedMs": 33767
+        },
+        {
+          "label": "Horizon 20, independent timeline cursor 7",
+          "elapsedMs": 35219
+        },
+        {
+          "label": "Timeline paused",
+          "elapsedMs": 38533
+        },
+        {
+          "label": "Added and reordered allocation tile",
+          "elapsedMs": 40348
+        },
+        {
+          "label": "Expanded allocation",
+          "elapsedMs": 41854
+        },
+        {
+          "label": "curve treatment A",
+          "elapsedMs": 43531
+        },
+        {
+          "label": "curve treatment B",
+          "elapsedMs": 45017
+        },
+        {
+          "label": "map treatment A",
+          "elapsedMs": 46504
+        },
+        {
+          "label": "map treatment B",
+          "elapsedMs": 47985
+        },
+        {
+          "label": "allocation treatment A",
+          "elapsedMs": 49496
+        },
+        {
+          "label": "allocation treatment B",
+          "elapsedMs": 50962
+        },
+        {
+          "label": "timeline treatment A",
+          "elapsedMs": 52512
+        },
+        {
+          "label": "timeline treatment B",
+          "elapsedMs": 54015
+        },
+        {
+          "label": "risk treatment A",
+          "elapsedMs": 55543
+        },
+        {
+          "label": "risk treatment B",
+          "elapsedMs": 57025
+        },
+        {
+          "label": "Fixed-plan rate stress; no silent reoptimisation",
+          "elapsedMs": 61110
+        },
+        {
+          "label": "Funded combined overpayment comparison",
+          "elapsedMs": 65195
+        },
+        {
+          "label": "Permitted timing and amount candidates",
+          "elapsedMs": 66667
+        },
+        {
+          "label": "Restored default layout",
+          "elapsedMs": 68537
+        }
+      ],
+      "errors": [],
+      "file": "mobile.webm"
+    }
+  ],
+  "applicationAssets": [
+    {
+      "path": "index.html",
+      "sha256": "c2ac687ebb24673eca5dab38c999d68718d85fad99b0fdccb53baa3ecebe07ba"
+    },
+    {
+      "path": "model.py",
+      "sha256": "f20fb8fdc3a87416b04886c5d9cdf1b18298a69a0cd14a0278f3920ae14462b6"
+    },
+    {
+      "path": "model-worker.mjs",
+      "sha256": "7a0530b1bdd8276ef86358d409aa4411895bf3bd98dc1efda1434a225b55f98d"
+    },
+    {
+      "path": "intro/index.html",
+      "sha256": "ec90c698778b7135fd9947ea949dffa74ea9d382e4b3026efb1bfbfd3f3cee08"
+    },
+    {
+      "path": "intro/illustration.py",
+      "sha256": "f735028ba85f70ec360d9f06b6649d5eba55c9f7153dbb84de4ec39f622d038b"
+    },
+    {
+      "path": "assets/index-U_9ZbN_y.js",
+      "sha256": "d27195ae1f556f41599fb5d59bbd67c34e5a67ca76a687bc5f9583a267d78ddf"
+    },
+    {
+      "path": "assets/index-YoW5Hc59.css",
+      "sha256": "7bd4f9c05cc3fdff611498ca4345f0d94f06e5d9350397fb0972fe3029649840"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "intro/assets/index-CoJ1zY01.js",
+      "sha256": "8aa864ac32d8e5f6a194978582d9e62aff1a4aaff7d0a685d59e29afd95f0df8"
+    },
+    {
+      "path": "intro/assets/index-MqfpyfK9.css",
+      "sha256": "d4e2025ad9b01a6f9b7675517b6361d23f8c91a87d64de60e421e52365fde787"
+    },
+    {
+      "path": "intro/assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    }
+  ]
+}

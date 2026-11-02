@@ -1,0 +1,143 @@
+{
+  "iteration": "R4-v1",
+  "status": "Owner visual feedback pending",
+  "recordedSourceCommit": "f06c13bd413053b4110f854433a3d0af8df813f9",
+  "testedSourceCommit": "1cc987d864d52a6649d6bbdeb4c3c82dd6b977d4",
+  "recommendedDefault": [
+    "compact illustrated summary",
+    "outcome map and linked deposit slice",
+    "timeline and selected-date breakdown"
+  ],
+  "scores": {
+    "scale": "1–5 agent evaluation, not user research",
+    "columns": [
+      "treatment",
+      "clarity",
+      "decision usefulness",
+      "visual appeal",
+      "interaction",
+      "mobile",
+      "accessibility",
+      "data integrity",
+      "consistency"
+    ],
+    "rows": [
+      [
+        "Curve A",
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      [
+        "Curve B",
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        5,
+        5
+      ],
+      [
+        "Map A",
+        5,
+        5,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      [
+        "Map B",
+        5,
+        5,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      [
+        "Timeline A",
+        5,
+        5,
+        4,
+        5,
+        4,
+        4,
+        5,
+        5
+      ],
+      [
+        "Timeline B",
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      [
+        "Risk A",
+        4,
+        5,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      [
+        "Risk B",
+        5,
+        5,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      [
+        "Summary A",
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      [
+        "Summary B",
+        4,
+        4,
+        5,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
+    ]
+  },
+  "limitations": [
+    "Isolated exploratory model, not accepted production successor",
+    "Sampled search, no exact global optimum",
+    "Named deterministic paths, no probabilities",
+    "No physical-device, novice, spoken screen-reader, Safari or Firefox testing"
+  ]
+}

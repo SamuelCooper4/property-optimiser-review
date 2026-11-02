@@ -18,3 +18,6 @@ iterations/r3-v11/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab
 iterations/r3-v11/fonts/OFL.txt -whitespace
 iterations/r3-v12/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 iterations/r3-v12/fonts/OFL.txt -whitespace
+iterations/r4-v1/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+iterations/r4-v1/fonts/OFL.txt -whitespace
+iterations/r4-v1/intro/fonts/OFL.txt -whitespace

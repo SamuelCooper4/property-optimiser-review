@@ -1,0 +1,20 @@
+[
+  {
+    "name": "desktop",
+    "duration": 53,
+    "ended": true,
+    "rate": 1,
+    "error": null,
+    "frames": 1325,
+    "elapsedSeconds": 53.085
+  },
+  {
+    "name": "mobile",
+    "duration": 68.52,
+    "ended": true,
+    "rate": 1,
+    "error": null,
+    "frames": 1713,
+    "elapsedSeconds": 68.532
+  }
+]
