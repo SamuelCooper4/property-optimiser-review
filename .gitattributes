@@ -24,3 +24,6 @@ iterations/r4-v1/intro/fonts/OFL.txt -whitespace
 iterations/r4-v2/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 iterations/r4-v2/fonts/OFL.txt -whitespace
 iterations/r4-v2/intro/fonts/OFL.txt -whitespace
+iterations/r4-v3/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+iterations/r4-v3/fonts/OFL.txt -whitespace
+iterations/r4-v3/intro/fonts/OFL.txt -whitespace

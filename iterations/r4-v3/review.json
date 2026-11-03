@@ -1,0 +1,274 @@
+{
+  "iteration": "R4-v3",
+  "status": "Ready for owner visual review. New draft PR; no merge.",
+  "ownerAcceptance": "Pending",
+  "identities": {
+    "recordedSource": "488ffa1493b71003c92505bea698388f2d2eaa77",
+    "testedSource": "488ffa1493b71003c92505bea698388f2d2eaa77",
+    "prUrl": "https://github.com/SamuelCooper4/property-optimiser/pull/30",
+    "prNumber": 30
+  },
+  "checks": {
+    "modelPython": {
+      "status": "passed",
+      "count": 46,
+      "detail": "Independent high-precision references, conservation, boundaries and schedule search."
+    },
+    "javascript": {
+      "status": "passed",
+      "count": 17,
+      "detail": "Selection, horizon, stale results and applied-option isolation."
+    },
+    "backend": {
+      "status": "passed",
+      "expectedCount": 4730,
+      "count": 4730,
+      "detail": "One clean full run; two optional-PyYAML warnings. Production source unchanged."
+    },
+    "ruff": {
+      "status": "passed",
+      "detail": "Required backend lint."
+    },
+    "mypy": {
+      "status": "passed",
+      "expectedCount": 53,
+      "count": 53,
+      "detail": "Strict backend type checking."
+    },
+    "workerParity": {
+      "status": "passed",
+      "count": 15,
+      "detail": "Every complete response equals CPython, including Decimal strings."
+    },
+    "browser": {
+      "status": "passed",
+      "detail": "Desktop and 320/390px journeys; 40 retained-chart captures; axe; keyboard; trusted emulated touch; rapid input; reduced motion; 12 normal/200% text layouts."
+    },
+    "hosted": {
+      "status": "external",
+      "detail": "Exact deployed hashes, links, live browser checks and Pages receipt are recorded separately in the linked source PUBLICATION.md."
+    }
+  },
+  "unperformed": [
+    "Physical-device testing",
+    "Safari and Firefox testing",
+    "Novice-comprehension testing",
+    "Spoken screen-reader testing"
+  ],
+  "comparison": [
+    {
+      "r4v2": "Deposit interaction is concentrated around the opening illustration.",
+      "r4v3": "Shared deposit and viewed-date controls stay available through lower views."
+    },
+    {
+      "r4v2": "Opening allocation leads; timeline inspection is separate.",
+      "r4v3": "Purchase-day allocation and the viewed-date house, investment cohorts and cash use the same selection."
+    },
+    {
+      "r4v2": "A manual pin is needed for several comparisons.",
+      "r4v3": "Calculated best is the default reference; the selected term persists as the deposit moves."
+    },
+    {
+      "r4v2": "Term ranking mainly shows which outcome is higher.",
+      "r4v3": "Equal-deposit monthly funding, investments, remaining debt and a return crossing explain the difference."
+    },
+    {
+      "r4v2": "26 views include repeated controls and closely related charts.",
+      "r4v3": "20 retained views consolidate six overlaps; the full predecessor mapping remains available."
+    },
+    {
+      "r4v2": "One later-rate reset, flat overpayment fields and a wire projection.",
+      "r4v3": "Renewal-aware rate paths, dated overpayment schedules and a labelled fixed-term surface with a 2D fallback."
+    }
+  ],
+  "catalogueCount": 20,
+  "previousViewCount": 26,
+  "mapping": [
+    {
+      "previous": "curve",
+      "current": "curve",
+      "revision": "Main connected curve reused; selected/global-best markers and rate boundaries."
+    },
+    {
+      "previous": "difference",
+      "current": "curve",
+      "revision": "Difference mode; repeated controls and metrics removed."
+    },
+    {
+      "previous": "near",
+      "current": "map",
+      "revision": "Explicit £5,000 near-best mode and qualifying-choice table."
+    },
+    {
+      "previous": "map",
+      "current": "map",
+      "revision": "Readable blue scale, funding hatching and actual evaluated-term rows."
+    },
+    {
+      "previous": "term",
+      "current": "term",
+      "revision": "Controlled equal-deposit term explanation, return crossing and joint-map access."
+    },
+    {
+      "previous": "horizon",
+      "current": "horizon",
+      "revision": "Unique-choice line omits ties; change records retain them."
+    },
+    {
+      "previous": "surface",
+      "current": "surface",
+      "revision": "Labelled fixed-term surface, trajectory, section, ridge and 2D mobile fallback."
+    },
+    {
+      "previous": "allocation",
+      "current": "allocation",
+      "revision": "Connected purchase-day illustration replaces symbolic pots."
+    },
+    {
+      "previous": "staircase",
+      "current": "staircase",
+      "revision": "Connected staircase and selected/best monthly allocation."
+    },
+    {
+      "previous": "funding",
+      "current": "funding",
+      "revision": "Mortgage/investing stack removes duplicate headroom series."
+    },
+    {
+      "previous": "timeline",
+      "current": "timeline",
+      "revision": "Automatic selected/best comparison, shared cursor and difference view."
+    },
+    {
+      "previous": "breakdown",
+      "current": "breakdown",
+      "revision": "Viewed-date illustration and signed asset/debt reconciliation."
+    },
+    {
+      "previous": "cohorts",
+      "current": "cohorts",
+      "revision": "Signed contributions/growth composition plus attributable cohort paths."
+    },
+    {
+      "previous": "debt",
+      "current": "debt",
+      "revision": "House repayment fill and debt comparison; complementary repaid line removed."
+    },
+    {
+      "previous": "payments",
+      "current": "payments",
+      "revision": "Stacked principal/interest with exact monthly data."
+    },
+    {
+      "previous": "liquidity",
+      "current": "liquidity",
+      "revision": "Cash, investments and equity remain distinct with visible exact cash."
+    },
+    {
+      "previous": "pair",
+      "current": "timeline",
+      "revision": "Consolidated automatic comparison; optional manual pin."
+    },
+    {
+      "previous": "returns",
+      "current": "returns",
+      "revision": "Entered-return cursor and focused reversal region; full-range option."
+    },
+    {
+      "previous": "risk",
+      "current": "risk",
+      "revision": "Same path for both plans with model-supplied fall/recovery annotations."
+    },
+    {
+      "previous": "sensitivity",
+      "current": "sensitivity",
+      "revision": "Explicit shock consequences without statistical-ranking claims."
+    },
+    {
+      "previous": "breakeven",
+      "current": "returns",
+      "revision": "Consolidated zero-line difference and tested reversal intervals."
+    },
+    {
+      "previous": "rates",
+      "current": "rates",
+      "revision": "Aligned rate/payment/investing/funded-position axes."
+    },
+    {
+      "previous": "breach",
+      "current": "rates",
+      "revision": "Payment/funding comparison and shaded shortfall months."
+    },
+    {
+      "previous": "lump",
+      "current": "lump",
+      "revision": "Unified schedule, event, payoff, interest-saving and liquidity result."
+    },
+    {
+      "previous": "regular",
+      "current": "lump",
+      "revision": "Recurring and dated overpayments consolidated."
+    },
+    {
+      "previous": "timing",
+      "current": "timing",
+      "revision": "Visual date/amount comparison; zero-lump duplicates collapse."
+    }
+  ],
+  "media": [
+    {
+      "name": "desktop-default",
+      "file": "evidence/desktop-default.png",
+      "caption": "Desktop dashboard",
+      "alt": "R4-v3 dashboard with shared deposit and date controls, allocation, curve and comparison timeline.",
+      "status": "ready",
+      "sha256": "7145316118949297fefd362aba5153e096ca5e985f3bc9a6c7392ef07298fdc3"
+    },
+    {
+      "name": "mobile-default",
+      "file": "evidence/mobile-default.png",
+      "caption": "Phone-sized Chrome emulation",
+      "alt": "Phone-sized R4-v3 dashboard with the shared deposit and viewed-date controls.",
+      "phone": true,
+      "status": "ready",
+      "sha256": "fbfe4229a5a50154bad2798ec14d86812c7ad28a76e5bec82a521a8f977f4072"
+    },
+    {
+      "name": "desktop-terms",
+      "file": "evidence/desktop-terms.png",
+      "caption": "Same deposit, different mortgage terms",
+      "alt": "Controlled term comparison showing mortgage versus investment funding, remaining debt and the net-position difference.",
+      "status": "ready",
+      "sha256": "79d5cdf9c704d9e7a973f2a67f63e7647797b230c40fbfc18d0ff7bbf241ce3d"
+    },
+    {
+      "name": "desktop-surface",
+      "file": "evidence/desktop-surface.png",
+      "caption": "Fixed-term surface and viewed-year section",
+      "alt": "Fixed-term deposit and time surface with labelled money height, selected trajectory, viewed-year section and best-deposit ridge.",
+      "status": "ready",
+      "sha256": "36fcb427cdb8c33cab80d656dd01fb9c96c7f99ed48c485dc4506f50e5aa1e0a"
+    }
+  ],
+  "recordings": [
+    {
+      "name": "desktop",
+      "file": "evidence/desktop.webm",
+      "status": "ready",
+      "durationSeconds": 123.84,
+      "detail": "Separate continuous journey; native controls; original speed.",
+      "sha256": "7cacf7e0a965337b9ab99f387563a12e2b7d9b182e0c5ea77f7550ef8e1ee911"
+    },
+    {
+      "name": "mobile",
+      "file": "evidence/mobile.webm",
+      "status": "ready",
+      "durationSeconds": 129.52,
+      "detail": "Separate continuous journey; native controls; original speed.",
+      "sha256": "0de85d3ca6250b5ab3b4eb459b25e6dff7f12e1592ed6411b58c967dbb99dbaf"
+    }
+  ],
+  "modelReadmeSha256": "501cdae6aeeeba6b535de36968d16a5e53245d914f8f55fbcf44f5210e36c3cd",
+  "publicationReceipt": "../../publications/r4-v3.json",
+  "previousIteration": "../r4-v2/"
+}

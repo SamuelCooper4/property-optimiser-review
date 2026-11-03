@@ -1,0 +1,311 @@
+{
+  "recordedSourceCommit": "488ffa1493b71003c92505bea698388f2d2eaa77",
+  "url": "http://127.0.0.1:8848/",
+  "startedAt": "2026-11-03T23:30:08.207Z",
+  "status": "passed",
+  "playbackSpeed": 1,
+  "normalSpeed": true,
+  "editing": "None. Separate continuous desktop and mobile-emulation journeys, recorded at normal 1x speed.",
+  "physicalDevice": false,
+  "browser": "Chrome via Playwright channel chrome; headless",
+  "applicationAssets": [
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1",
+      "servedSha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "assets/index-AkWNvLSO.css",
+      "bytes": 49446,
+      "sha256": "61bbe065803ee9474be34d8d5bb4e9cf9e5f514f498e10c65216eb48b82ffa1c",
+      "servedSha256": "61bbe065803ee9474be34d8d5bb4e9cf9e5f514f498e10c65216eb48b82ffa1c"
+    },
+    {
+      "path": "assets/index-CCvL9s1x.js",
+      "bytes": 312757,
+      "sha256": "5d68435597ed87dee03e7155908b83078a69d325bb24659c5c82845fed42af74",
+      "servedSha256": "5d68435597ed87dee03e7155908b83078a69d325bb24659c5c82845fed42af74"
+    },
+    {
+      "path": "index.html",
+      "bytes": 417,
+      "sha256": "b624a10d1f9bb0126bd9d92cb9d66f6324d0b438adb1785d0f5f367890d5cc49",
+      "servedSha256": "b624a10d1f9bb0126bd9d92cb9d66f6324d0b438adb1785d0f5f367890d5cc49"
+    },
+    {
+      "path": "model-worker.mjs",
+      "bytes": 706,
+      "sha256": "0ac185bda8b934ed12314f8f505de0d763f9332eb6dee5e5b5b778a006554076",
+      "servedSha256": "0ac185bda8b934ed12314f8f505de0d763f9332eb6dee5e5b5b778a006554076"
+    },
+    {
+      "path": "model.py",
+      "bytes": 33896,
+      "sha256": "ff8bc900b474ab4637943b06a0b4be41818c77baa07ba0f774f285fce91c079d",
+      "servedSha256": "ff8bc900b474ab4637943b06a0b4be41818c77baa07ba0f774f285fce91c079d"
+    }
+  ],
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "emulatedTouch": false,
+      "physicalDevice": false,
+      "playbackSpeed": 1,
+      "normalSpeed": true,
+      "status": "passed",
+      "errors": [],
+      "cues": [
+        {
+          "label": "Calculated recommendation: £112,500 deposit, 35-year mortgage, year-30 objective",
+          "elapsedMs": 8703
+        },
+        {
+          "label": "Deposit below the 75% LTV threshold: 5% opening rate",
+          "elapsedMs": 14343
+        },
+        {
+          "label": "Dragged across the 75% LTV threshold: 4% opening rate",
+          "elapsedMs": 19960
+        },
+        {
+          "label": "House repayment and investments at purchase",
+          "elapsedMs": 23098
+        },
+        {
+          "label": "House repayment and investments at year 15",
+          "elapsedMs": 26220
+        },
+        {
+          "label": "House repayment and investments at year 30",
+          "elapsedMs": 29357
+        },
+        {
+          "label": "Compact sticky deposit and time controls beside the lower timeline",
+          "elapsedMs": 32273
+        },
+        {
+          "label": "Exact selected-versus-best difference after a lower-page sticky deposit adjustment",
+          "elapsedMs": 38259
+        },
+        {
+          "label": "Same deposit and funding: 30-year versus calculated-best 35-year term",
+          "elapsedMs": 49604
+        },
+        {
+          "label": "Additional investments offset by remaining debt; £14,184.51 net difference",
+          "elapsedMs": 53023
+        },
+        {
+          "label": "The fixed-term ranking changes within the sampled 4–5% return interval",
+          "elapsedMs": 56034
+        },
+        {
+          "label": "Edited available-rate path: 6% then 5%, renewal every 24 months",
+          "elapsedMs": 65502
+        },
+        {
+          "label": "Tested path: available rates and rates actually locked into the mortgage",
+          "elapsedMs": 74237
+        },
+        {
+          "label": "Required payments against household funding",
+          "elapsedMs": 77158
+        },
+        {
+          "label": "Investment capacity under the same rate path",
+          "elapsedMs": 80074
+        },
+        {
+          "label": "Both fixed plans compared under the same external rate path",
+          "elapsedMs": 82993
+        },
+        {
+          "label": "Entered strategy: £150 monthly, plus £8,000 from investments in month 120",
+          "elapsedMs": 95627
+        },
+        {
+          "label": "Evaluated payoff date, common-period interest saving, and net-position difference",
+          "elapsedMs": 104403
+        },
+        {
+          "label": "Dated overpayment event and debt comparison",
+          "elapsedMs": 107332
+        },
+        {
+          "label": "Investments retained, cash and charges remain visible",
+          "elapsedMs": 110252
+        },
+        {
+          "label": "Fixed-term surface: selected trajectory, viewed-year slice and unique-best ridge",
+          "elapsedMs": 117414
+        },
+        {
+          "label": "Linked exact deposit comparison at the viewed year",
+          "elapsedMs": 120427
+        },
+        {
+          "label": "Shared time control updates the surface slice without changing the benchmark",
+          "elapsedMs": 122252
+        }
+      ],
+      "screenshots": [
+        "desktop-default.png",
+        "desktop-sticky.png",
+        "desktop-terms.png",
+        "desktop-surface.png"
+      ],
+      "coverage": [
+        "recommendation",
+        "native-pointer LTV threshold crossing",
+        "sticky lower-page deposit adjustment",
+        "purchase/year15/year30 illustrations",
+        "automatic benchmark difference",
+        "controlled term explanation",
+        "tested multi-renewal rate path",
+        "evaluated overpayment schedule",
+        "fixed-term surface and linked slice"
+      ],
+      "durationMs": 122253,
+      "file": "desktop.webm",
+      "rawFile": "raw/page@e311f6e4ea67a61e4e47235bcfa62640.webm"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedTouch": true,
+      "physicalDevice": false,
+      "playbackSpeed": 1,
+      "normalSpeed": true,
+      "status": "passed",
+      "errors": [],
+      "cues": [
+        {
+          "label": "Calculated recommendation: £112,500 deposit, 35-year mortgage, year-30 objective",
+          "elapsedMs": 9215
+        },
+        {
+          "label": "Deposit below the 75% LTV threshold: 5% opening rate",
+          "elapsedMs": 14938
+        },
+        {
+          "label": "Dragged across the 75% LTV threshold: 4% opening rate",
+          "elapsedMs": 20645
+        },
+        {
+          "label": "House repayment and investments at purchase",
+          "elapsedMs": 23778
+        },
+        {
+          "label": "Investment cohorts at year 0",
+          "elapsedMs": 26205
+        },
+        {
+          "label": "House repayment and investments at year 15",
+          "elapsedMs": 29337
+        },
+        {
+          "label": "Investment cohorts at year 15",
+          "elapsedMs": 31770
+        },
+        {
+          "label": "House repayment and investments at year 30",
+          "elapsedMs": 34911
+        },
+        {
+          "label": "Investment cohorts at year 30",
+          "elapsedMs": 37327
+        },
+        {
+          "label": "Compact sticky deposit and time controls beside the lower timeline",
+          "elapsedMs": 40246
+        },
+        {
+          "label": "Exact selected-versus-best difference after a lower-page sticky deposit adjustment",
+          "elapsedMs": 46413
+        },
+        {
+          "label": "Same deposit and funding: 30-year versus calculated-best 35-year term",
+          "elapsedMs": 57807
+        },
+        {
+          "label": "Additional investments offset by remaining debt; £14,184.51 net difference",
+          "elapsedMs": 61223
+        },
+        {
+          "label": "The fixed-term ranking changes within the sampled 4–5% return interval",
+          "elapsedMs": 64228
+        },
+        {
+          "label": "Edited available-rate path: 6% then 5%, renewal every 24 months",
+          "elapsedMs": 73721
+        },
+        {
+          "label": "Tested path: available rates and rates actually locked into the mortgage",
+          "elapsedMs": 82391
+        },
+        {
+          "label": "Required payments against household funding",
+          "elapsedMs": 85323
+        },
+        {
+          "label": "Investment capacity under the same rate path",
+          "elapsedMs": 88249
+        },
+        {
+          "label": "Both fixed plans compared under the same external rate path",
+          "elapsedMs": 91181
+        },
+        {
+          "label": "Entered strategy: £150 monthly, plus £8,000 from investments in month 120",
+          "elapsedMs": 103848
+        },
+        {
+          "label": "Evaluated payoff date, common-period interest saving, and net-position difference",
+          "elapsedMs": 112690
+        },
+        {
+          "label": "Dated overpayment event and debt comparison",
+          "elapsedMs": 115619
+        },
+        {
+          "label": "Investments retained, cash and charges remain visible",
+          "elapsedMs": 118550
+        },
+        {
+          "label": "Mobile fallback: exact deposit slice at year 15, with term held fixed",
+          "elapsedMs": 125422
+        },
+        {
+          "label": "Shared time control updates the surface slice without changing the benchmark",
+          "elapsedMs": 127245
+        }
+      ],
+      "screenshots": [
+        "mobile-default.png",
+        "mobile-sticky.png",
+        "mobile-terms.png",
+        "mobile-surface.png"
+      ],
+      "coverage": [
+        "recommendation",
+        "native-pointer LTV threshold crossing",
+        "sticky lower-page deposit adjustment",
+        "purchase/year15/year30 illustrations",
+        "automatic benchmark difference",
+        "controlled term explanation",
+        "tested multi-renewal rate path",
+        "evaluated overpayment schedule",
+        "fixed-term surface and linked slice",
+        "mobile 2D surface fallback"
+      ],
+      "durationMs": 127270,
+      "file": "mobile.webm",
+      "rawFile": "raw/page@bb9bee2d6d20584b2e6c9689ec6b3665.webm"
+    }
+  ],
+  "finishedAt": "2026-11-03T23:32:16.219Z"
+}
