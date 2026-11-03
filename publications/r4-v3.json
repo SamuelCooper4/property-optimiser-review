@@ -1,0 +1,73 @@
+{
+  "iteration": "R4-v3",
+  "recorded_source_commit": "488ffa1493b71003c92505bea698388f2d2eaa77",
+  "tested_source_commit": "488ffa1493b71003c92505bea698388f2d2eaa77",
+  "source_wrapper_commit": "455ab76b8388f39899afb654d6f8521c05544e31",
+  "publication_asset_commit": "1450511b47d6737ec254139d4522ced20d027777",
+  "source_branch": "design/m8-r4-v3",
+  "public_branch": "review/r4-v3",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/30",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r4-v3/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r4-v3/review.html",
+  "baseline_pr29_head": "cd546127a14ed082406bcb62a92c94cefa13adc5",
+  "baseline_publication": "f02fcc07f481c8f2f1e7e2a5214608245442f659",
+  "model_version": "r4-exploratory-v3",
+  "model_scope": "Isolated illustrative Decimal provider; production engine unchanged",
+  "previous_views": 26,
+  "retained_views": 20,
+  "tests": {
+    "exploratory_python": 46,
+    "intro_python": 10,
+    "javascript": 17,
+    "complete_worker_parity": 15,
+    "backend_clean_run": 4730,
+    "backend_warnings": 2,
+    "ruff": "pass",
+    "mypy_source_files": 53
+  },
+  "recordings": [
+    {
+      "name": "desktop",
+      "duration": 123.84,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "frames": 3096,
+      "elapsedSeconds": 123.898
+    },
+    {
+      "name": "mobile",
+      "duration": 129.52,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "frames": 3238,
+      "elapsedSeconds": 129.583
+    }
+  ],
+  "preservation": {
+    "base": "f02fcc07f481c8f2f1e7e2a5214608245442f659",
+    "prior_blobs_preserved": 1853,
+    "allowed_existing_changes": [
+      ".gitattributes",
+      "index.html"
+    ],
+    "recorded_application": "488ffa1493b71003c92505bea698388f2d2eaa77",
+    "recorded_assets_rebuilt_identically": 6,
+    "result": "pass"
+  },
+  "hosted_source_ci": {
+    "source_commit": "455ab76b8388f39899afb654d6f8521c05544e31",
+    "check_runs": 0,
+    "workflow_runs": 0,
+    "status": "No hosted source CI pass claimed; local tests and Pages deployment are separate"
+  },
+  "limitations": [
+    "Sampled joint and timing searches, no global optimum",
+    "Deterministic paths, no probabilities",
+    "No tax/LISA eligibility, inflation, investment fees or lender-specific rules",
+    "No physical-device, novice, spoken screen-reader, Safari or Firefox test"
+  ],
+  "status": "Owner visual feedback pending; no merge or next iteration",
+  "deployment_identity_note": "The exact deployment is the commit containing this record. Its full SHA and verified Pages receipt are in source design/r4-v3/PUBLICATION.md; a file cannot include its own commit hash."
+}
