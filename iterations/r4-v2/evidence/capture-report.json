@@ -1,0 +1,180 @@
+{
+  "recordedSourceCommit": "6f49562278be3a84ca1ad57a1c3d453a74c5f02f",
+  "url": "http://127.0.0.1:8846/",
+  "editing": "None; continuous normal-speed browser journeys.",
+  "physicalDevice": false,
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "emulatedTouch": false,
+      "durationMs": 38775,
+      "cues": [
+        {
+          "label": "Default calculated deposit, term and evaluation year",
+          "elapsedMs": 6753
+        },
+        {
+          "label": "Deposit control beside house",
+          "elapsedMs": 8733
+        },
+        {
+          "label": "Moved across75% LTV boundary",
+          "elapsedMs": 13824
+        },
+        {
+          "label": "Linked deposit outcome curve",
+          "elapsedMs": 15742
+        },
+        {
+          "label": "Curve selects the same scenario",
+          "elapsedMs": 17552
+        },
+        {
+          "label": "Deliberately changed term to30 years",
+          "elapsedMs": 19455
+        },
+        {
+          "label": "Restored best deposit and term",
+          "elapsedMs": 21314
+        },
+        {
+          "label": "Edited assumptions are visibly stale",
+          "elapsedMs": 23154
+        },
+        {
+          "label": "Recalculated with new monthly budget",
+          "elapsedMs": 28475
+        },
+        {
+          "label": "Selected scenario timeline",
+          "elapsedMs": 30298
+        },
+        {
+          "label": "Inspected year15 without changing evaluation year30",
+          "elapsedMs": 32119
+        },
+        {
+          "label": "Opened one focused investment stress exploration",
+          "elapsedMs": 36843
+        },
+        {
+          "label": "Current result",
+          "elapsedMs": 38775
+        }
+      ],
+      "errors": [],
+      "file": "desktop.webm"
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedTouch": true,
+      "durationMs": 38954,
+      "cues": [
+        {
+          "label": "Default calculated deposit, term and evaluation year",
+          "elapsedMs": 6736
+        },
+        {
+          "label": "Deposit control beside house",
+          "elapsedMs": 8649
+        },
+        {
+          "label": "Moved across75% LTV boundary",
+          "elapsedMs": 14022
+        },
+        {
+          "label": "Linked deposit outcome curve",
+          "elapsedMs": 15915
+        },
+        {
+          "label": "Curve selects the same scenario",
+          "elapsedMs": 17739
+        },
+        {
+          "label": "Deliberately changed term to30 years",
+          "elapsedMs": 19653
+        },
+        {
+          "label": "Restored best deposit and term",
+          "elapsedMs": 21518
+        },
+        {
+          "label": "Edited assumptions are visibly stale",
+          "elapsedMs": 23390
+        },
+        {
+          "label": "Recalculated with new monthly budget",
+          "elapsedMs": 28696
+        },
+        {
+          "label": "Selected scenario timeline",
+          "elapsedMs": 30520
+        },
+        {
+          "label": "Inspected year15 without changing evaluation year30",
+          "elapsedMs": 32347
+        },
+        {
+          "label": "Opened one focused investment stress exploration",
+          "elapsedMs": 37068
+        },
+        {
+          "label": "Current result",
+          "elapsedMs": 38954
+        }
+      ],
+      "errors": [],
+      "file": "mobile.webm"
+    }
+  ],
+  "applicationAssets": [
+    {
+      "path": "index.html",
+      "sha256": "067cace08e03409af6e52591fac068ab23ec18f70399a53a756512153c06661a"
+    },
+    {
+      "path": "model.py",
+      "sha256": "f627f184b1c157801d7cc0d1a62d8a6553b2187b29d9734fa5a996a089dd0f66"
+    },
+    {
+      "path": "model-worker.mjs",
+      "sha256": "0ac185bda8b934ed12314f8f505de0d763f9332eb6dee5e5b5b778a006554076"
+    },
+    {
+      "path": "intro/index.html",
+      "sha256": "ec90c698778b7135fd9947ea949dffa74ea9d382e4b3026efb1bfbfd3f3cee08"
+    },
+    {
+      "path": "intro/illustration.py",
+      "sha256": "f735028ba85f70ec360d9f06b6649d5eba55c9f7153dbb84de4ec39f622d038b"
+    },
+    {
+      "path": "assets/index-cfcgL68b.css",
+      "sha256": "c499057bcff6e1dc4c32598d7b0f0f0944010fd4a936cee0d543d98dfdd874bc"
+    },
+    {
+      "path": "assets/index-Dd4lmTlZ.js",
+      "sha256": "cc9730d05c0c4eb63680e188bc8dc71573108246c6354014e525f44b051adefb"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "intro/assets/index-CoJ1zY01.js",
+      "sha256": "8aa864ac32d8e5f6a194978582d9e62aff1a4aaff7d0a685d59e29afd95f0df8"
+    },
+    {
+      "path": "intro/assets/index-MqfpyfK9.css",
+      "sha256": "d4e2025ad9b01a6f9b7675517b6361d23f8c91a87d64de60e421e52365fde787"
+    },
+    {
+      "path": "intro/assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    }
+  ]
+}

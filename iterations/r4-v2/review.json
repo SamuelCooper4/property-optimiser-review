@@ -1,0 +1,40 @@
+{
+  "iteration": "R4-v2",
+  "recordedApplication": "6f49562278be3a84ca1ad57a1c3d453a74c5f02f",
+  "checks": {
+    "local": {
+      "modelPython": 24,
+      "introPython": 10,
+      "javascript": 12,
+      "completeWorkerParity": 11,
+      "backend": 4730,
+      "backendWarnings": 2,
+      "ruff": "pass",
+      "strictMypySources": 53,
+      "viewports": [
+        320,
+        390,
+        1280,
+        1440
+      ],
+      "axe": "zero violations in default scans",
+      "libraryViews": 26,
+      "independentReview": "Four important findings fixed and regression checked",
+      "enlargedText": "200% at320px, corrected overflow"
+    },
+    "hosted": "See publication receipt for exact deployment and anonymous verification",
+    "unperformed": [
+      "Physical device",
+      "Safari",
+      "Firefox",
+      "Spoken screen reader",
+      "Novice comprehension"
+    ]
+  },
+  "comparison": {
+    "hierarchy": "Deposit and term lead; curve replaces default heatmap",
+    "connection": "One exact selected scenario drives objects, rates, monthly funding and projected results",
+    "copy": "Hero, repeated metrics, symbolic-pot caveat and per-tile machinery removed from default"
+  },
+  "status": "Owner visual feedback pending; no main merge"
+}
