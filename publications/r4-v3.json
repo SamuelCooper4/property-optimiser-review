@@ -2,8 +2,8 @@
   "iteration": "R4-v3",
   "recorded_source_commit": "488ffa1493b71003c92505bea698388f2d2eaa77",
   "tested_source_commit": "488ffa1493b71003c92505bea698388f2d2eaa77",
-  "source_wrapper_commit": "455ab76b8388f39899afb654d6f8521c05544e31",
-  "publication_asset_commit": "1450511b47d6737ec254139d4522ced20d027777",
+  "source_wrapper_commit": "3eb8d7a61ede3ddc978a6221b542eb1499607d53",
+  "publication_asset_commit": "88e5f7d61a3c8f848ff9c419cd52d7a8d16860f8",
   "source_branch": "design/m8-r4-v3",
   "public_branch": "review/r4-v3",
   "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/30",
@@ -57,7 +57,7 @@
     "result": "pass"
   },
   "hosted_source_ci": {
-    "source_commit": "455ab76b8388f39899afb654d6f8521c05544e31",
+    "source_commit": "3eb8d7a61ede3ddc978a6221b542eb1499607d53",
     "check_runs": 0,
     "workflow_runs": 0,
     "status": "No hosted source CI pass claimed; local tests and Pages deployment are separate"
@@ -69,5 +69,11 @@
     "No physical-device, novice, spoken screen-reader, Safari or Firefox test"
   ],
   "status": "Owner visual feedback pending; no merge or next iteration",
-  "deployment_identity_note": "The exact deployment is the commit containing this record. Its full SHA and verified Pages receipt are in source design/r4-v3/PUBLICATION.md; a file cannot include its own commit hash."
+  "deployment_identity_note": "The exact deployment is the commit containing this record. Its full SHA and verified Pages receipt are in source design/r4-v3/PUBLICATION.md; a file cannot include its own commit hash.",
+  "prior_r4_v3_publication": {
+    "deployment": "59d397bee47708fff4734d4642848eb804caa908",
+    "asset_commit": "1450511b47d6737ec254139d4522ced20d027777",
+    "source_wrapper": "455ab76b8388f39899afb654d6f8521c05544e31",
+    "change": "Review verification-table width only; recorded application and videos unchanged."
+  }
 }
