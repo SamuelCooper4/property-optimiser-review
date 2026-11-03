@@ -18,8 +18,8 @@
     },
     {
       "path": "catalogue.html",
-      "bytes": 13515,
-      "sha256": "6385b609eb82f2352d6a0d11c2e5f2a9286fbbdcef34c1e6d94765f5aff21502"
+      "bytes": 13619,
+      "sha256": "1c2c9426091d1a4426971c235a9bd163cae26957935bbb4846766eabb52560a3"
     },
     {
       "path": "catalogue.json",
@@ -153,8 +153,8 @@
     },
     {
       "path": "model-notes.html",
-      "bytes": 14948,
-      "sha256": "f21a9c32579b7f598c841ccd9ba7bb083be770c0384327120ab34ee1d1d3dfe3"
+      "bytes": 15052,
+      "sha256": "2d79e9ec9daa2d634fc20fee233910c80996849a321a0ee60723941b952eb88f"
     },
     {
       "path": "model-worker.mjs",
@@ -173,8 +173,8 @@
     },
     {
       "path": "review.html",
-      "bytes": 12449,
-      "sha256": "037532b2cecae5cdecdc1745d099cc5f0296a4de48cee88a10d308576beb88aa"
+      "bytes": 12553,
+      "sha256": "a31da8b76dce1f5b5c0ce72a8d41f3f35f1808c8c0447875bc897e47022d37f4"
     },
     {
       "path": "review.json",
