@@ -1,0 +1,48 @@
+{
+  "pr": "https://github.com/SamuelCooper4/property-optimiser/pull/32",
+  "publicationSourceUrl": "https://github.com/SamuelCooper4/property-optimiser/blob/design/m8-r4-v5/design/r4-v5/PUBLICATION.md",
+  "identities": {
+    "Full PR31 baseline": "73d7750812bd422a2583c75b9d2c07ae14a0e145",
+    "R4-v4 recorded application": "2e630537d6f5b9e048eb47011f68c37335ba8941",
+    "R4-v4 review wrapper": "4d234acf24ef0cb6e4009b0d36cfee2fd73c7d10",
+    "R4-v4 public deployment": "702ca35f08204cd728c49f94697513012e90c2e8",
+    "R4-v5 recorded application": "882b03cb7659a4056eca06b7194f291e407642e0"
+  },
+  "checks": [
+    "24 JavaScript tests; 73 provider tests; 10 preserved introduction tests.",
+    "23 complete worker responses exactly equal CPython, including Decimal strings.",
+    "4,730 backend tests passed; Ruff and strict mypy across 53 source files passed.",
+    "Desktop and phone journeys verify personal entry, edit, example, exact entry, rapid reversal, boundary and funding bounds, term evidence, rate consequence and separate viewed year.",
+    "All 20 library views and customisation checked at desktop and phone widths.",
+    "1440px, 390px and 320px rendered screens; 200% root text at 320px; reduced motion; no detected axe violations in tested states.",
+    "Provider, worker, runtime, fonts and introduction source bytes preserved. Independent scoped source review findings resolved."
+  ],
+  "interaction": [
+    {
+      "name": "desktop",
+      "events": 62,
+      "completed": 3,
+      "superseded": 59,
+      "handleMedian": 2,
+      "handleMax": 8.200000000186265,
+      "resultMedian": 8.200000000186265,
+      "resultMax": 567.9000000003725
+    },
+    {
+      "name": "phone",
+      "events": 61,
+      "completed": 3,
+      "superseded": 58,
+      "handleMedian": 1.7000000001862645,
+      "handleMax": 7.7999999998137355,
+      "resultMedian": 7.2000000001862645,
+      "resultMax": 418.6000000005588
+    }
+  ],
+  "limitations": [
+    "No physical-device test",
+    "No novice test",
+    "No spoken screen-reader test",
+    "No Safari/Firefox test"
+  ]
+}

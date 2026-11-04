@@ -30,3 +30,6 @@ iterations/r4-v3/intro/fonts/OFL.txt -whitespace
 iterations/r4-v4/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 iterations/r4-v4/fonts/OFL.txt -whitespace
 iterations/r4-v4/intro/fonts/OFL.txt -whitespace
+iterations/r4-v5/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+iterations/r4-v5/fonts/OFL.txt -whitespace
+iterations/r4-v5/intro/fonts/OFL.txt -whitespace

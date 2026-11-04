@@ -1,0 +1,1272 @@
+{
+  "source": "882b03cb7659a4056eca06b7194f291e407642e0",
+  "url": "http://127.0.0.1:8851/",
+  "recording": true,
+  "device": "Windows Chrome; 1440x1000 desktop and 390x844 CDP touch emulation",
+  "physicalDevice": false,
+  "journeys": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "touch": false,
+      "errors": [],
+      "cues": [
+        {
+          "label": "First entry: four household inputs, secondary comparison year",
+          "elapsedMs": 101
+        },
+        {
+          "label": "Personal result",
+          "elapsedMs": 8106
+        },
+        {
+          "label": "Edited household and recalculated result",
+          "elapsedMs": 16232
+        },
+        {
+          "label": "Separate example route",
+          "elapsedMs": 25591
+        },
+        {
+          "label": "Deposit, selected outcome and opening allocation together",
+          "elapsedMs": 28785
+        },
+        {
+          "label": "Slow and rapid reversal; matching figures settle",
+          "elapsedMs": 33002
+        },
+        {
+          "label": "Funded lower bound",
+          "elapsedMs": 34779
+        },
+        {
+          "label": "Term explanation from the result",
+          "elapsedMs": 42488
+        },
+        {
+          "label": "One mortgage experiment: original and revised choices",
+          "elapsedMs": 48734
+        },
+        {
+          "label": "Higher second deal changes the original purchase decision",
+          "elapsedMs": 52237
+        },
+        {
+          "label": "View year 12; optimisation remains year 30",
+          "elapsedMs": 54870
+        }
+      ],
+      "thresholdBelow": "Mortgage\n£1,703\nInvesting\n£297",
+      "thresholdAt": "Mortgage\n£1,494\nInvesting\n£506",
+      "bound": "67500",
+      "stickyHeight": 78,
+      "timings": [
+        {
+          "eventMs": 12569,
+          "requested": "110561.64",
+          "handleMs": 4.1000000005587935,
+          "shownHandle": "110561.64",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12652.400000000373,
+          "requested": "108624.03",
+          "handleMs": 3.099999999627471,
+          "shownHandle": "108624.03",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12744.100000000559,
+          "requested": "106686.43",
+          "handleMs": 3.099999999627471,
+          "shownHandle": "106686.43",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12835.799999999814,
+          "requested": "104748.83",
+          "handleMs": 2.1000000005587935,
+          "shownHandle": "104748.83",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12919.100000000559,
+          "requested": "102811.22",
+          "handleMs": 2.5,
+          "shownHandle": "102811.22",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13010.799999999814,
+          "requested": "100873.62",
+          "handleMs": 2.2000000001862645,
+          "shownHandle": "100873.62",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13094,
+          "requested": "98936.02",
+          "handleMs": 2.7000000001862645,
+          "shownHandle": "98936.02",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13185.799999999814,
+          "requested": "96998.41",
+          "handleMs": 2.900000000372529,
+          "shownHandle": "96998.41",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13269.200000000186,
+          "requested": "95060.81",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "95060.81",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13360.900000000373,
+          "requested": "93123.21",
+          "handleMs": 2.2999999998137355,
+          "shownHandle": "93123.21",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13452.600000000559,
+          "requested": "91185.6",
+          "handleMs": 2,
+          "shownHandle": "91185.6",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13535.799999999814,
+          "requested": "89250",
+          "handleMs": 2.1000000005587935,
+          "shownHandle": "89250",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13636,
+          "requested": "91666",
+          "handleMs": 2.6000000005587935,
+          "shownHandle": "91666",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13644.200000000186,
+          "requested": "94082",
+          "handleMs": 2.7999999998137355,
+          "shownHandle": "94082",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13652.600000000559,
+          "requested": "96500",
+          "handleMs": 2.199999999254942,
+          "shownHandle": "96500",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13660.900000000373,
+          "requested": "98916",
+          "handleMs": 1.8999999994412065,
+          "shownHandle": "98916",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13669.299999999814,
+          "requested": "101332",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "101332",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13677.600000000559,
+          "requested": "103750",
+          "handleMs": 2.2999999998137355,
+          "shownHandle": "103750",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13685.900000000373,
+          "requested": "106166",
+          "handleMs": 1.8999999994412065,
+          "shownHandle": "106166",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13694.200000000186,
+          "requested": "108582",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "108582",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13702.5,
+          "requested": "111000",
+          "handleMs": 2,
+          "shownHandle": "111000",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13710.900000000373,
+          "requested": "113416",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "113416",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13719.299999999814,
+          "requested": "115832",
+          "handleMs": 1.300000000745058,
+          "shownHandle": "115832",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13727.600000000559,
+          "requested": "118250",
+          "handleMs": 1.8999999994412065,
+          "shownHandle": "118250",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13736,
+          "requested": "120666",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "120666",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13744.200000000186,
+          "requested": "123082",
+          "handleMs": 2,
+          "shownHandle": "123082",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13752.600000000559,
+          "requested": "125500",
+          "handleMs": 2.199999999254942,
+          "shownHandle": "125500",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13760.900000000373,
+          "requested": "127916",
+          "handleMs": 1.5,
+          "shownHandle": "127916",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13769.299999999814,
+          "requested": "130332",
+          "handleMs": 2.1000000005587935,
+          "shownHandle": "130332",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13777.600000000559,
+          "requested": "132750",
+          "handleMs": 1.8999999994412065,
+          "shownHandle": "132750",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13794.299999999814,
+          "requested": "130734.33",
+          "handleMs": 1.800000000745058,
+          "shownHandle": "130734.33",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13802.600000000559,
+          "requested": "128720.67",
+          "handleMs": 2.099999999627471,
+          "shownHandle": "128720.67",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13810.900000000373,
+          "requested": "126707",
+          "handleMs": 2.2999999998137355,
+          "shownHandle": "126707",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13819.299999999814,
+          "requested": "124693.33",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "124693.33",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13827.600000000559,
+          "requested": "122679.67",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "122679.67",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13836,
+          "requested": "120666",
+          "handleMs": 2.1000000005587935,
+          "shownHandle": "120666",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13844.200000000186,
+          "requested": "118652.33",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "118652.33",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13852.600000000559,
+          "requested": "116638.67",
+          "handleMs": 1.599999999627471,
+          "shownHandle": "116638.67",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13860.900000000373,
+          "requested": "114625",
+          "handleMs": 1.8999999994412065,
+          "shownHandle": "114625",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13869.299999999814,
+          "requested": "112609.33",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "112609.33",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13877.600000000559,
+          "requested": "110595.67",
+          "handleMs": 2.099999999627471,
+          "shownHandle": "110595.67",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13886,
+          "requested": "108582",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "108582",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13894.299999999814,
+          "requested": "106568.33",
+          "handleMs": 1.300000000745058,
+          "shownHandle": "106568.33",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13902.700000000186,
+          "requested": "104554.67",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "104554.67",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13911,
+          "requested": "102541",
+          "handleMs": 2.2000000001862645,
+          "shownHandle": "102541",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13919.299999999814,
+          "requested": "100527.33",
+          "handleMs": 1.800000000745058,
+          "shownHandle": "100527.33",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13927.700000000186,
+          "requested": "98513.67",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "98513.67",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13936,
+          "requested": "96500",
+          "handleMs": 1.6000000005587935,
+          "shownHandle": "96500",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13952.799999999814,
+          "requested": "98311.5",
+          "handleMs": 2.2000000001862645,
+          "shownHandle": "98311.5",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14002.700000000186,
+          "requested": "100125",
+          "handleMs": 1.599999999627471,
+          "shownHandle": "100125",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14052.799999999814,
+          "requested": "101936.5",
+          "handleMs": 2,
+          "shownHandle": "101936.5",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14102.700000000186,
+          "requested": "103750",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "103750",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14152.799999999814,
+          "requested": "105561.5",
+          "handleMs": 2.5,
+          "shownHandle": "105561.5",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14194.400000000373,
+          "requested": "107375",
+          "handleMs": 1.599999999627471,
+          "shownHandle": "107375",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14244.400000000373,
+          "requested": "109186.5",
+          "handleMs": 2.099999999627471,
+          "shownHandle": "109186.5",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14294.400000000373,
+          "requested": "111000",
+          "handleMs": 2.3999999994412065,
+          "shownHandle": "111000",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14344.5,
+          "requested": "112811.5",
+          "handleMs": 1.6000000005587935,
+          "shownHandle": "112811.5",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14386.100000000559,
+          "requested": "114625",
+          "handleMs": 1.699999999254942,
+          "shownHandle": "114625",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14436.200000000186,
+          "requested": "116436.5",
+          "handleMs": 1.599999999627471,
+          "shownHandle": "116436.5",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14486.200000000186,
+          "requested": "118250",
+          "handleMs": 2.400000000372529,
+          "shownHandle": "118250",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "resultMs": 567.9000000003725,
+          "matchingPlan": "118250@35"
+        },
+        {
+          "eventMs": 16820.900000000373,
+          "requested": "67500",
+          "handleMs": 7.8999999994412065,
+          "shownHandle": "67500",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "67500@35",
+          "resultMs": 7.8999999994412065,
+          "matchingPlan": "67500@35"
+        },
+        {
+          "eventMs": 18596.700000000186,
+          "requested": "140000",
+          "handleMs": 8.200000000186265,
+          "shownHandle": "140000",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "140000@35",
+          "resultMs": 8.200000000186265,
+          "matchingPlan": "140000@35"
+        }
+      ],
+      "axe": []
+    },
+    {
+      "name": "phone",
+      "width": 390,
+      "height": 844,
+      "touch": true,
+      "errors": [],
+      "cues": [
+        {
+          "label": "First entry: four household inputs, secondary comparison year",
+          "elapsedMs": 101
+        },
+        {
+          "label": "Personal result",
+          "elapsedMs": 8240
+        },
+        {
+          "label": "Edited household and recalculated result",
+          "elapsedMs": 15933
+        },
+        {
+          "label": "Separate example route",
+          "elapsedMs": 25092
+        },
+        {
+          "label": "Deposit, selected outcome and opening allocation together",
+          "elapsedMs": 28201
+        },
+        {
+          "label": "Slow and rapid reversal; matching figures settle",
+          "elapsedMs": 32674
+        },
+        {
+          "label": "Funded lower bound",
+          "elapsedMs": 34411
+        },
+        {
+          "label": "Term explanation from the result",
+          "elapsedMs": 42035
+        },
+        {
+          "label": "One mortgage experiment: original and revised choices",
+          "elapsedMs": 48272
+        },
+        {
+          "label": "Higher second deal changes the original purchase decision",
+          "elapsedMs": 51828
+        },
+        {
+          "label": "Revised choice directly below the editor",
+          "elapsedMs": 53696
+        },
+        {
+          "label": "View year 12; optimisation remains year 30",
+          "elapsedMs": 56293
+        }
+      ],
+      "thresholdBelow": "Mortgage\n£1,703\nInvesting\n£297",
+      "thresholdAt": "Mortgage\n£1,494\nInvesting\n£506",
+      "bound": "67500",
+      "stickyHeight": 68,
+      "timings": [
+        {
+          "eventMs": 12278.200000000186,
+          "requested": "112497.08",
+          "handleMs": 7.7999999998137355,
+          "shownHandle": "112497.08",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12486.100000000559,
+          "requested": "106681.6",
+          "handleMs": 2,
+          "shownHandle": "106681.6",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12578.600000000559,
+          "requested": "104746.64",
+          "handleMs": 1.699999999254942,
+          "shownHandle": "104746.64",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12677.700000000186,
+          "requested": "102806.38",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "102806.38",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12769.400000000373,
+          "requested": "100871.42",
+          "handleMs": 2,
+          "shownHandle": "100871.42",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12861.100000000559,
+          "requested": "98931.16",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "98931.16",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 12961.200000000186,
+          "requested": "96996.2",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "96996.2",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13052.799999999814,
+          "requested": "95061.24",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "95061.24",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13144.600000000559,
+          "requested": "93120.98",
+          "handleMs": 2.5,
+          "shownHandle": "93120.98",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13244.5,
+          "requested": "91186.02",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "91186.02",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13336.200000000186,
+          "requested": "89245.76",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "89245.76",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13436.299999999814,
+          "requested": "91657.83",
+          "handleMs": 2.1000000005587935,
+          "shownHandle": "91657.83",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13452.900000000373,
+          "requested": "94075.2",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "94075.2",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13469.700000000186,
+          "requested": "96492.58",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "96492.58",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13486.299999999814,
+          "requested": "98909.95",
+          "handleMs": 2.300000000745058,
+          "shownHandle": "98909.95",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13503,
+          "requested": "101327.33",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "101327.33",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13519.700000000186,
+          "requested": "103744.7",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "103744.7",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13536.299999999814,
+          "requested": "106162.07",
+          "handleMs": 2,
+          "shownHandle": "106162.07",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13553,
+          "requested": "108579.45",
+          "handleMs": 1.6000000005587935,
+          "shownHandle": "108579.45",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13569.600000000559,
+          "requested": "110996.82",
+          "handleMs": 1.599999999627471,
+          "shownHandle": "110996.82",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13586.299999999814,
+          "requested": "113414.19",
+          "handleMs": 1.5,
+          "shownHandle": "113414.19",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13603,
+          "requested": "115831.57",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "115831.57",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13619.600000000559,
+          "requested": "118243.64",
+          "handleMs": 1.8999999994412065,
+          "shownHandle": "118243.64",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13636.299999999814,
+          "requested": "120661.01",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "120661.01",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13653,
+          "requested": "123078.39",
+          "handleMs": 1.6000000005587935,
+          "shownHandle": "123078.39",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13669.700000000186,
+          "requested": "125495.76",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "125495.76",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13686.299999999814,
+          "requested": "127913.13",
+          "handleMs": 1.6000000005587935,
+          "shownHandle": "127913.13",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13703,
+          "requested": "130330.51",
+          "handleMs": 1.6000000005587935,
+          "shownHandle": "130330.51",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13719.799999999814,
+          "requested": "132747.88",
+          "handleMs": 1.6000000005587935,
+          "shownHandle": "132747.88",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13736.299999999814,
+          "requested": "130733.4",
+          "handleMs": 2.1000000005587935,
+          "shownHandle": "130733.4",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13753,
+          "requested": "128718.92",
+          "handleMs": 1.5,
+          "shownHandle": "128718.92",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13770.200000000186,
+          "requested": "126704.45",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "126704.45",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13788.200000000186,
+          "requested": "124689.97",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "124689.97",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13803,
+          "requested": "122675.49",
+          "handleMs": 1.6000000005587935,
+          "shownHandle": "122675.49",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13819.700000000186,
+          "requested": "120661.01",
+          "handleMs": 1.599999999627471,
+          "shownHandle": "120661.01",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13836.299999999814,
+          "requested": "118646.53",
+          "handleMs": 1.800000000745058,
+          "shownHandle": "118646.53",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13853,
+          "requested": "116637.36",
+          "handleMs": 1.400000000372529,
+          "shownHandle": "116637.36",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13869.700000000186,
+          "requested": "114622.88",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "114622.88",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13886.400000000373,
+          "requested": "112608.4",
+          "handleMs": 1.3999999994412065,
+          "shownHandle": "112608.4",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13903.100000000559,
+          "requested": "110593.92",
+          "handleMs": 2.099999999627471,
+          "shownHandle": "110593.92",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13919.700000000186,
+          "requested": "108579.45",
+          "handleMs": 1.400000000372529,
+          "shownHandle": "108579.45",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13936.400000000373,
+          "requested": "106564.97",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "106564.97",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13953.100000000559,
+          "requested": "104550.49",
+          "handleMs": 1.199999999254942,
+          "shownHandle": "104550.49",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13969.700000000186,
+          "requested": "102541.31",
+          "handleMs": 1.400000000372529,
+          "shownHandle": "102541.31",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 13986.400000000373,
+          "requested": "100526.84",
+          "handleMs": 1.599999999627471,
+          "shownHandle": "100526.84",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14003.100000000559,
+          "requested": "98512.36",
+          "handleMs": 1.699999999254942,
+          "shownHandle": "98512.36",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14019.799999999814,
+          "requested": "96497.88",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "96497.88",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14036.5,
+          "requested": "98305.61",
+          "handleMs": 1.900000000372529,
+          "shownHandle": "98305.61",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14086.5,
+          "requested": "100118.64",
+          "handleMs": 1.2999999998137355,
+          "shownHandle": "100118.64",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14144.799999999814,
+          "requested": "101931.67",
+          "handleMs": 1.400000000372529,
+          "shownHandle": "101931.67",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14194.799999999814,
+          "requested": "103744.7",
+          "handleMs": 2.2000000001862645,
+          "shownHandle": "103744.7",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14253.100000000559,
+          "requested": "105557.73",
+          "handleMs": 1.7999999998137355,
+          "shownHandle": "105557.73",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14303.200000000186,
+          "requested": "107370.76",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "107370.76",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14353.200000000186,
+          "requested": "109183.79",
+          "handleMs": 1.5,
+          "shownHandle": "109183.79",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14411.700000000186,
+          "requested": "110996.82",
+          "handleMs": 1.400000000372529,
+          "shownHandle": "110996.82",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14461.600000000559,
+          "requested": "112809.85",
+          "handleMs": 1.3999999994412065,
+          "shownHandle": "112809.85",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14511.5,
+          "requested": "114622.88",
+          "handleMs": 1.7000000001862645,
+          "shownHandle": "114622.88",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14553.200000000186,
+          "requested": "116435.91",
+          "handleMs": 2.2000000001862645,
+          "shownHandle": "116435.91",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "superseded": true
+        },
+        {
+          "eventMs": 14603.299999999814,
+          "requested": "118248.94",
+          "handleMs": 1.6000000005587935,
+          "shownHandle": "118248.94",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "112500@35",
+          "resultMs": 418.6000000005588,
+          "matchingPlan": "118248.94@35"
+        },
+        {
+          "eventMs": 16752.60000000056,
+          "requested": "67500",
+          "handleMs": 5.099999999627471,
+          "shownHandle": "67500",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "67500@35",
+          "resultMs": 5.099999999627471,
+          "matchingPlan": "67500@35"
+        },
+        {
+          "eventMs": 18489.200000000186,
+          "requested": "140000",
+          "handleMs": 7.2000000001862645,
+          "shownHandle": "140000",
+          "domain": "45000,140000,700438.0355,937326.9345",
+          "previousPlan": "140000@35",
+          "resultMs": 7.2000000001862645,
+          "matchingPlan": "140000@35"
+        }
+      ],
+      "axe": []
+    }
+  ],
+  "assets": [
+    {
+      "path": "index.html",
+      "sha256": "e16afd3ebfe2eb51f10557ea021432585deac492542fba61b52e95463cbf13cc"
+    },
+    {
+      "path": "model.py",
+      "sha256": "321071da21e806a10c7726960331cedd854183187ba64ea4f3d26595515fc719"
+    },
+    {
+      "path": "model-worker.mjs",
+      "sha256": "0ac185bda8b934ed12314f8f505de0d763f9332eb6dee5e5b5b778a006554076"
+    },
+    {
+      "path": "assets/index-2RMpgvRo.js",
+      "sha256": "f2d019852df797e07d277293491c8bed79bb2a31379d454bcc266ecd8a618373"
+    },
+    {
+      "path": "assets/index-CLbdwCoS.css",
+      "sha256": "9d210b17ba95ffac6ca01258ce4552d3691b357e0990b2a5e72996c2199bc587"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    }
+  ]
+}
