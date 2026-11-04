@@ -1,0 +1,67 @@
+{
+  "iteration": "R4-v5",
+  "recorded_source_commit": "882b03cb7659a4056eca06b7194f291e407642e0",
+  "tested_source_commit": "882b03cb7659a4056eca06b7194f291e407642e0",
+  "source_wrapper_commit": "e904631d5cb9651e263b9d5949b13559c7b9d6f5",
+  "publication_asset_commit": "f5b3500276676221cd50f98dbfb38dadf530e933",
+  "source_branch": "design/m8-r4-v5",
+  "public_branch": "review/r4-v5",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/32",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r4-v5/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r4-v5/review.html",
+  "baseline_pr31_head": "73d7750812bd422a2583c75b9d2c07ae14a0e145",
+  "baseline_publication": "702ca35f08204cd728c49f94697513012e90c2e8",
+  "model_version": "r4-exploratory-v4",
+  "model_scope": "Design-only revision. Provider, calculations, search, pricing, funding, assumptions, contracts and production engine unchanged.",
+  "retained_views": 20,
+  "tests": {
+    "exploratory_python": 73,
+    "intro_python": 10,
+    "javascript": 24,
+    "complete_worker_parity": 23,
+    "backend_clean_run": 4730,
+    "backend_warnings": 2,
+    "ruff": "pass",
+    "mypy_source_files": 53
+  },
+  "recordings": [
+    {
+      "name": "desktop",
+      "duration": 58.52,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "frames": 1463,
+      "elapsedSeconds": 58.611
+    },
+    {
+      "name": "phone",
+      "duration": 59.84,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "frames": 1496,
+      "elapsedSeconds": 59.899
+    }
+  ],
+  "preservation": {
+    "result": "pass",
+    "previous_source_blobs_preserved": 17436,
+    "previous_public_blobs_preserved": 1949,
+    "source_exceptions": [
+      "docs/superpowers/plans/m8-adoption-progress.md"
+    ],
+    "public_exceptions": [
+      ".gitattributes",
+      "index.html"
+    ]
+  },
+  "limitations": [
+    "Unchanged exploratory provider limitations; see model contract",
+    "No physical-device, novice, spoken screen-reader, Safari or Firefox testing",
+    "200% root text is not browser zoom certification",
+    "Local checks and exact hosted assets are verified; no hosted source CI claim"
+  ],
+  "status": "Owner visual feedback pending; no merge",
+  "deployment_identity_note": "Exact deployment is the commit containing this receipt. Its full SHA and verified Pages build are recorded in source design/r4-v5/PUBLICATION.md."
+}
