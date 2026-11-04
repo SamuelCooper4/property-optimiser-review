@@ -1,0 +1,42 @@
+{
+  "iteration": "R4-v4",
+  "source": "2e630537d6f5b9e048eb47011f68c37335ba8941",
+  "pr": "https://github.com/SamuelCooper4/property-optimiser/pull/31",
+  "verification": "73 exploratory Python tests, 10 introduction tests, 21 JavaScript tests; 4,730 production backend tests passed (2 optional PyYAML warnings). Ruff and strict mypy (53 source files) passed. Independent source review approved.",
+  "browser": [
+    {
+      "width": 1440,
+      "journey": "passed",
+      "errors": [],
+      "axe": []
+    },
+    {
+      "width": 390,
+      "opening": {
+        "houseTop": 382.984375,
+        "sliderBottom": 309.984375,
+        "overflow": false
+      },
+      "stickyHeight": 73.265625,
+      "touch": "trusted CDP emulation; no page-scroll conflict",
+      "largeTextOverflow": false,
+      "axe": [],
+      "errors": []
+    },
+    {
+      "width": 320,
+      "opening": {
+        "houseTop": 382.984375,
+        "sliderBottom": 309.984375,
+        "overflow": false
+      },
+      "stickyHeight": 73.265625,
+      "touch": "trusted CDP emulation; no page-scroll conflict",
+      "largeTextOverflow": false,
+      "axe": [],
+      "errors": []
+    }
+  ],
+  "workerCases": 23,
+  "status": "Owner visual feedback pending"
+}

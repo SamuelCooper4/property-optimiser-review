@@ -1,0 +1,169 @@
+{
+  "recordedSourceCommit": "2e630537d6f5b9e048eb47011f68c37335ba8941",
+  "url": "http://127.0.0.1:8874/",
+  "normalSpeed": true,
+  "playbackSpeed": 1,
+  "editing": "None; continuous recordings including calculation waits.",
+  "physicalDevice": false,
+  "status": "passed",
+  "applicationAssets": [
+    {
+      "path": "index.html",
+      "bytes": 417,
+      "sha256": "5e9ef217d0bff7caab85757ccbdafe6d99acb2a2d6b276eb7ef8e2744e71ad50"
+    },
+    {
+      "path": "model.py",
+      "bytes": 54334,
+      "sha256": "321071da21e806a10c7726960331cedd854183187ba64ea4f3d26595515fc719"
+    },
+    {
+      "path": "model-worker.mjs",
+      "bytes": 706,
+      "sha256": "0ac185bda8b934ed12314f8f505de0d763f9332eb6dee5e5b5b778a006554076"
+    },
+    {
+      "path": "assets/index-CKTPYOHv.css",
+      "bytes": 64580,
+      "sha256": "97d05d620c4c8451742a39f13362ca577829bb5363269cc440d543c30927413a"
+    },
+    {
+      "path": "assets/index-D0COP4K3.js",
+      "bytes": 335597,
+      "sha256": "ac4b5b037217e598a059e0346e039c6a1bf60fc1e9c2e8f7192c97b9f3b4f344"
+    },
+    {
+      "path": "assets/InstrumentSans-s12UeAcm.ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    }
+  ],
+  "recordings": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "emulatedTouch": false,
+      "physicalDevice": false,
+      "playbackSpeed": 1,
+      "normalSpeed": true,
+      "status": "passed",
+      "file": "desktop.webm",
+      "errors": [],
+      "cues": [
+        {
+          "label": "Initial purchase decision",
+          "elapsedMs": 7284
+        },
+        {
+          "label": "Monthly trade-off and investment-minus-debt explanation",
+          "elapsedMs": 17091
+        },
+        {
+          "label": "Deposit funding boundary and actual reason",
+          "elapsedMs": 24193
+        },
+        {
+          "label": "Raise the second five-year deal; opening rate held",
+          "elapsedMs": 35770
+        },
+        {
+          "label": "Original choice first shortfall; revised deposit and term",
+          "elapsedMs": 40370
+        },
+        {
+          "label": "Second fix lasts two years; later deals shift",
+          "elapsedMs": 44837
+        },
+        {
+          "label": "Monthly evidence at the shifted renewal",
+          "elapsedMs": 50647
+        },
+        {
+          "label": "No investment growth: full search finds 140000 over20 years",
+          "elapsedMs": 61978
+        },
+        {
+          "label": "Original assumptions restored",
+          "elapsedMs": 74311
+        },
+        {
+          "label": "Funded entered monthly and one-off strategy",
+          "elapsedMs": 82049
+        },
+        {
+          "label": "Starting deposit and term under that commitment",
+          "elapsedMs": 84978
+        },
+        {
+          "label": "Optional strategy includes retaining the money; unchanged purchase decision",
+          "elapsedMs": 98845
+        }
+      ],
+      "durationWallSeconds": 101.591
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "emulatedTouch": true,
+      "physicalDevice": false,
+      "playbackSpeed": 1,
+      "normalSpeed": true,
+      "status": "passed",
+      "file": "mobile.webm",
+      "errors": [],
+      "cues": [
+        {
+          "label": "Initial purchase decision",
+          "elapsedMs": 9137
+        },
+        {
+          "label": "Monthly trade-off and investment-minus-debt explanation",
+          "elapsedMs": 20460
+        },
+        {
+          "label": "Deposit funding boundary and actual reason",
+          "elapsedMs": 27532
+        },
+        {
+          "label": "Raise the second five-year deal; opening rate held",
+          "elapsedMs": 39071
+        },
+        {
+          "label": "Original choice first shortfall; revised deposit and term",
+          "elapsedMs": 44373
+        },
+        {
+          "label": "Second fix lasts two years; later deals shift",
+          "elapsedMs": 49351
+        },
+        {
+          "label": "Monthly evidence at the shifted renewal",
+          "elapsedMs": 55181
+        },
+        {
+          "label": "No investment growth: full search finds 140000 over20 years",
+          "elapsedMs": 67005
+        },
+        {
+          "label": "Original assumptions restored",
+          "elapsedMs": 79059
+        },
+        {
+          "label": "Funded entered monthly and one-off strategy",
+          "elapsedMs": 87299
+        },
+        {
+          "label": "Starting deposit and term under that commitment",
+          "elapsedMs": 90240
+        },
+        {
+          "label": "Optional strategy includes retaining the money; unchanged purchase decision",
+          "elapsedMs": 104591
+        }
+      ],
+      "durationWallSeconds": 106.962
+    }
+  ]
+}
