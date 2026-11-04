@@ -1,0 +1,72 @@
+{
+  "iteration": "R4-v4",
+  "recorded_source_commit": "2e630537d6f5b9e048eb47011f68c37335ba8941",
+  "tested_source_commit": "2e630537d6f5b9e048eb47011f68c37335ba8941",
+  "source_wrapper_commit": "4d234acf24ef0cb6e4009b0d36cfee2fd73c7d10",
+  "publication_asset_commit": "7c7f66727f9543ec2605667d5087c7d943d6ea9b",
+  "source_branch": "design/m8-r4-v4",
+  "public_branch": "review/r4-v4",
+  "source_pr": "https://github.com/SamuelCooper4/property-optimiser/pull/31",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r4-v4/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/r4-v4/review.html",
+  "baseline_pr30_head": "e1386fa506775215ef5189c4da94482c6091b3a8",
+  "baseline_publication": "d07e3ec873a653422aff8c048e47e47cb4ce1d50",
+  "model_version": "r4-exploratory-v4",
+  "model_scope": "Isolated illustrative Decimal provider; production engine unchanged",
+  "previous_views": 20,
+  "retained_views": 20,
+  "tests": {
+    "exploratory_python": 73,
+    "intro_python": 10,
+    "javascript": 21,
+    "complete_worker_parity": 23,
+    "backend_clean_run": 4730,
+    "backend_warnings": 2,
+    "ruff": "pass",
+    "mypy_source_files": 53
+  },
+  "recordings": [
+    {
+      "name": "desktop",
+      "duration": 104.84,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "frames": 2621,
+      "elapsedSeconds": 104.936
+    },
+    {
+      "name": "mobile",
+      "duration": 108.76,
+      "ended": true,
+      "rate": 1,
+      "error": null,
+      "frames": 2719,
+      "elapsedSeconds": 108.858
+    }
+  ],
+  "preservation": {
+    "base": "d07e3ec873a653422aff8c048e47e47cb4ce1d50",
+    "prior_blobs_preserved": 1897,
+    "allowed_existing_changes": [
+      ".gitattributes",
+      "index.html"
+    ],
+    "recorded_application": "2e630537d6f5b9e048eb47011f68c37335ba8941",
+    "recorded_assets_rebuilt_identically": 6,
+    "result": "pass"
+  },
+  "hosted_source_ci": {
+    "status": "No hosted source workflow run was returned for design/m8-r4-v4",
+    "local_checks": "4730 backend tests; Ruff; mypy53;73 provider;10 intro;21 JS;23 full worker parity",
+    "checked_source": "2e630537d6f5b9e048eb47011f68c37335ba8941"
+  },
+  "limitations": [
+    "Sampled joint and timing searches, no global optimum",
+    "Deterministic paths, no probabilities",
+    "No tax/LISA eligibility, inflation, investment fees or lender-specific rules",
+    "No physical-device, novice, spoken screen-reader, Safari or Firefox test"
+  ],
+  "status": "Owner visual feedback pending; no merge or next iteration",
+  "deployment_identity_note": "The exact deployment is the commit containing this record. Its full SHA and verified Pages receipt are in source design/r4-v4/PUBLICATION.md; a file cannot include its own commit hash."
+}
