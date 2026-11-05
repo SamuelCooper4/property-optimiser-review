@@ -1,0 +1,12 @@
+{
+    "kind":  "S0 synthetic phone experiment",
+    "sourceCommit":  "9785643334b814c1047294f69ea1e2f03c863d77",
+    "buildId":  "f0513fcd2fc0831b6cfbe4f54b18cba9dbee889c96ae7973424a90e81ced008e",
+    "publicationParent":  "bb41477bcae1afcb3ce6c39e6683c072b51ac33b",
+    "publicBranch":  "review/r4-v5",
+    "url":  "https://samuelcooper4.github.io/property-optimiser-review/benchmarks/s0-20261105-v1/",
+    "synthetic":  true,
+    "scope":  "Local browser calculations, user-initiated local JSON export; no personal inputs or automatic result upload",
+    "sourcePR":  "https://github.com/SamuelCooper4/property-optimiser/pull/34",
+    "identityNote":  "Publication commit is the commit containing this receipt; source acceptance records it separately."
+}
