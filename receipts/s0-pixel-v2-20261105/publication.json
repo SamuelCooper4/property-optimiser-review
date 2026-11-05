@@ -1,0 +1,12 @@
+{
+  "scope": "S0 synthetic benchmark correction only; phone acceptance remains open",
+  "source_commit": "0d77ca2fae4ee855e58511995ef1161b04b3c6d7",
+  "build_id": "1f9fe51ad8135f1ffa6b4bdb38993699422091918e308af55ec100570b1d4f57",
+  "protocol": "s0-phone-v3",
+  "publication_parent": "6fe28b477a2dc09e9ac744eaa52385af0d240693",
+  "previous_publications_unchanged": true,
+  "path": "benchmarks/s0-20261105-v2/",
+  "clean_build": true,
+  "owner_packet": "docs/superpowers/plans/2026-11-05-s0-pixel-review.md",
+  "complete_desktop_evidence": "Added separately after the exact clean build finishes; not physical device evidence"
+}

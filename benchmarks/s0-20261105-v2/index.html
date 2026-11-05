@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>S0 · Synthetic phone benchmark</title><link rel="stylesheet" href="style.css"></head>
+<body><main>
+<p class="eyebrow">Property Optimiser · S0 experiment</p><h1>Test the calculation on your phone</h1>
+<p>Fixed synthetic examples only. This is a benchmark, not a personal comparison. No accounts,
+quote uploads, financial inputs or analytics. Results stay in this tab until you export them.</p>
+<p id="identity">Checking benchmark identity…</p>
+<section aria-labelledby="setup"><h2 id="setup">1. Test conditions</h2>
+<p>Use Chrome, keep this page visible and use Wi-Fi. Switching apps invalidates automated timing; restart if that happens. Close other demanding apps. The automated checks
+take several minutes; the first load downloads about 12 MB. New worker starts may reuse the browser’s network cache.</p>
+<label><input id="physical" type="checkbox"> I am running this on my physical Pixel 9 Pro XL</label>
+<div class="fields"><label>Android version (if automatic detection is incomplete)<input id="android" maxlength="50" placeholder="Settings → About phone → Android version"></label>
+<label>Chrome version (optional override)<input id="chrome" maxlength="80" placeholder="Chrome → Settings → About Chrome"></label>
+<label>Phone temperature<select id="thermal"><option>Normal</option><option>Warm</option><option>Unknown</option></select></label>
+<label>Power conditions<select id="power"><option>Battery, power saving off</option><option>Charging, power saving off</option><option>Power saving on</option><option>Unknown</option></select></label></div>
+</section>
+<section><h2>2. Automated checks</h2><p>30 fresh worker starts, 100 warm operations per primary workload,
+30-second uncached input sequences, heavy-work priority, cancellation and recovery. These generated inputs
+are recorded separately from your touch test. Timing observes DOM and animation frames; it is not optical video evidence.</p>
+<div class="buttons"><button id="run" disabled>Run automated checks</button><button id="stop" disabled>Stop checks</button></div>
+<p id="status" role="status" aria-live="polite">Starting the Python worker…</p><progress id="progress" max="1" value="0"></progress>
+</section>
+<section><h2>Linked synthetic figures</h2>
+<p id="pending">No complete snapshot yet.</p>
+<label for="deposit">Requested deposit (synthetic GBP)</label><input id="deposit" type="range" min="112500" max="139999" step="0.01" value="123456.78">
+<label for="month">Viewed month</label><input id="month" type="range" min="0" max="420" step="1" value="360">
+<div class="values"><div>Computed deposit<output id="deposit-value" data-financial></output></div>
+<div>Position at viewed month<output id="position" data-financial></output></div><div>Contractual debt<output id="debt" data-financial></output></div>
+<div>Viewed month<output id="view-month"></output></div></div>
+<svg id="graphic" viewBox="0 0 600 180" role="img" aria-label="Linked synthetic deposit, debt and position">
+<g transform="translate(0 10)"><rect id="deposit-bar" height="35" fill="#526e9d" data-financial/><text id="deposit-graphic" x="8" y="23" data-financial></text></g>
+<g transform="translate(0 65)"><rect id="debt-bar" height="35" fill="#95654d" data-financial/><text id="debt-graphic" x="8" y="23" data-financial></text></g>
+<g transform="translate(0 120)"><rect id="position-bar" height="35" fill="#416a50" data-financial/><text id="position-graphic" x="8" y="23" data-financial></text></g></svg>
+<p class="small">Bars are approximate drawing coordinates. All readouts and checks use the Python result’s exact strings. No browser financial arithmetic.</p>
+<details><summary>Exact snapshot</summary><pre id="exact"></pre></details>
+<button id="renewal" disabled>Recalculate one synthetic renewal</button>
+</section>
+<section><h2>3. Real touch checks</h2><p>After the automated checks, start a touch check. Only the named slider will be enabled. Move it continuously
+for about 20 seconds, release it, then press Finish. These are actual input events; automated input does not substitute for them.</p>
+<div class="buttons"><button id="touch-deposit" disabled>Start deposit touch check</button><button id="touch-scrub" disabled>Start scrub touch check</button><button id="touch-end" disabled>Finish touch check</button></div>
+<label>What you saw<select id="visible"><option value="not_observed">Not checked yet</option><option value="matching">Figures and bars visibly matched; no freezes noticed</option><option value="problem">I noticed mismatching figures, freezing or another problem</option></select></label>
+<label>Optional observation (no personal or financial information)<textarea id="observation" maxlength="500" rows="2"></textarea></label>
+</section>
+<section><h2>4. Export the synthetic evidence</h2><p>Download the JSON file and attach it in the S0 chat. It contains only synthetic
+inputs/results, version/device metadata and timing observations. No automatic upload occurs. Missing tests remain marked missing.</p>
+<div class="buttons"><button id="export" disabled>Download results</button><button id="copy" disabled>Copy results</button></div>
+<pre id="summary">No completed checks yet.</pre></section>
+</main><script type="module" src="app.mjs"></script></body></html>

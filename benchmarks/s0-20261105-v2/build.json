@@ -1,0 +1,26 @@
+{
+  "protocol": "s0-phone-v3",
+  "buildId": "1f9fe51ad8135f1ffa6b4bdb38993699422091918e308af55ec100570b1d4f57",
+  "sourceCommit": "0d77ca2fae4ee855e58511995ef1161b04b3c6d7",
+  "sourceWorkingTreeHadChanges": false,
+  "builtUTC": "2026-11-05T20:47:35.921320+00:00",
+  "synthetic": true,
+  "files": {
+    "app.mjs": "2738e93abcb8c00c471e41ad5b1140121b206ca4ae266b712c8f0a5e658eeb66",
+    "benchmark_bridge.py": "7adb7112662cf2e06f5a4ceb5abee9a459ba3366b96bc939a96d74dc7afd836f",
+    "index.html": "85b84f5721501009c58d89ea718e1644c77dcb8ab0e3f486b949ee3c236971ad",
+    "lab.py": "6dbd728fa7e9131539157f62b3ca59aa2276a540927f20a49ede87bcea286fcf",
+    "queue.mjs": "59394368315e55dd7bb1b63596e5245ff7786bbd079e5b7a5aa6fc5835b4b551",
+    "runtime/LICENSE.txt": "2684de17300e0a434686f1ec7f8af6045207a4b457a3fe04b2b9ce655e7c5d50",
+    "runtime/pyodide-lock.json": "3256ffc76388de0e37f4b34d42ab484268d1afc675179ff97b2a5bb14f84ccac",
+    "runtime/pyodide.asm.js": "f4f3c6f756c779f073af1a6324b83d10fd11a10fbae70c942c32a05383670285",
+    "runtime/pyodide.asm.wasm": "e2f4ee75b325e35eb31bfb8c613d4dd5098f5502c156a97847686875b5025480",
+    "runtime/pyodide.mjs": "2801bdbd2363ad0feaf0bd793d06d2c07716b5338ed6118945a0f8917e4269fc",
+    "runtime/python_stdlib.zip": "4298b6ee445cb724c3973437da47789752b9e6ff4e26619026b283ec801fc46b",
+    "runtime.mjs": "677e155d45b5a991833191667cddc99b7fb52c9549e6b3f21513da03c13af673",
+    "style.css": "169af781286c917b1847120c778cb9fcd5e2bbd0151e851afab0350f247166b7",
+    "worker.mjs": "48f5669dca9f45002653689a53e418e2e2352702a4b556d8a78373cb339474e6"
+  },
+  "runtimeBytes": 12300738,
+  "scope": "Experimental browser Python only; no production engine, personal inputs or server calculations"
+}
