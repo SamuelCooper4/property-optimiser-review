@@ -1,0 +1,19 @@
+{
+  "scope": "Desktop Chrome156 only, not corrected physical Pixel acceptance",
+  "source": "0d77ca2fae4ee855e58511995ef1161b04b3c6d7",
+  "build": "1f9fe51ad8135f1ffa6b4bdb38993699422091918e308af55ec100570b1d4f57",
+  "clean_source": true,
+  "samples": {
+    "fresh_workers": 30,
+    "warm_per_workload": 100,
+    "ordinary_drag_seconds": 30,
+    "loaded_drag_seconds": 30
+  },
+  "raw_sha256": "7f3a27d2c6825d37d9e3048f6158e7a21593434b37d05641890b374ba348519c",
+  "raw_bytes": 36396890,
+  "hosted_smoke_raw_sha256": "13e473f97a60cc611a7432ecd8a962b8a914b541225eb830820aa66d000cee83",
+  "command": "S0_FULL=1 node experiments/s0/continuation/check_phone.mjs (existing Playwright, URL served from exact clean build)",
+  "runtime_cache": "Fresh workers; HTTP cache may be warm; no result cache",
+  "physical_status": "v1 failed/incomplete; corrected owner export pending",
+  "latest_input_tradeoff": "Ordinary latest-at-observation cadence25.82Hz/gap550.2ms versus earlier desktop36.89Hz/266.7ms; coherent cadence remains59.97Hz/gap25ms. Loaded latest19.80Hz/gap433.4ms; coherent44.79Hz/gap78.5ms. No release threshold amended."
+}
