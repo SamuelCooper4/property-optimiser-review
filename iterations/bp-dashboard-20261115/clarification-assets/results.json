@@ -1,0 +1,122 @@
+{
+  "checks": [
+    {
+      "handoff": "smaller",
+      "deposit": "66379.29",
+      "term": 30,
+      "date": 120
+    },
+    {
+      "handoff": "larger",
+      "deposit": "90000.00",
+      "term": 30,
+      "date": 120
+    },
+    {
+      "markers": {
+        "diamond": 34,
+        "circle": 16,
+        "fill": "none",
+        "labelsClear": true
+      }
+    },
+    {
+      "phoneWidth": 320,
+      "targets": [
+        {
+          "x": 241,
+          "y": 358.46875,
+          "width": 44,
+          "height": 44,
+          "right": 285,
+          "bottom": 402.46875
+        },
+        {
+          "x": 241,
+          "y": 406.46875,
+          "width": 44,
+          "height": 44,
+          "right": 285,
+          "bottom": 450.46875
+        }
+      ],
+      "overflow": 0
+    },
+    {
+      "phoneWidth": 390,
+      "targets": [
+        {
+          "x": 311,
+          "y": 330.890625,
+          "width": 44,
+          "height": 44,
+          "right": 355,
+          "bottom": 374.890625
+        },
+        {
+          "x": 311,
+          "y": 378.890625,
+          "width": 44,
+          "height": 44,
+          "right": 355,
+          "bottom": 422.890625
+        }
+      ],
+      "overflow": 0
+    },
+    {
+      "phoneWidth": 768,
+      "targets": [
+        {
+          "x": 657,
+          "y": 330.875,
+          "width": 44,
+          "height": 44,
+          "right": 701,
+          "bottom": 374.875
+        },
+        {
+          "x": 657,
+          "y": 378.875,
+          "width": 44,
+          "height": 44,
+          "right": 701,
+          "bottom": 422.875
+        }
+      ],
+      "overflow": 0
+    }
+  ],
+  "errors": [],
+  "chapters": [
+    {
+      "seconds": 0,
+      "title": "Published graphics with revised household"
+    },
+    {
+      "seconds": 11.181,
+      "title": "Preserved progressive lessons and ten-year playback"
+    },
+    {
+      "seconds": 33.343,
+      "title": "Both illustrated choices hand off exact assumptions"
+    },
+    {
+      "seconds": 49.126,
+      "title": "Coincident markers remain distinct"
+    },
+    {
+      "seconds": 53.37,
+      "title": "Cash and overpayments in stacked and Why sections"
+    },
+    {
+      "seconds": 70.99,
+      "title": "Reachable example quote, edit, skip and exact returned coverage"
+    },
+    {
+      "seconds": 73.335,
+      "title": "Retained phone stacking and separate touch targets"
+    }
+  ],
+  "method": "Scripted Chromium, rendered-frame samples, emulated widths. No physical device or continuous human viewing."
+}

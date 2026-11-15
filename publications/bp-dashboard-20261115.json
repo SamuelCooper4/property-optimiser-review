@@ -1,0 +1,13 @@
+{
+  "iteration": "bp-dashboard-20261115",
+  "build_sha256": "9c6b7385e0f15a950a159c9154685b111488373f1ef6111066022b73a2d8b2d1",
+  "source_receipt": "3ba7896513763a78704022267cb8fbcfe4958407",
+  "prior_pages_branch": "review/r4-v5",
+  "prior_pages_commit": "1c6d1369f08c38c9a2a86cbfe5277e042b699e8d",
+  "public_branch": "review/bp-dashboard-20261115",
+  "prototype_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/bp-dashboard-20261115/",
+  "review_url": "https://samuelcooper4.github.io/property-optimiser-review/iterations/bp-dashboard-20261115/review.html",
+  "scope": "Owner-authorised public illustrative Python, unchanged financial calculations; production engine and live website excluded",
+  "verification": "Seven complete native/browser response parity cases; interactive/static and hosted checks recorded in private source handoff",
+  "status": "Owner hands-on review pending"
+}

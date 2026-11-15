@@ -1,0 +1,152 @@
+{
+  "checks": [
+    "frame-coherent opening deposit, payment and stable curve axis; release snap",
+    "unfunded future has no winner",
+    "scenario timeline retains visible pending identity",
+    "unknown financed fee and supplied fee summary",
+    "exact quote leaves unknown curve intervals",
+    {
+      "allSupportedTerms": [
+        {
+          "term": 15,
+          "valid": false
+        },
+        {
+          "term": 16,
+          "valid": false
+        },
+        {
+          "term": 17,
+          "valid": false
+        },
+        {
+          "term": 18,
+          "valid": false
+        },
+        {
+          "term": 19,
+          "valid": false
+        },
+        {
+          "term": 20,
+          "valid": false
+        },
+        {
+          "term": 21,
+          "valid": false
+        },
+        {
+          "term": 22,
+          "valid": false
+        },
+        {
+          "term": 23,
+          "valid": true
+        },
+        {
+          "term": 24,
+          "valid": true
+        },
+        {
+          "term": 25,
+          "valid": true
+        },
+        {
+          "term": 26,
+          "valid": true
+        },
+        {
+          "term": 27,
+          "valid": true
+        },
+        {
+          "term": 28,
+          "valid": true
+        },
+        {
+          "term": 29,
+          "valid": true
+        },
+        {
+          "term": 30,
+          "valid": true
+        },
+        {
+          "term": 31,
+          "valid": true
+        },
+        {
+          "term": 32,
+          "valid": true
+        },
+        {
+          "term": 33,
+          "valid": true
+        },
+        {
+          "term": 34,
+          "valid": true
+        },
+        {
+          "term": 35,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "phoneOverflow": 0
+    }
+  ],
+  "errors": [],
+  "chapters": [
+    {
+      "seconds": 0.495,
+      "title": "Dashboard and shared deposit scale"
+    },
+    {
+      "seconds": 5.914,
+      "title": "Slow and fast drags, exact edge"
+    },
+    {
+      "seconds": 15.262,
+      "title": "Day-one and monthly allocation"
+    },
+    {
+      "seconds": 17.998,
+      "title": "Stacked position, separate ranges and dock"
+    },
+    {
+      "seconds": 23.508,
+      "title": "Highest-selected state, retained by owner clarification"
+    },
+    {
+      "seconds": 26.932,
+      "title": "Non-100% allocation, retained by owner clarification"
+    },
+    {
+      "seconds": 36.911,
+      "title": "Mortgage future with no funded comparison"
+    },
+    {
+      "seconds": 39.97,
+      "title": "Investment future and retained preview while recalculating"
+    },
+    {
+      "seconds": 45.695,
+      "title": "Household panel"
+    },
+    {
+      "seconds": 48.501,
+      "title": "Quote panel and unknown financed fee"
+    },
+    {
+      "seconds": 52.602,
+      "title": "Phone: current behaviour, retained stacked layout"
+    },
+    {
+      "seconds": 55.796,
+      "title": "Preserved published introduction"
+    }
+  ],
+  "method": "Automated Chromium actions and rendered-frame samples. Recording inspection reported separately."
+}

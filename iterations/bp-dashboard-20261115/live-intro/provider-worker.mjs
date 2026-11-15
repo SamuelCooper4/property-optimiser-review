@@ -1,0 +1,1 @@
+const worker=new Worker(new URL('../model-worker.mjs',import.meta.url),{type:'module'});worker.onmessage=e=>postMessage(e.data);worker.onerror=e=>{throw Error(e.message)};onmessage=({data})=>worker.postMessage({...data,operation:'live-intro-data'});

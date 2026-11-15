@@ -1,0 +1,23 @@
+/* Shared by every page, including the interactive introduction. */
+.site-header{width:calc(100% - 56px);max-width:1080px;margin:0 auto;padding:28px 0;display:flex;align-items:center;justify-content:space-between;gap:24px;color:#233c34;font-family:Instrument,Arial,sans-serif;line-height:1.25}
+.site-brand{display:inline-flex;align-items:center;gap:12px;min-height:44px;white-space:nowrap;text-decoration:none;font-size:23px;font-weight:650;letter-spacing:-.8px;color:#233c34}
+.site-brand img{display:block;width:42px;height:42px;flex:none}
+.site-brand .brand-ampersand{color:#93482f}
+.site-header .site-nav{display:flex;align-items:center;gap:28px;font-size:16px;flex:none}
+.site-header .site-nav a{display:inline-flex;align-items:center;min-height:44px;padding:10px 0;text-decoration:none;text-underline-offset:6px;color:#233c34}
+.site-header .site-nav a:hover,.site-header .site-nav a[aria-current]{text-decoration:underline}
+.site-header a:focus-visible{outline:3px solid #93482f;outline-offset:4px}
+.skip{position:absolute;top:-100px;left:16px;background:#233c34;color:#f6f2e9;padding:14px;z-index:10}
+.skip:focus{top:10px}
+@media(max-width:600px){
+ .site-header{width:calc(100% - 40px);padding:18px 0;gap:16px}
+ .site-brand{font-size:19px;gap:8px;letter-spacing:-.6px}
+ .site-brand img{width:32px;height:32px}
+ .site-header .site-nav{font-size:15px;gap:20px}
+}
+@media(max-width:360px){
+ .site-header{width:calc(100% - 32px);gap:10px}
+ .site-brand{font-size:16px;gap:6px;letter-spacing:-.5px}
+ .site-brand img{width:28px;height:28px}
+ .site-header .site-nav{font-size:14px;gap:14px}
+}

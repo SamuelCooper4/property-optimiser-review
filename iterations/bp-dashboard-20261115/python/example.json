@@ -1,0 +1,18 @@
+{
+  "version": "bp-shared-example-2026-11-14-run-one",
+  "source": "bricks-and-pence-web@67ecf52fc94eefdfd89d8228f61d191ee02e23c8 intro/public/scenario.py and intro/src/Details.jsx",
+  "term_years": 30,
+  "objective_month": 120,
+  "inputs": {
+    "price": "450000", "total": "100000", "reserve": "10000",
+    "costs": "0", "monthly": "2300", "lisa": "0", "gift": "0",
+    "investment_return": "0.08", "cash_return": "0",
+    "bands": [["0.75", "0.04"], ["0.85", "0.05"], ["0.90", "0.06"]],
+    "allocation": ["1", "0", "0", "0"], "pricing_mode": "assumed",
+    "deals": [], "continuation": "0.045", "fallback": "cash",
+    "cap": "0.1", "stress_month": 0,
+    "as_of": "2026-11-14"
+  },
+  "cost_convention": "Owner authorised the introduction's zero-cost example. Purchase costs and product fees are excluded from this synthetic example, not inferred to be zero for real buyers. The previous dashboard deducted GBP 10000; that fixture remains historical.",
+  "continuation_convention": "Opening band rate stays fixed for the repayment term. Continuation 4.5% is inactive until an explicit mortgage future or supplied quote is selected."
+}

@@ -1,3 +1,13 @@
+# Latest tester: Bricks & Pence dashboard
+
+[Interactive dashboard](https://samuelcooper4.github.io/property-optimiser-review/iterations/bp-dashboard-20261115/) · [Updated introduction](https://samuelcooper4.github.io/property-optimiser-review/iterations/bp-dashboard-20261115/intro-compatible/) · [Review gallery](https://samuelcooper4.github.io/property-optimiser-review/iterations/bp-dashboard-20261115/review.html)
+
+This version runs the isolated illustrative Python model in your browser using the same vendored Pyodide runtime as the earlier tester. The owner explicitly authorised making this illustrative source public. It contains synthetic example data, with no production engine or private household data. Calculations are design illustrations, not production financial advice or lender approval. The first load downloads the browser runtime; subsequent calculation work runs in a worker.
+
+Earlier iterations and their evidence remain unchanged. The live bricksandpence.com website is separate and has not been changed.
+
+---
+
 # Property Optimiser: allocation animation review
 
 [Open the online review](https://samuelcooper4.github.io/property-optimiser-review/)
