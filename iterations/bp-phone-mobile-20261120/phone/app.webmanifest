@@ -1,0 +1,14 @@
+{
+  "name": "Bricks & Pence",
+  "short_name": "Bricks & Pence",
+  "lang": "en-GB",
+  "scope": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f2e9",
+  "theme_color": "#f6f2e9",
+  "icons": [
+    {"src": "icons/house-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/house-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

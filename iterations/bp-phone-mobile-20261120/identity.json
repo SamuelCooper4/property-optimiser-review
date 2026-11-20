@@ -1,0 +1,7 @@
+{
+  "iteration": "bp-phone-mobile-20261120",
+  "base": "/property-optimiser-review/iterations/bp-phone-mobile-20261120/",
+  "build_sha256": "21ee56b797ef2c224032119aee1704d08b43e8973d8430e24e9669279d22dced",
+  "fixture": "bp-phone-household-2026-11-20",
+  "manifest_files": 25
+}
