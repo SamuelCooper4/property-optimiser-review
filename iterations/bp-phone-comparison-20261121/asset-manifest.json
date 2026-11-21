@@ -1,7 +1,7 @@
 {
   "iteration": "bp-phone-comparison-20261121",
   "base": "/property-optimiser-review/iterations/bp-phone-comparison-20261121/",
-  "build_sha256": "d3b0c524f35ff8409ed963f6030a0450e673766da8c90d6d3cc46e912356b8a2",
+  "build_sha256": "16198728f0a0ac4b7cff2a90c9c6cbd6897a5fc8451d62ab11e6f6448553febd",
   "fixture": "bp-phone-household-2026-11-20",
   "manifest_files": 30,
   "files": {
@@ -17,11 +17,11 @@
     "phone/assets/comparison.css": "cce5fe242e581b8d970c1662026d447723acaef6f215d0445aada02f61909e08",
     "phone/assets/comparison.js": "ba8f41fe81f376cf5a1d1f5329b641f77428312632122d7f6dac06b55408e125",
     "phone/assets/phone.css": "4e96628e1aa2a933ee655baae5883d73d19a2ba4bc20390853fc51e48f375262",
-    "phone/assets/phone.js": "6fb14c4943187557bc4529905e1c1a9d5f8413af99163c62e28ac605d9ce6f66",
+    "phone/assets/phone.js": "9d401718fd83ec0a327d9dbdc4eae70a7592f986691aa3cb7e15e076f4e2ad52",
     "phone/icons/house-180.png": "04a2e4573b0cb977514859e2d4716cbb4b2e11f4fd59b04e04ae130fd7c2aeb3",
     "phone/icons/house-192.png": "13d4120a9adc5cabf0963c0e77523d93b044f6dc14e99a481c4c1a38942b1f71",
     "phone/icons/house-512.png": "e8b9c0b65a1238abd64ba0297bba1a3b98e8a6129f2caba8c81409b3b242de13",
-    "phone/index.html": "2d493674e510361ff1f2235bb8f61f67065d8c6e9d8bec2106feba725d142540",
+    "phone/index.html": "22cdc041eb47ff81224465d53b4c9691363a7094d2770c197b3e634018996d17",
     "python/model.py": "b15493dd79ed25b41b3656f434fb45c3388ea365dd9595ab365a4f88b0837b47",
     "python/phone-fixture.json": "4cd7ace60bbff91382c5a12a78c77d030a1dc083931b0e9fe74e7a47366ee8df",
     "python/phone_futures.py": "75ed249a1b1732ae877dec5d472e9e6145e3de9d9b575a2979a8f2e3511e080c",

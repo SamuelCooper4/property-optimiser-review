@@ -1,7 +1,7 @@
 {
   "iteration": "bp-phone-comparison-20261121",
   "base": "/property-optimiser-review/iterations/bp-phone-comparison-20261121/",
-  "build_sha256": "d3b0c524f35ff8409ed963f6030a0450e673766da8c90d6d3cc46e912356b8a2",
+  "build_sha256": "16198728f0a0ac4b7cff2a90c9c6cbd6897a5fc8451d62ab11e6f6448553febd",
   "fixture": "bp-phone-household-2026-11-20",
   "manifest_files": 30
 }
