@@ -34,3 +34,4 @@ iterations/r4-v5/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,
 iterations/r4-v5/fonts/OFL.txt -whitespace
 iterations/r4-v5/intro/fonts/OFL.txt -whitespace
 iterations/bp-dashboard-20261115/** -text -whitespace
+iterations/bp-phone-clarity-20261121/** -text -whitespace

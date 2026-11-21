@@ -1,0 +1,8 @@
+{
+  "iteration": "bp-phone-clarity-20261121",
+  "base": "/property-optimiser-review/iterations/bp-phone-clarity-20261121/",
+  "build_sha256": "2a4a0cb838077a3f777705fb62ddaa67949c987005589cf02e2c09ec4a47cf71",
+  "source_commit": "be9df88f566b040994816e3b0d44ca88a7e69b66",
+  "fixture": "bp-phone-household-2026-11-20",
+  "manifest_files": 28
+}
