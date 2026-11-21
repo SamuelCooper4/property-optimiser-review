@@ -1,0 +1,8 @@
+{
+  "iteration": "bp-phone-visual-design-20261121",
+  "base": "/property-optimiser-review/iterations/bp-phone-visual-design-20261121/",
+  "build_sha256": "f33314297ba0109f9f8cdcd09a71c866b33dc652748b6a613cf97bea13f6683e",
+  "source_commit": "73ca77b52f140f6ac37420fe232ee663ded2bb65",
+  "fixture": "bp-phone-household-2026-11-20",
+  "manifest_files": 29
+}
