@@ -1,0 +1,8 @@
+{
+  "iteration": "bp-phone-quotes-and-savings-20261121",
+  "base": "/property-optimiser-review/iterations/bp-phone-quotes-and-savings-20261121/",
+  "build_sha256": "2471d7f06a28a219cd4f8c24eddf66eb76a480ef24043d1410271255fbb75935",
+  "source_commit": "5fc09d311ce20be18ec08a73151a3cb4237e992f",
+  "fixture": "bp-phone-household-2026-11-20",
+  "manifest_files": 29
+}

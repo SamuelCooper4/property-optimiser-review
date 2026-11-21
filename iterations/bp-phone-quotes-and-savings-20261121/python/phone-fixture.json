@@ -1,0 +1,16 @@
+{
+  "version": "bp-phone-household-2026-11-20",
+  "source": {"name": "Rightmove weekly two-year fixed averages", "date": "2026-11-14", "fixed_months": 24, "kind": "assumed", "url": "https://www.rightmove.co.uk/news/articles/property-news/current-uk-mortgage-rates/"},
+  "term_years": 35,
+  "objective_month": 120,
+  "inputs": {
+    "price": "450000", "total": "100000", "reserve": "10000", "monthly": "2300",
+    "costs": "0", "lisa": "0", "gift": "0",
+    "investment_return": "0.08", "cash_return": "0",
+    "allocation": ["1", "0", "0", "0"], "cap": "0.10", "fallback": "cash",
+    "bands": [["0.60","0.0501"],["0.75","0.0534"],["0.85","0.0542"],["0.90","0.0560"]],
+    "pricing_mode": "assumed", "deals": [], "stress_month": 0, "as_of": "2026-11-20"
+  },
+  "continuation_convention": "The starting rate continues after its fixed period unless a renewal scenario is adopted. A supplied quote covers its LTV band across repayment terms and calibrates estimates for other bands.",
+  "assumptions": "Synthetic household. Constant house price, zero cash interest, no inflation or tax. Opening investments use unrestricted savings left after deposit, reserve, costs and upfront fee. Annual overpayment allowance is 10% of the opening balance each mortgage year for assumed rates. Unknown quoted allowances redirect surplus to cash during the fix."
+}
