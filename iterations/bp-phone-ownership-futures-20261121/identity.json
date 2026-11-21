@@ -1,0 +1,8 @@
+{
+  "iteration": "bp-phone-ownership-futures-20261121",
+  "base": "/property-optimiser-review/iterations/bp-phone-ownership-futures-20261121/",
+  "build_sha256": "b87e98676b7b10a5417cac1653e224df6bf73e4ffecb0aaa2da246dc627ae52c",
+  "source_commit": "4baf1df3e4ee9828d4e37477f7d48a2f45060f77",
+  "fixture": "bp-phone-household-2026-11-20",
+  "manifest_files": 31
+}
