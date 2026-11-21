@@ -1,0 +1,8 @@
+{
+  "iteration": "bp-phone-corrections-20261121",
+  "base": "/property-optimiser-review/iterations/bp-phone-corrections-20261121/",
+  "build_sha256": "608918d80196a2f5185f11ae997678bb8b1ee600dc358e2a426543a8fc06f465",
+  "source_commit": "60134665c98e26a310bede5a751f438801af8434",
+  "fixture": "bp-phone-household-2026-11-20",
+  "manifest_files": 27
+}
