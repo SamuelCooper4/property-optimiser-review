@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 125 520 230">
+  <!-- The homepage house and savings pot, before a deposit has been allocated. -->
+  <path d="M24 346H494" fill="none" stroke="#233c34" stroke-width="1.5"/>
+  <g transform="translate(4.12 96.6) scale(.72)">
+    <path d="M119 170V345H339V170L229 79Z" fill="#e5e8d9"/>
+    <path d="M119 170V345H339V170M97 186L229 76L361 186" fill="none" stroke="#233c34" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="153" y="190" width="43" height="42" rx="2" fill="#f6f2e9" stroke="#233c34" stroke-width="2"/>
+    <path d="M174.5 190V232M153 211H196" fill="none" stroke="#233c34" stroke-width="1.5"/>
+    <rect x="261" y="190" width="43" height="42" rx="2" fill="#f6f2e9" stroke="#233c34" stroke-width="2"/>
+    <path d="M282.5 190V232M261 211H304" fill="none" stroke="#233c34" stroke-width="1.5"/>
+    <rect x="209" y="287" width="40" height="58" rx="3" fill="#f6f2e9" stroke="#233c34" stroke-width="2"/>
+    <circle cx="238" cy="318" r="2" fill="#233c34"/>
+  </g>
+  <g transform="translate(20 0)">
+    <rect x="373" y="276" width="72" height="69" rx="15" fill="#df795b" stroke="#233c34" stroke-width="2"/>
+    <path d="M391 286H426" fill="none" stroke="#233c34" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="409" cy="252" r="15" fill="#f6f2e9" stroke="#233c34" stroke-width="2"/>
+    <text x="409" y="258" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#233c34">£</text>
+  </g>
+</svg>
